@@ -1,10 +1,25 @@
-# Analysing the Evolution of Public Ideas: An Application of Natural Language Processing
+# Bachelor Thesis: Automated Analysis of Social Science Ideas in Newspaper Media
 
-Of the numerous concepts and ideas proposed in the scholarly literature, only some ideas come to become public over time. Examining the social science ideas deployed in newspaper media, \citet{hallett2019public} proposes that the social science ideas become public ideas via three career stages: when they are used as objects of interest (being the news), as interpretants (making sense of the news) and eventually as a credibility signal (used to boost the credibility of a news story without discussion or analysis of the idea itself). This Bachelor's thesis aimed to use Natural Language Processing (NLP) tools for automating and scaling up the empirical analysis of social science ideas in newspaper media. We developed an information retrieval system of the social scientists to identify newspaper articles that mention a specific public idea, and we experimented with four different classification models to predict their career stages to develop an document classification System. The system was trained and evaluated using the gold standard of social science, which consisted of a sample of the public idea in the book 'The Bell Curve: Intelligence and Class Structure in American Life' authored by Charles Murray and Richard J. Herrnstein. The final objective was to extend the document classification system to additional public ideas in order to understand how social science ideas evolve into the public sphere and to help retrieving additional newspaper articles for the social scientists and to update their analysis of how the social science ideas evolve in newspaper articles.
+## Overview
 
+This Bachelor's thesis focused on the evolution and representation of social science ideas in newspaper media. Drawing inspiration from Hallett's (2019) framework, it investigated how these ideas transitioned through three career stages in the media: as objects of interest, interpretants, and credibility signals. The primary goal was to automate and scale up the empirical analysis of these ideas using Natural Language Processing (NLP).
 
+## Objective
 
-## Installation
+The objective was to create an information retrieval system capable of identifying newspaper articles that mentioned specific public ideas. This system used NLP to automate the classification of these ideas into their respective career stages. The development included experimenting with four different classification models to enhance the accuracy and efficiency of the document classification system.
 
+## Methodology
 
-## Usage
+The project involved:
+
+- Developing an information retrieval system tailored for social scientists.
+- Implementing and testing four classification models.
+- Training and evaluating these models using a high-quality dataset derived from 'The Bell Curve: Intelligence and Class Structure in American Life' by Charles Murray and Richard J. Herrnstein.
+
+## Final Goal
+
+The ultimate aim was to broaden the application of this document classification system to encompass a variety of public ideas. This extension sought to provide a deeper understanding of the progression of social science ideas in the public domain. Additionally, it aimed to aid social scientists in retrieving and updating their analysis of how these ideas were represented and evolved in newspaper articles.
+
+## Contributions
+
+This thesis contributed to the field by providing a novel approach to understanding the dissemination and evolution of social science ideas in the media. The use of NLP and machine learning offered a groundbreaking method for large-scale, efficient analysis.
