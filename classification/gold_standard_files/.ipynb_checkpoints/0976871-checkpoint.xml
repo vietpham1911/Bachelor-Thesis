@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cast Out By the Right</title>
+    <meta content="30LOUR$09" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="976871"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Conservatism (US Politics)</classifier>
+        <person class="indexing_service">Loury, Glenn C</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CEEDE113AF933A05752C1A961958260" item-length="1161" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cast Out By the Right</hl1>
+      </hedline>
+      <byline class="print_byline">By Glenn C. Loury</byline>
+      <byline class="normalized_byline">Loury, Glenn C</byline>
+      <dateline>BOSTON</dateline>
+      <abstract>
+        <p>Op-Ed article by Glenn C Loury says that as black conservative intellectual, he belongs to endangered species; says there are so few black critics of racial liberalism that he finds his voice amplified; disagrees with black liberals who think racial loyalty must propel every 'authentic black' to left wing of political spectrum; says what is needed is morally astute, politically mature conservatism that acknowledges personal responsibility as one part of social contract but also understands importance of collective responsibility; diagram (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Try to understand my problem. As a black conservative intellectual, I belong to an endangered species. For if few conservatives choose to think of themselves as intellectuals, even fewer blacks can pass muster as conservatives.</p>
+        <p>Not that my position is uncomfortable. With black critics of racial liberalism being such a rare breed, I have found my voice amplified on a range of issues.</p>
+      </block>
+      <block class="full_text">
+        <p>Try to understand my problem. As a black conservative intellectual, I belong to an endangered species. For if few conservatives choose to think of themselves as intellectuals, even fewer blacks can pass muster as conservatives.</p>
+        <p>Not that my position is uncomfortable. With black critics of racial liberalism being such a rare breed, I have found my voice amplified on a range of issues.</p>
+        <p>Recently, however, I have been unable to shake a troubling thought: The designation ''black conservative intellectual'' may not be merely anomalous but oxymoronic.</p>
+        <p>I should say at the outset that I disagree with those black liberals who think racial loyalty must propel every ''authentic black'' to the left wing of the political spectrum. And I reject the tenet that no ''real intellectual'' can ever embrace conservatism.</p>
+        <p>Today, in fact, the governing political philosophy in America is a (mildly) conservative one, and a growing number of blacks embrace political, economic and social conservatism -- some because they are religious traditionalists, others because they are middle-class suburbanites concerned about high taxes and too much government.</p>
+        <p>I am a bit of both, and so for more than a decade now I have found myself at home within the conservative intellectual movement.</p>
+        <p>But in the last few years, conservative intellectuals have developed an inflexible, hard-edged dogma when it comes to race. There was a time, from the mid-1970's through the late 1980's, when some of the most nuanced and serious thinking about race came from the right -- whether it was James Q. Wilson's work on adolescent criminal behavior, Nathan Glazer's criticism of racial quotas or Charles Murray's analysis of the welfare state. They were concerned about the plight of black Americans. And their writing had a subtlety of thought and a generosity of spirit.</p>
+        <p>But today conservative discourse on race has largely been reduced to sloganeering, filled with references to black criminality, illegitimacy and cultural pathology. This talk does not describe a tragedy shared by us all. Instead it denounces a cultural failing said to threaten our civilization.</p>
+        <p>A ''get out of the wagon and help the rest of us push'' approach to indigent families and a ''lock 'em up and throw away the key'' attitude toward inner-city law-breakers have become staples of conservative ideology. There is scarcely a thought given to the impact such policies will have on poor black communities.</p>
+        <p>Once conservatives battled rigid quotas. Now they attack all affirmative action programs meant to encourage greater inclusion of blacks in American institutions. Once conservatives promoted programs that required work in exchange for welfare benefits. Now they want to cut families off benefits entirely.</p>
+        <p>Black conservative intellectuals are faced with rebutting arguments like those made by Charles Murray in ''The Bell Curve,'' which suggested that blacks might be genetically inferior, or countering arguments made by Dinesh D'Souza in ''The End of Racism,'' which held that blacks are culturally inferior.</p>
+        <p>A few weeks ago when I suggested to a gathering of conservatives that their seeming hostility to every social program smacked of indifference to the poor, I was told that a surgeon could not properly be said to have no concern for a terminally ill patient simply because he had moved on to the next case. The analogy alone speaks volumes.</p>
+        <p>Just last month, I heard a top aide to a Midwestern Republican senator tell cultural conservatives that, in the name of restoring ''traditional American values,'' his boss sought to ''build a bridge to the 19th century.'' (Now that's turning back the clock!)</p>
+        <p>I have tried to argue with my fellow conservatives about the nuances, complexities and moral ambiguities of issues like welfare, affirmative action and drug control policy. But I have succeeded only in arousing the suspicion that I am not a ''true believer.''</p>
+        <p>Indeed, my views on affirmative action have evolved, and that is seen as a betrayal. At a conference in Washington this fall of conservative intellectuals, I suggested that a modest degree of affirmative action in higher education could be justified. That prompted an angry response from Norman Podhoretz, the conservative writer and editor, who called me ''disingenuous'' and added, ''I much prefer the old Glenn Loury to the new one.'' The discussion limped along from there.</p>
+        <p>My dilemma is not unique. Consider the case of Robert Woodson Sr., the president of the National Center for Neighborhood Enterprise. For 20 years, Mr. Woodson has been criticizing the agenda of black liberals, but he has also been helping grass-roots organizations expand economic opportunities in their low-income communities.</p>
+        <p>It distresses Mr. Woodson that so little interest in this work is shown by some conservative intellectuals even as they insist that government has no answers and that blacks must help themselves. Indeed, two years ago, Mr. Woodson and I publicly terminated our association with the conservative American Enterprise Institute for its support of Mr. D'Souza, who was a research fellow there.</p>
+        <p>Mr. Woodson has also rebuffed conservatives who want him to speak out against affirmative action. He fears that other African-Americans may see him as an instrument of forces hostile to blacks' interests. Mr. Woodson has a valid point, but few conservatives can see it. They think he is hostile to conservative interests -- even though his work otherwise embodies the very ideals they uphold!</p>
+        <p>The fact, as chilling as it is unavoidable, is that many among the conservative elite seem tone-deaf on the issue of race. They can't see that our country's moral aspirations -- to be ''a city on a hill,'' a beacon of hope and freedom to all the world -- seem impossible when one sees the despair of so many of those Americans who descend from slaves.</p>
+        <p>We have unfinished business on the race front, and it won't be finished simply by enacting tax cuts, approving school vouchers, continuing the war on drugs or reforming welfare.</p>
+        <p>Some conservatives understand this. Michael Joyce, the president of the Lynde and Harry Bradley Foundation, is one. John DiIulio, the Princeton political science professor, who promotes the work of inner-city churches with at-risk youths, is another. But they are exceptions.</p>
+        <p>We need a morally astute, politically mature conservatism that acknowledges personal responsibility as one part of the social contract but also understands the importance of collective responsibility. ''Those people'' who now languish in America's central cities are ''our'' people, and ''we'' must build relationships with them. We cannot simply abandon them or leave them to their own devices.</p>
+        <p>The fault lies not with conservatism per se but with those conservatives who fail to see that their creed is entirely consistent with the creative use of the moral imagination.</p>
+        <p>Glenn C. Loury is director of the Institute on Race and Social Division at Boston University.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Glenn C. Loury is director of the Institute on Race and Social Division at Boston University.</tagline>
+    </body.end>
+  </body>
+</nitf>

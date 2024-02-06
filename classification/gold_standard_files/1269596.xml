@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Tilling History With Biology's Tools; The Field Opens Up (a Bit) to Darwinist Explanations</title>
+    <meta content="10HIST$01" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Arts" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/10/arts/10HIST.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1269596"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">History</classifier>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <person class="indexing_service">Eakin, Emily</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010210T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9903E4DB1231F933A25751C0A9679C8B63" item-length="1624" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Tilling History With Biology's Tools; The Field Opens Up (a Bit) to Darwinist Explanations</hl1>
+      </hedline>
+      <byline class="print_byline">By EMILY EAKIN</byline>
+      <byline class="normalized_byline">Eakin, Emily</byline>
+      <abstract>
+        <p>Article discusses how history and biology coalesce to form discipline of biohistory, lens through which history, sociology and behavior are examined; drawing; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Evolutionary biology has become the scholarly equivalent of Starbucks or the Gap. Neo-Darwinist explanations for everything from artistic creativity to morality and rape spill off the presses. Every academic department, it seems, has its biology-enamored theorist. Every department, that is, except history.</p>
+        <p>Until recently, historians were virtually the only remaining holdouts in an otherwise successful conquest of American universities by the science of innate traits, adaptive strategies and biological imperatives.</p>
+      </block>
+      <block class="full_text">
+        <p>Evolutionary biology has become the scholarly equivalent of Starbucks or the Gap. Neo-Darwinist explanations for everything from artistic creativity to morality and rape spill off the presses. Every academic department, it seems, has its biology-enamored theorist. Every department, that is, except history.</p>
+        <p>Until recently, historians were virtually the only remaining holdouts in an otherwise successful conquest of American universities by the science of innate traits, adaptive strategies and biological imperatives.</p>
+        <p>To some degree, their resistance was based on moral qualms. From the late 19th-century social Darwinists, who invoked evolution to justify nationalism, war and poverty, to more recent thinkers like Richard J. Herrnstein and Charles Murray, whose 1994 book ''The Bell Curve'' linked intelligence, race and genes, biological accounts of human affairs have frequently been accused of being simplistic and biased.</p>
+        <p>As Robert S. McElvaine, a historian at Millsaps College in Jackson, Miss., put it in a talk at the American Historical Association's annual convention last month, ''Connecting biology with history is a practice that does not have a distinguished pedigree.''</p>
+        <p>But Mr. McElvaine was forging ahead anyway. He was one of the principal organizers of the convention's panel on biohistory, the first of its kind.</p>
+        <p>''The time is past when historians or the general public can afford to ignore the valid findings of science because some researchers have abused this sort of investigation and reached outrageous conclusions,'' Mr. McElvaine said in a speech that had the crusading ring of a manifesto. ''So far what we have generally had is evolutionary science without the perspective of history and history without the perspective of evolution. Now the attempt must be made to bring together neo-Darwinian evolutionary biology and history to form a new way of understanding the human experience: biohistory.''</p>
+        <p>Biohistory is still so new that its practitioners can be counted on one hand. Among the initial efforts are ''Creation of the Sacred: Tracks of Biology in Early Religions'' (Harvard University Press, 1996) by Walter Burkert, a Swiss classicist, and ''Brutality and Benevolence: Human Ethology, Culture and the Birth of Mexico'' (Greenwood, 1996) by Abel A. Alves, a historian of the Spanish empire who teaches at Ball State University.</p>
+        <p>Noting that some form of religion is found in all human societies, Mr. Burkert proposed that basic religious rituals like animal sacrifice and food-sharing had their roots in survival strategies used by early humans and their primate cousins.</p>
+        <p>Mr. Alves turned to biology while investigating the eating habits of the Aztecs and the Spaniards during the Spanish conquest of Mexico in the 16th century. ''I found that both groups had tendencies to create hierarchies of food -- the Spanish said maize is fit only for burros, for example -- and to engage in food-sharing,'' he said in an interview. ''That prompted me to look for universals. I found these things were also true of chimp culture.''</p>
+        <p>In his book, Mr. Alves applies a biological analysis to a broad range of behaviors exhibited by both the Spaniards and their victims, including benevolence, brutality, xenophobia and curiosity. From this perspective, a diplomatic meeting between the Spanish conquistador Hernando Cortés and Aztec ambassadors is less a contest of wits than of primate-like status displays. Mr. Alves compares Cortés's decision to have his men arrive at the meeting on horseback, their armor clanging with bells, to the behavior of Mike, a Tanzanian chimp studied by Jane Goodall, who achieved alpha male status in his band by banging on some empty kerosene cans and intimidating the other males.</p>
+        <p>''Mike used a noisy metallic display to gain power,'' Mr. Alves said. ''I would characterize that as the kind of agonistic display you find across human cultures, although we can do it often enough with words. In this case, the Spaniards were more likely to use symbolic and visual display than on other occasions.''</p>
+        <p>While much current historical scholarship emphasizes the unique features of cultures, populations and historical moments, biological explanations stress similarities between groups and even species. For some historians this is part of biohistory's appeal. ''Cultural relativism frightens me,'' Mr. Alves said. ''You almost have alien species at war with each other, the emphasis on differences can be so great.''</p>
+        <p>Similarly for Mr. McElvaine, biology provided a way of redressing what he believed was an overemphasis on differences, specifically differences between the sexes. A historian of 20th-century America, Mr. McElvaine turned to science while studying Barry Goldwater's 1964 presidential campaign, in particular his appeal to traditional values.</p>
+        <p>''I began to see how some values were perceived as masculine -- aggressiveness, competitiveness -- and some as feminine -- things like compassion and cooperation -- and I wondered whether what was shaping values was innate,'' Mr. McElvaine said in a telephone interview. A foray into the history of human evolution convinced him the answer was complicated enough to warrant an entire book.</p>
+        <p>In ''Eve's Seed: Biology, the Sexes and the Course of History'' (McGraw-Hill, 2000), Mr. McElvaine argues that biological differences between the sexes were originally of much less consequence than contemporary stereotypes about strong men and weak women would suggest.</p>
+        <p>In early hunter and gatherer societies, he writes, men and women shared power more or less equally. Men hunted, women foraged for edible plants. The labor of both sexes was essential for the survival of the group.</p>
+        <p>Then agriculture was invented, a development that Mr. McElvaine attributes to women. No longer called upon to be hunters and unable to bear or nourish children, men suddenly found themselves -- around 8000 B.C. -- out of a job.</p>
+        <p>''Hunting is of no particular value when you can herd,'' Mr. McElvaine said. ''Meanwhile, women's chief role in reproduction is not only still there but greatly enhanced. Men have to start looking for new roles and move in to take over agriculture.''</p>
+        <p>According to Mr. McElvaine, the legacy of this prehistoric sex role imbalance is what evolutionary biologists call a ''maladaptive strategy,'' and what feminists call patriarchy.</p>
+        <p>Aggressive male hunting behavior, which had been advantageous on the African savannah, gets redirected toward other men (war) and especially women. The succeeding millenniums of male dominance and female subjugation, whether in tales about Adam and Eve's expulsion from the Garden of Eden or Bill Clinton's skirt-chasing, he says, should be understood as the effect of men trying to compensate for the roles for which human evolution had designed them and which an accident of history had deprived them.</p>
+        <p>Like other biohistorians, Mr. McElvaine often cites the work of E. O. Wilson, a renowned Harvard scientist. He invited Mr. Wilson to speak at the association panel on biohistory. Mr. Wilson, who had been heckled at conferences in the 1970's when he first proposed that biology might be used to explain social behavior, talked about human traits believed to be universal, such as preferences for where to live. (When given a choice, people of various backgrounds opt for high ground surrounded by open space and near a large body of water.)</p>
+        <p>This, Mr. Wilson explained, ''is probably the residue of our evolution, which took place in bulk on the African savannah.''</p>
+        <p>For historians trying to figure out precisely how evolutionary science would alter interpretations of, say, why the North won the Civil War or an analysis of the New Deal, the panel appeared to raise more questions than it answered.</p>
+        <p>''This is prehistory,'' one perplexed member of the audience commented during the question-and-answer session. ''There is very little a historian can know about it. And it seems a little circular. You take the data from history and say this can be explained by conditions that existed in prehistory? I'm not sure I get it.''</p>
+        <p>Other historians harbor similar reservations. ''Where's the evidence?'' asked Joan Wallach Scott, a historian at the Institute for Advanced Study in Princeton, who did not attend the panel but who has written critically about the use of biology by historians. ''These reductive biological explanations obviate the need for interesting close readings. You end up with claims like: men go to war, there's innate aggression in all humans, especially men, and that we're stuck with a lot of maladaptive behaviors. It's driven by a fantasy of total knowledge, a drive for a unified theory of everything.''</p>
+        <p>To the new wave of biohistorians, such skepticism is misplaced. ''The amount of biology that can serve a useful purpose in history is relatively small but nonetheless important,'' Mr. McElvaine said. ''It's clear to me that there are innate tendencies that can be brought under control but can't be ignored.''</p>
+        <p>Bobbi Low, a professor of ecology at the University of Michigan who also spoke at the session, said in an interview that the dialogue between the disciplines was just beginning. ''At one end of the biological continuum are the universal questions about what it means to be human,'' she said. ''At one end of the historical continuum is the question of how Talleyrand's club foot changed the course of history. But there's a lot of overlap in the middle.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

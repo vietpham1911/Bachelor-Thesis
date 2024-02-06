@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725188"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">ZAPPARDINO, PAMELA</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9400EFD61F3EF930A25752C1A962958260" item-length="230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne is correct in noting that "it is sometimes difficult to tell good statistics from bad ones." But as executive director of the National Center for Fair and Open Testing, I believe a review of the sources on which arguments are based can help sort out truth from ideologically motivated exaggerations.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne is correct in noting that "it is sometimes difficult to tell good statistics from bad ones." But as executive director of the National Center for Fair and Open Testing, I believe a review of the sources on which arguments are based can help sort out truth from ideologically motivated exaggerations.</p>
+        <p>For example, the claim that the decline in average S.A.T. scores reflects a decline in "aptitude" or whatever it is that the test measures is a textbook case of statistical misuse. In fact, norms for the S.A.T. were originally based on a group of about 10,000 students -- largely rich, white and male -- who took the test in 1941. It should hardly be surprising that the broader pool of more than 1.1 million current annual test takers would post lower average scores.</p>
+        <p>Similarly, the Armed Forces Qualifying Test, on which Richard J. Herrnstein and Charles Murray rely heavily, has been shown to mismeasure the abilities of many young men. Because of an error in setting norms for the test, the United States military accepted a much higher percentage of low-scoring enlistees than it intended from 1976 to 1980. Yet the on-the-job performance of those new soldiers -- who would have been rejected if the test had been scored properly -- was essentially the same as those who really "passed."  PAMELA ZAPPARDINO  Cambridge, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

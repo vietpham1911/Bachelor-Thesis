@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>SCIENTIST AT WORK/Steven Pinker; In Nature vs. Nurture, a Voice for Nature</title>
+    <meta content="17PINK$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/17/science/social/17PINK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1424320"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <series series.name="Scientist at Work"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="indexing_service" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Pinker, Steven (Dr)</person>
+        <person class="indexing_service">Wade, Nicholas</person>
+        <object.title class="indexing_service">Blank Slate, The: The Modern Denial of Human Nature (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./New England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Scientist at Work</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Sociology</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sociology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020917T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9407EFDE1730F934A2575AC0A9649C8B63" item-length="2120" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>SCIENTIST AT WORK/Steven Pinker; In Nature vs. Nurture, a Voice for Nature</hl1>
+        <hl2 class="online_headline">In Nature vs. Nurture, a Voice for Nature</hl2>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+      <byline class="normalized_byline">Wade, Nicholas</byline>
+      <abstract>
+        <p>Scientist At Work column profiles Massachusetts Institute of Technology language psychologist Dr Steven Pinker; Pinker's new book, The Blank Slate: The Modern Denial of Human Nature, seeks to open discussions about role that genes play in shaping human behavior; photo; chart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Who should define human nature? When the biologist Edward O. Wilson set out to do so in his 1975 book ''Sociobiology,'' he was assailed by left-wing colleagues who portrayed his description of genetically shaped human behaviors as a threat to the political principles of equal rights and a just society.</p>
+        <p>Since then, a storm has threatened anyone who prominently asserts that politically sensitive aspects of human nature might be molded by the genes. So biologists, despite their increasing knowledge from the decoding of the human genome and other advances, are still distinctly reluctant to challenge the notion that human behavior is largely shaped by environment and culture. The role of genes in shaping differences between individuals or sexes or races has become a matter of touchiness, even taboo.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Steven Pinker, a psychologist of language, is trying to make it safer for biologists to theorize about the genetics of human behavior.</p>
+      </block>
+      <block class="full_text">
+        <p>Who should define human nature? When the biologist Edward O. Wilson set out to do so in his 1975 book ''Sociobiology,'' he was assailed by left-wing colleagues who portrayed his description of genetically shaped human behaviors as a threat to the political principles of equal rights and a just society.</p>
+        <p>Since then, a storm has threatened anyone who prominently asserts that politically sensitive aspects of human nature might be molded by the genes. So biologists, despite their increasing knowledge from the decoding of the human genome and other advances, are still distinctly reluctant to challenge the notion that human behavior is largely shaped by environment and culture. The role of genes in shaping differences between individuals or sexes or races has become a matter of touchiness, even taboo.</p>
+        <p>A determined effort to break this silence and make it safer for biologists to discuss what they know about the genetics of human nature has now been begun by Dr. Steven Pinker, a psychologist of language at the Massachusetts Institute of Technology. In a book being published by Viking at the end of this month, ''The Blank Slate: The Modern Denial of Human Nature,'' he seeks to create greater political elbow room for those engaged in the study of the ways genes shape human behavior. ''If I am an advocate, it is for discoveries about human nature that have been ignored or suppressed in modern discussions of human affairs,'' he writes.</p>
+        <p>A principal theme of Dr. Pinker's argument is that the blank slaters -- the critics of sociobiology and their many adherents in the social sciences -- have sought to base the political ideals of equal rights and equal opportunity on a false biological premise: that all human minds are equal because they are equally blank, equally free of innate, genetically shaped, abilities and behaviors.</p>
+        <p>The politics and the science must be disentangled, Dr. Pinker argues. Equal rights and equal opportunities are moral principles, he says, not empirical hypotheses about human nature, and they do not require a biological justification, especially not a false one.</p>
+        <p>Moreover, the blank slate doctrine has political consequences that have been far from benign, in Dr. Pinker's view. It encourages totalitarian regimes to excesses of social engineering. It perverts education and child-rearing, loading unmerited guilt on parents for their children's failures.</p>
+        <p>In his book he reproaches those who in his view have politicized the study of human nature from both the left and the right, though in practice more of his fire is directed against the left, particularly the critics of sociobiology. They have created a climate in which ''discoveries about human nature were greeted with fear and loathing because they were thought to threaten progressive ideals,'' he writes.</p>
+        <p>He accuses two of them -- Dr. Richard Lewontin, a population geneticist at Harvard, and the late Dr. Stephen J. Gould, a historian of science -- of ''25 years of pointless attacks'' on Dr. Wilson and on Dr. Richard Dawkins, author of ''The Selfish Gene,'' for allegedly saying certain aspects of behavior are genetically determined.</p>
+        <p>And he chides the sociobiology critics for turning a scholarly debate ''into harassment, slurs, misrepresentation, doctored quotations, and, most recently, blood libel.'' In a recent case, two anthropologists accused Dr. James Neel, a founder of modern human genetics, and Dr. Napoleon Chagnon, a social anthropologist, of killing the Yanomamö people of Brazil to test genetic theories of human behavior, a charge Dr. Pinker analyzes as without basis in fact.</p>
+        <p>With this preemptive strike in place, Dr. Pinker sets out his view of what science can now say about human nature. This includes many of the ideas laid out by Dr. Wilson in ''Sociobiology'' and ''On Human Nature,'' updated by recent work in evolutionary psychology and other fields.</p>
+        <p>Dr. Pinker argues that significant innate behavioral differences exist between individuals and between men and women. Discussing child-rearing, he says that children's characters are shaped by their genes, by their peer group and by chance experiences; parents cannot mold their children's nature, nor should they wish to, any more than they can redesign that of their spouses. Those little slates are not as blank as they may seem.</p>
+        <p>Dr. Pinker has little time for two other doctrines often allied with the Blank Slate. One is ''the Ghost in the Machine,'' the assumption of an immaterial soul that lies beyond the reach of neuroscience, and he criticizes the religious right for thwarting research with embryonic stem cells on the ground that a soul is lurking within.</p>
+        <p>The third member of Dr. Pinker's unholy trinity is ''the Noble Savage,'' the idea that the default state of human nature is mild, pacific and unacquisitive. Dr. Pinker believes, to the contrary, that dominance and violence are universal; that human societies are more given to an ethos of reciprocity than to communal sharing; that intelligence and character are in part inherited, meaning that ''some degree of inequality will arise even in perfectly fair economic systems,'' and that all societies are ethnocentric and easily roused to racial hatred.</p>
+        <p>Following in part the economist Thomas Sowell, he distinguishes between a leftist utopian vision of human nature (the mind is a blank slate, man is a Noble Savage, traditional institutions are the problem) and the tragic vision preferred by the right (man is the problem; family, creed and Adam Smith's Invisible Hand are the solutions).</p>
+        <p>''My own view is that the new sciences of human nature really do vindicate some version of the tragic vision and undermine the utopian outlook that until recently dominated large segments of intellectual life,'' he writes.</p>
+        <p>With ''The Blank Slate,'' Dr. Pinker has left the safe territory of irregular verbs. But during a conversation in his quiet Victorian house a few blocks from the bustle of Harvard Square, he seemed confident of dodging the explosions that have rocked his predecessors. ''Wilson didn't know what he was getting into and had no idea it would cause such a ruckus,'' he said. ''This book is about the ruckus; it's about why people are so upset.''</p>
+        <p>''It's conceivable that if you say anything is innate, people will say you are racist, but the climate has changed,'' he says. ''I don't actually believe that the I.Q. gap is genetic, so I didn't say anything nearly as inflammatory as Herrnstein and Murray,'' the authors of the 1994 book ''The Bell Curve,'' who argued that inborn differences in intelligence explain much of the economic inequality in American society.</p>
+        <p>Despite his confidence, Dr. Pinker is explicitly trying to set off an avalanche. He compares the overthrow of the blank slate view to another scientific revolution with fraught moral consequences, that of Galileo's rejection of the church's ideas about astronomy. ''We are now living, I think, through a similar transition,'' he writes, because the blank slate, like the medieval church's tidy hierarchy of the cosmos, is ''a doctrine that is widely embraced as a rationale for meaning and morality and that is under assault from the sciences of the day.''</p>
+        <p>Dr. Pinker is not the fire-breathing kind of revolutionary. He has a thick mop of curly brown hair, edged respectably with gray, and a mild, almost diffident manner. A writer for the Canadian magazine Macleans described Dr. Pinker, who was born in Montreal, as ''endearingly Canadian: polite, soft-spoken, attentive to what others say.'' Teased about this description, he notes that Canadians also gave the world ice hockey.</p>
+        <p>Born in 1954, he grew up in the city's Jewish community, in the neighborhood described in Mordecai Richler's novel ''The Apprenticeship of Duddy Kravitz.'' He was caught up in the debates of the 60's and 70's about social organization and human nature, but found his teenage anarchist views of the nobility of human nature dealt a sharp empirical refutation by the Montreal police strike of 1969; in the absence of authority, Montrealers turned immediately to lawlessness, robbing 6 banks and looting 100 stores before the Mounties restored order.</p>
+        <p>Trained as an experimental psychologist at Harvard, Dr. Pinker took up the study of language and became convinced that the brain's linguistic ability must rest on built-in circuitry. This made him think other faculties and behaviors could be innate, despite the unpopularity of the idea. ''People think the worst environmental explanation is preferable to the best innatist explanation,'' he says.</p>
+        <p>Dr. Pinker first became known outside his specialty through his 1994 book ''The Language Instinct,'' an approachable account of how the brain is constructed to learn language. He followed up that success with ''How the Mind Works,'' in which he shared his enthusiasm for the ideas of evolutionary psychology. ''The Blank Slate'' further broadens his ambit from neuroscience to political and social theory.</p>
+        <p>Like Edward O. Wilson, who began as a specialist in ants and mastered ever larger swaths of biology, Dr. Pinker has a gift of summarizing other specialists' works into themes that are larger than their parts. Synthesisers are rare animals in the academic zoo because they risk being savaged by those whose territory they invade. ''Everything in the study of human behavior is controversial, and if you try to sum it up you will ride roughshod over specialists, so you've got to have a strong stomach,'' Dr. Pinker said.</p>
+        <p>The critics of sociobiology caricatured their opponents as ''determinists,'' even though few, if any, people believe human nature is fully determined by the genes. Could Dr. Pinker's description of the Blank Slate similarly overstate their views? He says he shows at length how critics like Dr. Lewontin have made statements that ''are really not too far from the collection of positions that I call the Blank Slate,'' with Dr. Lewontin and others having even written a book called ''Not in Our Genes.''</p>
+        <p>Though Dr. Pinker believes the politics and science of human nature should be disentangled, that does not mean political arrangements should ignore or ride roughshod over human nature. To the contrary, a good political system ''should mobilize some parts of human nature to rein in other parts.'' The framers of the Constitution took great interest in human nature and ''by almost any measure of human well-being, Western democracies are better,'' he says.</p>
+        <p>Dr. Pinker believes that human nature ''will increasingly be explained by the sciences of mind, brain, genes and evolution.'' But if political and social systems should be designed around human nature, won't that give enormous power to the psychologists, neuroscientists, and geneticists are in a position to say what human nature is?</p>
+        <p>''It's a game anyone should be able to play if they do their homework,'' he says, ''so I hope it wouldn't become the exclusive province of a scientific priesthood.''</p>
+        <p>Born With It? Author Suggests Yes</p>
+        <p>There is evidence that some universal human social behaviors and faculties are innate, and presumably shaped in part by the genes. In ''The Blank Slate,'' Dr. Steven Pinker lists some behaviors of political consequence which he considers may fall in this category.</p>
+        <p>Innate Social Behaviors</p>
+        <p>*Primacy of family ties, making nepotism and inheritance appealing.</p>
+        <p>*A propensity to share based on reciprocity where nonrelatives are concerned (within the family, it is free).</p>
+        <p>*A drive for dominance and a willingness to use violence to attain goals.</p>
+        <p>*Ethnocentrism and other forms of group-against-group hostility.</p>
+        <p>*Variation in intelligence (leading to inequalities) and in conscientiousness and antisocial behavior (leading to punitive constraints).</p>
+        <p>*Self-serving biases that deceive people into thinking they are freer, wiser and more honest than they are.</p>
+        <p>*A moral sense, biased toward kin and friends, and linked to ideas of purity, beauty and rank.</p>
+        <p>Innate Abilities</p>
+        <p>*An intuitive physics, used to keep track of the ''oomph'' of objects as they fall, bounce or bend.</p>
+        <p>*An intuitive biology, used to understand the living world by imputing an essence to living things.</p>
+        <p>*An intuitive engineering, used to make and understand tools.</p>
+        <p>*An intuitive psychology, used to understand others by imputing to them a mind with beliefs and desires.</p>
+        <p>*A spatial sense and a dead reckoner tracking the body's motions.</p>
+        <p>*A number sense, based on ability to register small numbers of things (1, 2 and 3) exactly and to estimate larger ones.</p>
+        <p>*A sense of probability, used to estimate uncertain outcomes by tracking how common one event is in relation to another.</p>
+        <p>*An intuitive economics, used to exchange goods and calculate favors.</p>
+        <p>*A mental database and logic, used to represent ideas, associate one thing with another and devise causal explanations.</p>
+        <p>*Language, the gift of sharing ideas from the mental database with others.</p>
+        <p>Scientist at Work</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

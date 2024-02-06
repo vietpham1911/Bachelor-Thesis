@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>BEST SELLERS: January 22, 1995</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="738399"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE7DF1738F931A15752C0A963958260" item-length="1477" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>BEST SELLERS: January 22, 1995</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Weeks</p>
+        <p>This</p>
+        <p>Last</p>
+        <p>On</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>List</p>
+        <p>Fiction</p>
+        <p>1</p>
+        <p>2</p>
+        <p>47</p>
+        <p>THE CELESTINE PROPHECY, by James Redfield. (Warner, $17.95.) An ancient manuscript, found in Peru, provides insights into achieving a fulfilling life.</p>
+        <p>2</p>
+        <p>1</p>
+        <p>31</p>
+        <p>POLITICALLY CORRECT BEDTIME STORIES, by James Finn Garner. (Macmillan, $8.95.) Classic tales respun to avoid offending current sensibilities.</p>
+        <p>3</p>
+        <p>1</p>
+        <p>KISS THE GIRLS, by James Patterson. (Little, Brown, $22.95.) The police detective Alex Cross pursues a serial killer and the kidnapper of his niece.</p>
+        <p>4</p>
+        <p>14</p>
+        <p>2</p>
+        <p>SELF-DEFENSE, by Jonathan Kellerman. (Bantam, $22.95.) The psychologist-detective Alex Delaware undertakes to discover whether a woman's fear that she is being stalked by a killer is imagined or real.</p>
+        <p>5</p>
+        <p>5</p>
+        <p>8</p>
+        <p>WINGS, by Danielle Steel. (Delacorte, $23.95.) A woman pursues her ambition to become a record-setting aviator in pre-World War II America.</p>
+        <p>6</p>
+        <p>6</p>
+        <p>128</p>
+        <p>THE BRIDGES OF MADISON COUNTY, by Robert James Waller. (Warner, $16.95.) A photographer and a farmer's lonely wife in Iowa.</p>
+        <p>7</p>
+        <p>3</p>
+        <p>21</p>
+        <p>DEBT OF HONOR, by Tom Clancy. (Putnam, $25.95.) Jack Ryan and C.I.A. agents vs. a Japanese plot to strike America's territory and economy.</p>
+        <p>8</p>
+        <p>1</p>
+        <p>EYES OF A CHILD, by Richard North Patterson. (Knopf, $24.) The apparent suicide of a San Francisco man leads to courtroom encounters.</p>
+        <p>9</p>
+        <p>4</p>
+        <p>14</p>
+        <p>INSOMNIA, by Stephen King. (Viking, $27.95.) A widower and a widow, victims of sleeplessness, behold sinister forces at work in their small Maine town.</p>
+        <p>10*</p>
+        <p>7</p>
+        <p>11</p>
+        <p>THE LOTTERY WINNER, by Mary Higgins Clark. (Simon &amp; Schuster, $22.) Stories about a couple who win a lottery and devote themselves to solving crimes.</p>
+        <p>11</p>
+        <p>12</p>
+        <p>16</p>
+        <p>MUTANT MESSAGE DOWN UNDER, by Marlo Morgan. (HarperCollins, $18.) In Australia's outback, an American woman learns about aboriginal philosophy.</p>
+        <p>12</p>
+        <p>8</p>
+        <p>9</p>
+        <p>DARK RIVERS OF THE HEART, by Dean Koontz. (Knopf, $24.) A man and a woman, who meet by chance, must flee a powerful Government agency.</p>
+        <p>13</p>
+        <p>11</p>
+        <p>26</p>
+        <p>THE GIFT, by Danielle Steel. (Delacorte, $15.) A woman's visit to a small town changes many lives.</p>
+        <p>14</p>
+        <p>9</p>
+        <p>16</p>
+        <p>TALTOS, by Anne Rice. (Knopf, $25.) The survivor of a species of witches copes with his heritage; a sequel to "The Witching Hour" and "Lasher."</p>
+        <p>15</p>
+        <p>13</p>
+        <p>18</p>
+        <p>NOTHING LASTS FOREVER, by Sidney Sheldon. (Morrow, $23.) Three women doctors in San Francisco contend with lovers, betrayers and killers.</p>
+        <p>Weeks</p>
+        <p>This</p>
+        <p>Last</p>
+        <p>On</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>List</p>
+        <p>Nonfiction</p>
+        <p>1</p>
+        <p>1</p>
+        <p>12</p>
+        <p>CROSSING THE THRESHOLD OF HOPE, by John Paul II. Edited by Vittorio Messori. (Knopf, $20.) The Pope discusses matters of belief, suffering and hope.</p>
+        <p>2</p>
+        <p>5</p>
+        <p>15</p>
+        <p>THE HOT ZONE, by Richard Preston. (Random House, $23.) The discovery of a lethal virus, more infectious than H.I.V., and the efforts to keep it from spreading.</p>
+        <p>3</p>
+        <p>2</p>
+        <p>16</p>
+        <p>DON'T STAND TOO CLOSE TO A NAKED MAN, by Tim Allen. (Hyperion, $19.95.) Anecdotes and meditations on life by the star of "Home Improvement."</p>
+        <p>4</p>
+        <p>3</p>
+        <p>20</p>
+        <p>COUPLEHOOD, by Paul Reiser. (Bantam, $19.95.) Essays on the ups and downs of marriage by the television star and stand-up comedian.</p>
+        <p>5</p>
+        <p>4</p>
+        <p>57</p>
+        <p>THE BOOK OF VIRTUES, by William J. Bennett. (Simon &amp; Schuster, $30.) Moral stories adapted from the Greeks, the Bible, folklore and elsewhere.</p>
+        <p>6</p>
+        <p>7</p>
+        <p>8</p>
+        <p>THE WARREN BUFFETT WAY, by Robert G. Hagstrom Jr. (Wiley, $24.95.) An account of the career of the man said to be the world's most successful investor.</p>
+        <p>7</p>
+        <p>6</p>
+        <p>17</p>
+        <p>JAMES HERRIOT'S CAT STORIES, by James Herriot. (St. Martin's, $16.95.) A collection of tales by the Yorkshire veterinarian.</p>
+        <p>8*</p>
+        <p>8</p>
+        <p>12</p>
+        <p>THE BELL CURVE, by Richard J. Herrnstein and Charles Murray. (Free Press, $30.) Ways in which differences in intelligence affect American life.</p>
+        <p>9</p>
+        <p>11</p>
+        <p>46</p>
+        <p>MIDNIGHT IN THE GARDEN OF GOOD AND EVIL, by John Berendt. (Random House, $23.) The mysterious death of a young man in Savannah, Ga.</p>
+        <p>10</p>
+        <p>13</p>
+        <p>4</p>
+        <p>SISTERS, by Carol Saline. Photographs by Sharon J. Wohlmuth. (Running Press, $27.50.) The relationships of 36 sets of sisters of varied callings and backgrounds, reported in words and pictures.</p>
+        <p>11</p>
+        <p>12</p>
+        <p>14</p>
+        <p>NO ORDINARY TIME, by Doris Kearns Goodwin. (Simon &amp; Schuster, $30.) The roles of Franklin and Eleanor Roosevelt during World War II.</p>
+        <p>12</p>
+        <p>10</p>
+        <p>15</p>
+        <p>DOLLY, by Dolly Parton. (HarperCollins, $25.) The autobiography of the country singer.</p>
+        <p>13</p>
+        <p>2</p>
+        <p>PALE BLUE DOT, by Carl Sagan. (Random House, $35.) The astronomer's vision of the future role of human beings in the universe.</p>
+        <p>14</p>
+        <p>9</p>
+        <p>19</p>
+        <p>BARBARA BUSH: A Memoir, by Barbara Bush. (Drew/Scribners, $25.) The former First Lady recalls her life, from childhood to the present.</p>
+        <p>15</p>
+        <p>1</p>
+        <p>LONG WALK TO FREEDOM, by Nelson Mandela. (Little, Brown, $24.95.) The autobiography of the first freely elected President of South Africa.</p>
+        <p>Weeks</p>
+        <p>This</p>
+        <p>Last</p>
+        <p>On</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>List</p>
+        <p>Advice, How-to and Miscellaneous</p>
+        <p>1</p>
+        <p>1</p>
+        <p>39</p>
+        <p>IN THE KITCHEN WITH ROSIE, by Rosie Daley. (Knopf, $14.95.) Recipes by Oprah Winfrey's cook.</p>
+        <p>2</p>
+        <p>2</p>
+        <p>87</p>
+        <p>MEN ARE FROM MARS, WOMEN ARE FROM VENUS, by John Gray. (HarperCollins, $23.) Ways to improve communication and relationships between the sexes.</p>
+        <p>3</p>
+        <p>3</p>
+        <p>4</p>
+        <p>ILLUMINATA, by Marianne Williamson. (Random House, $20.) A celebration of the power of prayers, with examples of those fitting a variety of situations.</p>
+        <p>4</p>
+        <p>1</p>
+        <p>FOOD, by Susan Powter. (Simon &amp; Schuster, $24.) Information about recipes, nutrition and diets.</p>
+        <p>Rankings reflect sales figures, for the week ending Jan. 7, at 3,050 bookstores plus wholesalers serving 28,000 other retailers (gift shops, department stores, newsstands, supermarkets), statistically weighted to represent sales in all such outlets nationwide. An asterisk indicates that a book's sales are barely distinguishable from those of the book above.</p>
+        <p>And Bear in Mind (Editor's Choices of other recent books of particular interest) ALLAH O AKBAR: A Journey Through Militant Islam, by Abbas. (Phaidon/Chronicle, $60.) A broad and gloomy photographic examination of 29 countries by an Iranian-born photojournalist whose subjects seem rarely to take any time out from the utmost rigors of the faith.  EAST, WEST: Stories, by Salman Rushdie. (Pantheon, $21.) Nine stories by the fugitive author of "The Satanic Verses," some boisterous, some provocative, all taking some advantage of Mr. Rushdie's difficult dual heritage.  FELICIA'S JOURNEY, by William Trevor. (Viking, $21.95.) Mr. Trevor's latest novel concerns an unmarried, pregnant, vulnerable Irish girl, wandering England's industrial Midlands until she encounters an awesomely predatory Englishman whose monstrosity is all the scarier for remaining long undefined.  THE HOLLOW YEARS: France in the 1930s, by Eugen Weber. (Norton, $25.) The author, a historian devoted to France, rises from immersion in the documents, bearing this scintillating, entertaining account of an unworthy but fascinating period in French life.  IN PHARAOH'S ARMY: Memories of the Lost War, by Tobias Wolff. (Knopf, $23.) The follow-up volume to Mr. Wolff's memoir "This Boy's Life" is a series of small, elegant, personal sketches of his year in Vietnam.  AN INTIMATE HISTORY OF HUMANITY, by Theodore Zeldin. (HarperCollins, $25.) Not history so much as informed rumination by an Oxford social historian who talks to many people (mostly Frenchwomen) about the fundamentals of human experience -- hope, despair, love, etc. -- and thinks that hope still has a chance.  THE MASTER OF PETERSBURG, by J.M. Coetzee. (Viking, $21.95.) The hero of Mr. Coetzee's grimmest novel yet is Dostoyevsky himself, trapped in generational and political clashes, trying to scrape meaning from the death of a son.  NELSON: A Personal History, by Christopher Hibbert. (Addison-Wesley, $30.) A biography that visits many familiar scenes but brings clarity, reliability, convincing judgments and enthusiasm to Horatio Nelson, a unique British hero whose defects could never tarnish his glory.  NIGHT: Night Life, Night Language, Sleep, and Dreams, by A. Alvarez. (Norton, $23.) Personal and literary explorations of the less visible (and therefore more conjectural) half of life by a gifted critic and acutely intuitive memoirist.  ROBERT LOUIS STEVENSON: A Biography, by Frank McLynn. (Random House, $30.) A thoroughly detailed life, taking the most recent scholarship into account, of the great Scottish writer of English prose who died at 44 in 1894.  SHAKER BUILT: The Form and Function of Shaker Architecture, by Paul Rocheleau and June Sprigg, edited and designed by David Larkin. (David Larkin/Monacelli Press/Penguin, $50.) Sumptuous color photographs of Shaker buildings, taken with care and devotion.</p>
+      </block>
+      <block class="full_text">
+        <p>Weeks</p>
+        <p>This</p>
+        <p>Last</p>
+        <p>On</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>List</p>
+        <p>Fiction</p>
+        <p>1</p>
+        <p>2</p>
+        <p>47</p>
+        <p>THE CELESTINE PROPHECY, by James Redfield. (Warner, $17.95.) An ancient manuscript, found in Peru, provides insights into achieving a fulfilling life.</p>
+        <p>2</p>
+        <p>1</p>
+        <p>31</p>
+        <p>POLITICALLY CORRECT BEDTIME STORIES, by James Finn Garner. (Macmillan, $8.95.) Classic tales respun to avoid offending current sensibilities.</p>
+        <p>3</p>
+        <p>1</p>
+        <p>KISS THE GIRLS, by James Patterson. (Little, Brown, $22.95.) The police detective Alex Cross pursues a serial killer and the kidnapper of his niece.</p>
+        <p>4</p>
+        <p>14</p>
+        <p>2</p>
+        <p>SELF-DEFENSE, by Jonathan Kellerman. (Bantam, $22.95.) The psychologist-detective Alex Delaware undertakes to discover whether a woman's fear that she is being stalked by a killer is imagined or real.</p>
+        <p>5</p>
+        <p>5</p>
+        <p>8</p>
+        <p>WINGS, by Danielle Steel. (Delacorte, $23.95.) A woman pursues her ambition to become a record-setting aviator in pre-World War II America.</p>
+        <p>6</p>
+        <p>6</p>
+        <p>128</p>
+        <p>THE BRIDGES OF MADISON COUNTY, by Robert James Waller. (Warner, $16.95.) A photographer and a farmer's lonely wife in Iowa.</p>
+        <p>7</p>
+        <p>3</p>
+        <p>21</p>
+        <p>DEBT OF HONOR, by Tom Clancy. (Putnam, $25.95.) Jack Ryan and C.I.A. agents vs. a Japanese plot to strike America's territory and economy.</p>
+        <p>8</p>
+        <p>1</p>
+        <p>EYES OF A CHILD, by Richard North Patterson. (Knopf, $24.) The apparent suicide of a San Francisco man leads to courtroom encounters.</p>
+        <p>9</p>
+        <p>4</p>
+        <p>14</p>
+        <p>INSOMNIA, by Stephen King. (Viking, $27.95.) A widower and a widow, victims of sleeplessness, behold sinister forces at work in their small Maine town.</p>
+        <p>10*</p>
+        <p>7</p>
+        <p>11</p>
+        <p>THE LOTTERY WINNER, by Mary Higgins Clark. (Simon &amp; Schuster, $22.) Stories about a couple who win a lottery and devote themselves to solving crimes.</p>
+        <p>11</p>
+        <p>12</p>
+        <p>16</p>
+        <p>MUTANT MESSAGE DOWN UNDER, by Marlo Morgan. (HarperCollins, $18.) In Australia's outback, an American woman learns about aboriginal philosophy.</p>
+        <p>12</p>
+        <p>8</p>
+        <p>9</p>
+        <p>DARK RIVERS OF THE HEART, by Dean Koontz. (Knopf, $24.) A man and a woman, who meet by chance, must flee a powerful Government agency.</p>
+        <p>13</p>
+        <p>11</p>
+        <p>26</p>
+        <p>THE GIFT, by Danielle Steel. (Delacorte, $15.) A woman's visit to a small town changes many lives.</p>
+        <p>14</p>
+        <p>9</p>
+        <p>16</p>
+        <p>TALTOS, by Anne Rice. (Knopf, $25.) The survivor of a species of witches copes with his heritage; a sequel to "The Witching Hour" and "Lasher."</p>
+        <p>15</p>
+        <p>13</p>
+        <p>18</p>
+        <p>NOTHING LASTS FOREVER, by Sidney Sheldon. (Morrow, $23.) Three women doctors in San Francisco contend with lovers, betrayers and killers.</p>
+        <p>Weeks</p>
+        <p>This</p>
+        <p>Last</p>
+        <p>On</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>List</p>
+        <p>Nonfiction</p>
+        <p>1</p>
+        <p>1</p>
+        <p>12</p>
+        <p>CROSSING THE THRESHOLD OF HOPE, by John Paul II. Edited by Vittorio Messori. (Knopf, $20.) The Pope discusses matters of belief, suffering and hope.</p>
+        <p>2</p>
+        <p>5</p>
+        <p>15</p>
+        <p>THE HOT ZONE, by Richard Preston. (Random House, $23.) The discovery of a lethal virus, more infectious than H.I.V., and the efforts to keep it from spreading.</p>
+        <p>3</p>
+        <p>2</p>
+        <p>16</p>
+        <p>DON'T STAND TOO CLOSE TO A NAKED MAN, by Tim Allen. (Hyperion, $19.95.) Anecdotes and meditations on life by the star of "Home Improvement."</p>
+        <p>4</p>
+        <p>3</p>
+        <p>20</p>
+        <p>COUPLEHOOD, by Paul Reiser. (Bantam, $19.95.) Essays on the ups and downs of marriage by the television star and stand-up comedian.</p>
+        <p>5</p>
+        <p>4</p>
+        <p>57</p>
+        <p>THE BOOK OF VIRTUES, by William J. Bennett. (Simon &amp; Schuster, $30.) Moral stories adapted from the Greeks, the Bible, folklore and elsewhere.</p>
+        <p>6</p>
+        <p>7</p>
+        <p>8</p>
+        <p>THE WARREN BUFFETT WAY, by Robert G. Hagstrom Jr. (Wiley, $24.95.) An account of the career of the man said to be the world's most successful investor.</p>
+        <p>7</p>
+        <p>6</p>
+        <p>17</p>
+        <p>JAMES HERRIOT'S CAT STORIES, by James Herriot. (St. Martin's, $16.95.) A collection of tales by the Yorkshire veterinarian.</p>
+        <p>8*</p>
+        <p>8</p>
+        <p>12</p>
+        <p>THE BELL CURVE, by Richard J. Herrnstein and Charles Murray. (Free Press, $30.) Ways in which differences in intelligence affect American life.</p>
+        <p>9</p>
+        <p>11</p>
+        <p>46</p>
+        <p>MIDNIGHT IN THE GARDEN OF GOOD AND EVIL, by John Berendt. (Random House, $23.) The mysterious death of a young man in Savannah, Ga.</p>
+        <p>10</p>
+        <p>13</p>
+        <p>4</p>
+        <p>SISTERS, by Carol Saline. Photographs by Sharon J. Wohlmuth. (Running Press, $27.50.) The relationships of 36 sets of sisters of varied callings and backgrounds, reported in words and pictures.</p>
+        <p>11</p>
+        <p>12</p>
+        <p>14</p>
+        <p>NO ORDINARY TIME, by Doris Kearns Goodwin. (Simon &amp; Schuster, $30.) The roles of Franklin and Eleanor Roosevelt during World War II.</p>
+        <p>12</p>
+        <p>10</p>
+        <p>15</p>
+        <p>DOLLY, by Dolly Parton. (HarperCollins, $25.) The autobiography of the country singer.</p>
+        <p>13</p>
+        <p>2</p>
+        <p>PALE BLUE DOT, by Carl Sagan. (Random House, $35.) The astronomer's vision of the future role of human beings in the universe.</p>
+        <p>14</p>
+        <p>9</p>
+        <p>19</p>
+        <p>BARBARA BUSH: A Memoir, by Barbara Bush. (Drew/Scribners, $25.) The former First Lady recalls her life, from childhood to the present.</p>
+        <p>15</p>
+        <p>1</p>
+        <p>LONG WALK TO FREEDOM, by Nelson Mandela. (Little, Brown, $24.95.) The autobiography of the first freely elected President of South Africa.</p>
+        <p>Weeks</p>
+        <p>This</p>
+        <p>Last</p>
+        <p>On</p>
+        <p>Week</p>
+        <p>Week</p>
+        <p>List</p>
+        <p>Advice, How-to and Miscellaneous</p>
+        <p>1</p>
+        <p>1</p>
+        <p>39</p>
+        <p>IN THE KITCHEN WITH ROSIE, by Rosie Daley. (Knopf, $14.95.) Recipes by Oprah Winfrey's cook.</p>
+        <p>2</p>
+        <p>2</p>
+        <p>87</p>
+        <p>MEN ARE FROM MARS, WOMEN ARE FROM VENUS, by John Gray. (HarperCollins, $23.) Ways to improve communication and relationships between the sexes.</p>
+        <p>3</p>
+        <p>3</p>
+        <p>4</p>
+        <p>ILLUMINATA, by Marianne Williamson. (Random House, $20.) A celebration of the power of prayers, with examples of those fitting a variety of situations.</p>
+        <p>4</p>
+        <p>1</p>
+        <p>FOOD, by Susan Powter. (Simon &amp; Schuster, $24.) Information about recipes, nutrition and diets.</p>
+        <p>Rankings reflect sales figures, for the week ending Jan. 7, at 3,050 bookstores plus wholesalers serving 28,000 other retailers (gift shops, department stores, newsstands, supermarkets), statistically weighted to represent sales in all such outlets nationwide. An asterisk indicates that a book's sales are barely distinguishable from those of the book above.</p>
+        <p>And Bear in Mind (Editor's Choices of other recent books of particular interest) ALLAH O AKBAR: A Journey Through Militant Islam, by Abbas. (Phaidon/Chronicle, $60.) A broad and gloomy photographic examination of 29 countries by an Iranian-born photojournalist whose subjects seem rarely to take any time out from the utmost rigors of the faith.  EAST, WEST: Stories, by Salman Rushdie. (Pantheon, $21.) Nine stories by the fugitive author of "The Satanic Verses," some boisterous, some provocative, all taking some advantage of Mr. Rushdie's difficult dual heritage.  FELICIA'S JOURNEY, by William Trevor. (Viking, $21.95.) Mr. Trevor's latest novel concerns an unmarried, pregnant, vulnerable Irish girl, wandering England's industrial Midlands until she encounters an awesomely predatory Englishman whose monstrosity is all the scarier for remaining long undefined.  THE HOLLOW YEARS: France in the 1930s, by Eugen Weber. (Norton, $25.) The author, a historian devoted to France, rises from immersion in the documents, bearing this scintillating, entertaining account of an unworthy but fascinating period in French life.  IN PHARAOH'S ARMY: Memories of the Lost War, by Tobias Wolff. (Knopf, $23.) The follow-up volume to Mr. Wolff's memoir "This Boy's Life" is a series of small, elegant, personal sketches of his year in Vietnam.  AN INTIMATE HISTORY OF HUMANITY, by Theodore Zeldin. (HarperCollins, $25.) Not history so much as informed rumination by an Oxford social historian who talks to many people (mostly Frenchwomen) about the fundamentals of human experience -- hope, despair, love, etc. -- and thinks that hope still has a chance.  THE MASTER OF PETERSBURG, by J.M. Coetzee. (Viking, $21.95.) The hero of Mr. Coetzee's grimmest novel yet is Dostoyevsky himself, trapped in generational and political clashes, trying to scrape meaning from the death of a son.  NELSON: A Personal History, by Christopher Hibbert. (Addison-Wesley, $30.) A biography that visits many familiar scenes but brings clarity, reliability, convincing judgments and enthusiasm to Horatio Nelson, a unique British hero whose defects could never tarnish his glory.  NIGHT: Night Life, Night Language, Sleep, and Dreams, by A. Alvarez. (Norton, $23.) Personal and literary explorations of the less visible (and therefore more conjectural) half of life by a gifted critic and acutely intuitive memoirist.  ROBERT LOUIS STEVENSON: A Biography, by Frank McLynn. (Random House, $30.) A thoroughly detailed life, taking the most recent scholarship into account, of the great Scottish writer of English prose who died at 44 in 1894.  SHAKER BUILT: The Form and Function of Shaker Architecture, by Paul Rocheleau and June Sprigg, edited and designed by David Larkin. (David Larkin/Monacelli Press/Penguin, $50.) Sumptuous color photographs of Shaker buildings, taken with care and devotion.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

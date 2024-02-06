@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Editorial Notebook; The 'Scientific' War on the Poor</title>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="721353"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">STAPLES, BRENT</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06EFDF103FF93BA15753C1A962958260" item-length="709" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Editorial Notebook; The 'Scientific' War on the Poor</hl1>
+      </hedline>
+      <byline class="print_byline">By BRENT STAPLES</byline>
+      <byline class="normalized_byline">STAPLES, BRENT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Everyone knows the stereotype of the fair-haired executive who owes the office with the view and the six-figure salary to an accident of birth -- like relatives in the halls of power. What about merit, for heaven's sake? Why not give I.Q. tests, grant the best jobs to those who score well and send the laggards to the mailroom?</p>
+        <p>That would never happen, nor should it. I.Q. scores in themselves tell you almost nothing. This was clearly explained by the Frenchmen Alfred Binet, who invented the first usable I.Q. test in 1905. The test had one purpose: to help identify learning-disabled children who needed special schools. Binet warned that a "brutal pessimism" would follow if his test was ever mistaken as a measure of a fixed, unchangeable intelligence.</p>
+      </block>
+      <block class="full_text">
+        <p>Everyone knows the stereotype of the fair-haired executive who owes the office with the view and the six-figure salary to an accident of birth -- like relatives in the halls of power. What about merit, for heaven's sake? Why not give I.Q. tests, grant the best jobs to those who score well and send the laggards to the mailroom?</p>
+        <p>That would never happen, nor should it. I.Q. scores in themselves tell you almost nothing. This was clearly explained by the Frenchmen Alfred Binet, who invented the first usable I.Q. test in 1905. The test had one purpose: to help identify learning-disabled children who needed special schools. Binet warned that a "brutal pessimism" would follow if his test was ever mistaken as a measure of a fixed, unchangeable intelligence.</p>
+        <p>You wouldn't know it from the I.Q. worship in progress today, but using the tests to draw finer distinctions than Binet intended amounts to overreaching, if not scientific fraud. Most scientists concede that they don't really know what "intelligence" is. Whatever it might be, paper and pencil tests aren't the tenth of it.</p>
+        <p>The fair-haired executive gets a pass for other reasons entirely. First, because the world works more on insiderism and inherited privilege than on "pure merit," whatever that might be. Second, because the charge of innate stupidity has historically been reserved for the poor.</p>
+        <p>That charge surfaced during the immigrant influx of the teens and 20's, and again during the affirmative-action 60's and 70's -- both times when America found "scientific" justifications of poverty very appealing. Misgivings about the "underclass" have made them appealing again. By way of example, consider Senator Daniel Patrick Moynihan's ludicrous claim that out-of-wedlock births in modern America amounted to the creation of a new species.</p>
+        <p>Alfred Binet's American imitators embraced "brutal pessimism" right away. In 1912, after Eastern and Southern Europeans began to outnumber Northern Europeans at Ellis Island, immigration authorities asked the psychologist Henry Goddard to do "quality control," through intelligence testing. Goddard and his colleagues believed that Nordic peoples were civilization's best and that the rest were genetically second-rate or worse. The test was merely a means of proving it.</p>
+        <p>Not surprisingly, Goddard's testing of what he called a representative sample of immigrants showed that 80 percent of all Jews, Italians and Hungarians and nearly 90 percent of Russians were "feeble-minded." As a result, hundreds each year were deported.</p>
+        <p>At the start of World War I, two million draftees were also tested. The results showed a gap between blacks and whites, but at the time, few were interested. The passion then was proving a connection between "mental deficiency" and national origin among white immigrants. The testers didn't bother with translation; non-English-speakers were instructed in pantomime.</p>
+        <p>Once again, British immigrants were classified as first-rate, with Poles, Italians and Russians labeled stupid and undesirable. The data were published by the National Academy of Sciences in 1921, and contributed to the introduction of temporary limits on immigration. I.Q. hysteria also resulted in sterilization laws that were enforced only against the poor.</p>
+        <p>The I.Q. believers worked with messianic zeal. Like many before him, the British psychologist Sir Cyril Burt went way beyond science in defense of his beliefs. Burt alleged that intelligence was so wired into the genes, so indifferent to environment, that identical twins reared apart had virtually identical I.Q. scores. Statisticians now agree that Burt made much of it up.</p>
+        <p>The I.Q. worshipers of today remain essentially unchanged from Goddard's time. Despite the impression that there is something new in "The Bell Curve," its authors, Charles Murray and Richard Herrnstein, have merely reasserted the long-unproven claim that I.Q. is mainly inherited. The language is calmer, the statistical gimmicks slicker, but the truth remains the same: There exist no plausible data to make the case. Belief to the contrary rests mainly on brutal preconceptions about poverty, but also on a basic confusion between pseudo-science and the real thing. BRENT STAPLES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

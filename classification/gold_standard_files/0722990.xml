@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Never Mind Those I.Q. Scores: It's Dedication That Counts; Breast-Feeding's Role</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="722990"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NURSING OF INFANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nursing of Infants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E5D7143EF937A35752C1A962958260" item-length="202" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Never Mind Those I.Q. Scores: It's Dedication That Counts; Breast-Feeding's Role</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Charles Murray and Richard Herrnstein produce evidence in their book "The Bell Curve" showing that the 15-point gap between white and black I.Q. scores remains even after controlling for all sorts of social factors. But there is one factor they do not discuss.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Charles Murray and Richard Herrnstein produce evidence in their book "The Bell Curve" showing that the 15-point gap between white and black I.Q. scores remains even after controlling for all sorts of social factors. But there is one factor they do not discuss.</p>
+        <p>Alan Lucas, a British pediatric nutritionist, provided conclusive evidence in the January 1993 issue of the British medical journal The Lancet that babies breast-fed in the first month of life score 8.3 points above the average I.Q. at age 8; other studies have shown further gains for every additional month the infant was breast-fed (three points a month between 6 and 12 months).</p>
+        <p>In the African-American culture in the United States, babies are seldom breast-fed. According to officials of La Leche League International, the incidence is about 8 percent, while for whites the figure is 54 percent. I contend that the persistent 15-point gap in I.Q. is due to this large disparity in infant breastfeeding practices, and that this factor must be controlled for when assessing the sources of such a gap. VALERIE M. HUDSON  Assoc. Prof. of Political Science Brigham Young University Provo, Utah, Oct. 28, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

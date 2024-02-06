@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>In America; Throwing a Curve</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720878"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <person class="indexing_service">HERBERT, BOB</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/Bob Herbert</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01E5DE123FF935A15753C1A962958260" item-length="694" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>In America; Throwing a Curve</hl1>
+      </hedline>
+      <byline class="print_byline">By BOB HERBERT</byline>
+      <byline class="normalized_byline">HERBERT, BOB</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In Montclair, N.J., where I grew up in the 1950's and 60's, there was an elderly woman named Mildred Maxwell who would greet the periodic outbursts of segregationists and other racial provocateurs with the angry and scornful comment, "There isn't a hell hot enough for that man and his ideas."</p>
+        <p>Mrs. Maxwell comes to mind whenever I think (angrily and scornfully) about Charles Murray and his book "The Bell Curve," a scabrous piece of racial pornography masquerading as serious scholarship.</p>
+      </block>
+      <block class="full_text">
+        <p>In Montclair, N.J., where I grew up in the 1950's and 60's, there was an elderly woman named Mildred Maxwell who would greet the periodic outbursts of segregationists and other racial provocateurs with the angry and scornful comment, "There isn't a hell hot enough for that man and his ideas."</p>
+        <p>Mrs. Maxwell comes to mind whenever I think (angrily and scornfully) about Charles Murray and his book "The Bell Curve," a scabrous piece of racial pornography masquerading as serious scholarship.</p>
+        <p>Mr. Murray fancies himself a social scientist, an odd choice of profession for someone who would have us believe he was so sociologically ignorant as a teen-ager that he didn't recognize any racial implications when he and his friends burned a cross on a hill in his hometown of Newton, Iowa.</p>
+        <p>In a New York Times Magazine article by Jason DeParle, Mr. Murray described the cross-burning as "dumb." But he insisted, "It never crossed our minds that this had any larger significance."</p>
+        <p>Oh, no. Of course not.</p>
+        <p>Now, in middle age, Mr. Murray gets his kicks by thinking up ways to drape the cloak of respectability over the obscene and long-discredited views of the world's most rabid racists. And so "The Bell Curve," written with Richard Herrnstein, who died last month, promotes the view that blacks are inherently inferior to whites.</p>
+        <p>It's an ugly stunt. Mr. Murray can protest all he wants, his book is just a genteel way of calling somebody a nigger.</p>
+        <p>The book shows that, on average, blacks score about 15 points lower than whites on intelligence tests, a point that was widely known and has not been in dispute. Mr. Murray and I (and many, many others) differ on the reasons for the disparity. I would argue that a group that was enslaved until little more than a century ago; that has long been subjected to the most brutal, often murderous, oppression; that has been deprived of competent, sympathetic political representation; that has most often had to live in the hideous physical conditions that are the hallmark of abject poverty; that has tried its best to survive with little or no prenatal care, and with inadequate health care and nutrition; that has been segregated and ghettoized in communities that were then redlined by banks and insurance companies and otherwise shunned by business and industry; that has been systematically frozen out of the job market; that has in large measure been deliberately deprived of a reasonably decent education; that has been forced to cope with the humiliation of being treated always as inferior, even by imbeciles -- I would argue that these are factors that just might contribute to a certain amount of social pathology and to a slippage in intelligence test scores.</p>
+        <p>Mr. Murray says no. His book strongly suggests that the disparity is inherent, genetic, and there is little to be done about it.</p>
+        <p>Most serious scholars know that the conclusions drawn by Murray and Herrnstein from the data in "The Bell Curve" are bogus. The issue has been studied ad nauseam and the overwhelming consensus of experts in the field is that environmental conditions account for most of the disparity when the test results of large groups are compared.</p>
+        <p>The last time I checked, both the Protestants and the Catholics in Northern Ireland were white. And yet the Catholics, with their legacy of discrimination, grade out about 15 points lower on I.Q. tests. There are many similar examples. Scholars are already marshaling the evidence needed to demolish "The Bell Curve" on scientific grounds. But be assured that when their labors are completed and their papers submitted, they will not get nearly the attention that "The Bell Curve" has received.</p>
+        <p>A great deal of damage has been done. The conclusions so disingenuously trumpeted by Mr. Murray were just what millions of people wanted to hear. It was just the message needed to enable whites to distance themselves still further from any responsibility for the profound negative effect that white racism continues to have on all blacks.</p>
+        <p>Mildred Maxwell is no longer with us. I wish she were. Just once I would like to hear her comment on Charles Murray and his book.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

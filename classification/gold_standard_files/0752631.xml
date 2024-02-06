@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Business Best Sellers</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="752631"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="SPENDING IT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NO INDEX TERMS</classifier>
+        <classifier class="online_producer" type="types_of_material">List</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD8143EF931A35757C0A963958260" item-length="406" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Business Best Sellers</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HARDCOVER 1. THE BEARDSTOWN LADIES' COMMON-SENSE INVESTMENT GUIDE (Godin/Hyperion, $19.95.) Tips for successful investing from 16 Illinois women.</p>
+      </block>
+      <block class="full_text">
+        <p>HARDCOVER 1. THE BEARDSTOWN LADIES' COMMON-SENSE INVESTMENT GUIDE (Godin/Hyperion, $19.95.) Tips for successful investing from 16 Illinois women.</p>
+        <p>2. THE DEATH OF COMMON SENSE by Philip K. Howard. (Random House, $18.) How governmental rules and regulations are fettering Americans. 3. THE SEVEN SPIRITUAL LAWS OF SUCCESS by Deepak Chopra. (Amber-Allen/New World Library, $12.95.) How to "generate wealth in all its forms." 4. THE DISCIPLINE OF MARKET LEADERS by Michael Treacy and Fred Wiersema. (Addison-Wesley, $25.) Competitive strategies. 5. THE WARREN BUFFETT WAY by Robert G. Hagstrom Jr. (Wiley, $24,95.) An account of the career of the man said to be the world's most successful investor. 6. BEING DIGITAL by Nicholas Negroponte. (Knopf, $23.) A discussion of ways computers will change our lives in the future. 7. FIRST THINGS FIRST by Stephen R. Covey et al. (Simon &amp; Schuster, $23.) Organize your life. 8. REENGINEERING MANAGEMENT by James Champy. (Harper Business, $25.) Managing change in the new corporation. 9. THE BELL CURVE by Richard J. Herrnstein and Charles Murray. (Free Press, $30. (Differences in intelligence and class structure affecgting American life. 10. BUILT TO LAST by James C. Collins and Jerry I. Porras. (Harper Business, $25.) Companies that have been both successful and long-lived. PAPERBACK 1. THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE by Stephen R. Covey. (Fireside/S&amp;S, $12.) Principles for success. 2. REENGINEERING THE CORPORATION by Michael Hammer and James Champy. (Harper Business, $13.) Business innovation. 3. TIGHTWAD GAZETTE II by Amy Dacyczyn. (Villard, $11.99.) Advice for the thrift-conscious. 4. THE ERNST &amp; YOUNG TAX GUIDE 1995 (Wiley, $14.95.) Ways to cope with the I.R.S. 5. GLOBAL PARADOX by John Naisbitt. (Avon, $6.50.) Economic and technical trends worldwide. 6. THE 1995 WHAT COLOR IS YOUR PARACHUTE? by Richard Nelson Bolles. (Ten Speed, $14.95.) Advice about careers. Rankings are based on the March sales figures of 3,050 bookstores and of wholesalers serving 28,000 hardcover retailers and 38,000 paperback retailers (gift shops, department stores, newsstands, supermarkets). The numbers are , statistically weighted to represent sales in all such outlets nationwide. An asterisk indicates that a book's sales are barely distinguishable from those of the book above.  SPENDING IT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

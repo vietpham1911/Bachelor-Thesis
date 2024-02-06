@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's a Grim Message: Dummies Fail More Often</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="721084"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="BOOKS OF THE TIMES"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <person class="indexing_service">PASSELL, PETER</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941027T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DEFD7123FF934A15753C1A962958260" item-length="1137" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's a Grim Message: Dummies Fail More Often</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER PASSELL</byline>
+      <byline class="normalized_byline">PASSELL, PETER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE BELL CURVE Intelligence and Class Structure in American Life  By Richard J. Herrnstein and Charles Murray.  845 pages. The Free Press. $30.</p>
+        <p>Charles Murray, best known for attacking welfare, and Richard Herrnstein, an experimental psychologist who argued that intelligence is largely in the genes, built public careers as the dark angels of social science. And with the publication of "The Bell Curve," their reputations have apparently been secured: The 845-page tract has driven liberal editorial writers to rug-chewing and led the editors of The New Republic to elicit 17 separate rebuttals.</p>
+      </block>
+      <block class="full_text">
+        <p>THE BELL CURVE Intelligence and Class Structure in American Life  By Richard J. Herrnstein and Charles Murray.  845 pages. The Free Press. $30.</p>
+        <p>Charles Murray, best known for attacking welfare, and Richard Herrnstein, an experimental psychologist who argued that intelligence is largely in the genes, built public careers as the dark angels of social science. And with the publication of "The Bell Curve," their reputations have apparently been secured: The 845-page tract has driven liberal editorial writers to rug-chewing and led the editors of The New Republic to elicit 17 separate rebuttals.</p>
+        <p>The idea behind "The Bell Curve," as many readers must know by now, is that I.Q. is destiny, determining how individuals get along in school, jobs and social relations. Since little can be done to raise "cognitive ability," the argument goes, little can be done to change the socioeconomic pecking order.</p>
+        <p>This is a grim message, the authors acknowledge, but someone must deliver it. "There can be no real progress in solving America's social problems," Mr. Herrnstein and Mr. Murray explain, "when they are as misperceived as they are today."</p>
+        <p>Not everyone has been charmed by the pair's appeal to sweet reason. Indeed, some critics have been inclined to hang the defendants without a trial: merely entertaining the idea that I.Q. tests predict economic performance, they believe, breeds complacency about racism because just one black American in six scores above the average for whites.</p>
+        <p>That is unfortunate, for the authors' look at the nexus between measured intelligence and life outcomes is the most original and interesting part of the book. The analysis deteriorates sharply when it moves on to the question of whether intelligence can be raised through government intervention, and the implications for public policy if it cannot. Indeed, what begins as provocative research on the plight of the losers in a meritocracy ends in a sloppily reasoned rationale for letting them eat cake.</p>
+        <p>Look again at that unpalatable first premise. Standardized tests of intelligence have been widely condemned for cultural bias, and their use as sorting devices has been discouraged by the courts as well as by liberal opinion. But whatever the tests measure, Mr. Herrnstein, who died last month, and Mr. Murray correctly remind us that the scores predict success in school for ethnic minorities as well as for whites.</p>
+        <p>What works in predicting school performance apparently also works for predicting success on the job. Even when other key variables (education, parents' social class) are accounted for, scores on one widely administered examination, the Armed Forces Qualification Test, are a potent factor in predicting differences in later earnings. It seems that the growing role of intelligence in determining economic productivity largely accounts for the widening gap between rich and poor.</p>
+        <p>If all this rings a (different) bell, go to the head of the curve. A number of commentators, including Secretary of Labor Robert B. Reich, have fretted in public about the unhealthy consequences of rewarding citizens according to their skills when so many have so few skills.</p>
+        <p>The authors of "The Bell Curve" go much further, however, slipping a moral dimension into the argument. They say intelligence also predicts crime rates, welfare dependence, poor parenting and indifference to civic responsibility. And they cleverly trump their race-conscious critics by looking solely at the evidence of differences among whites.</p>
+        <p>Unlikely as this direct link between intelligence and character may seem, the analysis is scientifically respectable. What comes next, though, is heavily compromised by ideology.</p>
+        <p>Since they say I.Q. is the key to success, they agree it would be tempting to give the dullards a helping hand. But, alas, they conclude, a better society cannot be built on good intentions and taxpayers' money alone. "For the foreseeable future," they write, "the problems of low cognitive ability are not going to be solved by outside interventions to make children smarter."</p>
+        <p>Why not? Efforts to raise intelligence through improved childhood nutrition, the authors explain, have been inconclusive. The measurable benefits of preschool enrichment programs dissipate when the youngsters return to the mean streets. A week's worth of prepping for the S.A.T.'s raises average math scores by only 25 points.</p>
+        <p>Note the disconnect here: The ambiguous evidence from America's on-again, off-again efforts to cope with the consequences of poverty and racial prejudice hardly squares with the authors' deeply pessimistic conclusion. But a belief in genetic determinism would explain it. And while they never make a fuss about heredity, they don't bother to conceal it. It is "beyond significant technical dispute," they write, that "cognitive ability is substantially heritable, apparently no less than 40 percent and no more than 80 percent."</p>
+        <p>Does that put the authors beyond the scholarly pale? Many biologists think so, dismissing the possibility that a group characteristic as complex as heritable intelligence could have diverged so sharply between races in what amounts to a single tick of the evolutionary clock. But this reviewer is not a biologist, and will leave the argument to experts.</p>
+        <p>It takes less expertise to analyze the Herrnstein-Murray policy prescription. With society increasingly dominated by its meritocratic elite, they predict the winners will create a "custodial state" in which the underclass will be stripped of rights and responsibilities. "We have in mind a high-tech and more lavish version of the Indian reservation for some substantial minority of the nation's population," they write.</p>
+        <p>And what is the alternative that follows from their full and frank discussion of the plight of those not fortunate enough to have been born in Lake Wobegon? They would give the losers a chance to "find valued places in society."</p>
+        <p>All Mr. Herrnstein and Mr. Murray seem to have in mind, however, is getting Big Brother off the backs of the intellectually challenged. Simpler economic rules, they say, would free the underclass from regulation and taxation intended to protect the perquisites of the elite. Clearer rules about the vices of crime and dependence would provide disincentives for theft, violence and procreation outside marriage. Decentralization of government responsibility to the neighborhood level would help restore community (racial?) pride and traditional values.</p>
+        <p>If this seems a bit underwhelming, join the crowd. After wading through a long, quasi-academic examination of the statistical links between intelligence, character, race and poverty, the reader's reward is a hoary lecture on the evils of the welfare state.</p>
+        <p>At least Rush Limbaugh has a sense of humor.  BOOKS OF THE TIMES</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

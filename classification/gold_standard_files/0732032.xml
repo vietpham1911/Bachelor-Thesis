@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nation: Matter Over Mind?; The Curse of Living Within One's Genes</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="732032"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">ANGIER, NATALIE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505EEDE1238F93BA25751C1A962958260" item-length="1440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nation: Matter Over Mind?; The Curse of Living Within One's Genes</hl1>
+      </hedline>
+      <byline class="print_byline">By NATALIE ANGIER</byline>
+      <byline class="normalized_byline">ANGIER, NATALIE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THIS is a banner era for the champions of nature over nurture, who think we have much less say over our impulses, our body shape, our choice of mates, our careers, even our attempts at heroism and generosity, than our wistful imaginations might have fancied.</p>
+        <p>Scientists recently announced, for example, the discovery of a gene that makes mice get fat and that very well could be involved in some types of human obesity. The most notorious book of 1994, "The Bell Curve," by Charles Murray and Richard J. Herrnstein, insists that there is a strong heritable component to intelligence, and that, sorry, some ethnic groups have a greater share of the bright stuff than others. Researchers have put forth candidate genes for homosexuality, aggression and criminality, which for most of this century were attributed largely to social conditions and upbringing. And a steady stream of books about the evolution of behavior -- most notably "The Moral Animal" by Robert Wright -- argues that the hand of natural selection urges powerful men to dump their aging wives for nubile beauties, women to fixate on the thickness of a man's wallet, and both sexes to consider dallying in adulterous waters.</p>
+      </block>
+      <block class="full_text">
+        <p>THIS is a banner era for the champions of nature over nurture, who think we have much less say over our impulses, our body shape, our choice of mates, our careers, even our attempts at heroism and generosity, than our wistful imaginations might have fancied.</p>
+        <p>Scientists recently announced, for example, the discovery of a gene that makes mice get fat and that very well could be involved in some types of human obesity. The most notorious book of 1994, "The Bell Curve," by Charles Murray and Richard J. Herrnstein, insists that there is a strong heritable component to intelligence, and that, sorry, some ethnic groups have a greater share of the bright stuff than others. Researchers have put forth candidate genes for homosexuality, aggression and criminality, which for most of this century were attributed largely to social conditions and upbringing. And a steady stream of books about the evolution of behavior -- most notably "The Moral Animal" by Robert Wright -- argues that the hand of natural selection urges powerful men to dump their aging wives for nubile beauties, women to fixate on the thickness of a man's wallet, and both sexes to consider dallying in adulterous waters.</p>
+        <p>By superficial accounting, free will, that Enlightenment notion that we control our destinies, seems beset on all sides by what science is finding in our genetic woodwork.</p>
+        <p>"I call it the gene-ing of America," said Sarah Blaffer Hrdy, a sociobiologist at the University of California at Davis. "Of course there's such a thing as free will, but we're learning what a tough row we have to hoe in making decisions counter to our urges."</p>
+        <p>P.C. and Naive</p>
+        <p>For their part, those who continue to squeak that maybe nurture and the prevailing culture exert an enormous effect on human behavior are dismissed as politically correct, scientifically naive, yesterday's news or in a dangerous state of denial.</p>
+        <p>Paradoxically, as the science of human behavior appears to be moving toward a more genocentric point of view, those studying non-human animals are getting away from the notion of hard-wired behavior and examining the importance of learning and social interaction.</p>
+        <p>"There's a movement to look at the intelligence and flexibility of animals," said Frans de Waal, a primatologist at Emory University in Atlanta. "Instead of talking about survival machines, we are talking about adaptive decision-making. The extreme reductionism is being left behind."</p>
+        <p>Why, then, the embracing of neo-determinism in studies of the one species capable of wallpapering an office with evidence of higher learning? Some see the trend as a reaction against gains made by those traditionally ignored in society. "This turn to biology is a way of not listening at a time when many groups are speaking who hadn't been heard before," said Carol Gilligan, a professor of psychology at Harvard. "We don't need to listen to women or African-Americans; we only have to look at their genes under a microscope."</p>
+        <p>The trend toward looking to science to explain social woes may be seen as part of the general shift rightward. If intelligence or propensity for violence is fixed before birth, why bother with expensive social programs?</p>
+        <p>At the same time, the deterministic view could be used against many conservative principles, particularly those that stress personal responsibility. If a criminal is a criminal because of lousy genes, what will we accomplish with drastic penalties?</p>
+        <p>Others say the rise of behavioral genetics has nothing to do with politics. Because of technical breakthroughs like the polymerase chain reaction, which multiplies tiny samples of DNA into analyzable quantities, researchers are getting awfully good at identifying genetic markers linked to various traits. Yet they caution that they are at the bare beginning of their understanding of what these markers mean.</p>
+        <p>"What's happening with molecular genetics today is what happened with chemistry back when the periodic table came into being," said Jules Hirsch, physician-in-chief at Rockefeller University in New York and an expert on obesity. "We're putting together the fundamental building blocks into a representation that we didn't have before." But just as knowing that humans are made up of oxygen, carbon, nitrogen, sulfur and hydrogen does not tell us much about who we are, he said, a map of the human genome will be far from a meaningful book of life. "It's an essential step," Dr. Hirsch said, "but ultimately it's no more than another description of anatomy."</p>
+        <p>Dr. Hirsch cites the newly detected fat-linked gene as an example of how primitive understanding is of a trait like obesity. Scientists have known for some time that animals and humans can carry a predisposition toward putting on pounds, and the so-called obese gene is part of the story.</p>
+        <p>But the sharp rise in obesity among Americans cannot be explained by genetics, for it has occurred far too quickly to have resulted from a change in gene frequency in the population. The national fatness index is likely linked to such old-fashioned environmental factors as easy availability of junk foods and excessive sitting before televisions and work stations. This does not mean that genes are not involved in some types of obesity, but how, when or why they are remains entirely unknown.</p>
+        <p>Effect and Cause</p>
+        <p>One reason it is difficult to sort out hereditary from environmental influences is that the two categories are only part of the narrative of how a human being is put together. For example, much evidence suggests that what happens in early life has a profound impact on both physiology and behavior -- so profound that the effect resembles an innate trait.</p>
+        <p>Dr. Torsten Wiesel, president of Rockefeller University, points out that the wiring of the visual apparatus obviously is laid down by one's genes; yet if a baby is born with cataracts that are not removed, the child could end up blind, the visual wiring having atrophied from neglect. By the same token, there are suggestions that how a baby is fed affects a later predisposition toward gaining weight or staying lean, the fatness gene be damned. Freud may have fallen out of fashion, but his emphasis on the importance of early childhood events very likely has a biological logic to it.</p>
+        <p>Yet even as the squabble intensifies toward rank incivility, a number of scientists are attempting to substitute the word "and" for "versus" in the tired nature vs. nurture formulation, and to add a few other elements into the mix. They are looking for a perspective on human nature that acknowledges both its biological basis and its extraordinarily plasticity. After all, they say, the ability of human beings to adapt and respond moment by moment to practically any challenge thrown their way explains their success in re-imagining the globe to suit their needs.</p>
+        <p>"There's a reductionist desire to go one way or another," toward biology or environment, said Professor de Waal at Emory. "But anyone with a sane mind will try to keep both poles alive and work with the tension."</p>
+        <p>Some evolutionary thinkers are looking, in addition, at the impact of culture on shaping behavior. This sounds at first blush like the environment half of the nature-nurture tussle, but culture in this formulation is more fixed than an individual's particular environment.</p>
+        <p>"Nobody invents a whole cultural repertory for themselves," said Peter J. Richerson, a professor of environmental studies at the University of California at Davis who studies the evolution of culture. "Therefore, culture can act to constrain or structure our choices in life almost as much as genes do." Putting this trichotomy together, he used the example of obesity. A person may inherit a tendency to store calories -- that's the genetic component. Should the person eat too much, the body will balloon -- that's the environmental factor at work. The cultural part of the equation, said Dr. Richerson, is the technology that made food so available, or perhaps the culture that emphasizes a high-fat, meat-based diet rather than a Japanese diet of bean curd and fish.</p>
+        <p>Even as science reveals what most of us already know -- that humans are mighty complex organisms -- the tendency persists to apportion blame as suits the circumstances. In some cases, it is handy to blame nature, to say all men are born pigs and their Y chromosomes made them do it. At other times, blame the individual for character flaws -- the fat person for sloth or gluttony. This tendency may itself be innate, for in each case the blamer ends up with the delicious sense of superiority.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Nation; READING FILE</title>
+    <meta content="22READ$09" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/06/22/weekinreview/22READ.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1498933"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <person class="indexing_service">Hitler, Adolf (1889-1945)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nazi Policies Toward Jews and Minorities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Minorities (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Jews</classifier>
+        <classifier class="online_producer" type="general_descriptor">Religion and Churches</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030622T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F06E1DF173BF931A15755C0A9659C8B63" item-length="700" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Nation; READING FILE</hl1>
+        <hl2 class="online_headline">Reading File</hl2>
+      </hedline>
+      <abstract>
+        <p>Adolf Hitler's praise for 'racially select' American people, from sequel to Mein Kampf, quoted (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What Hitler Liked About America</p>
+        <p>IN ''Hitler's Second Book: The Unpublished Sequel to 'Mein Kampf,' '' to be published in English translation in October by Enigma Books, Hitler admires the ''young, racially select'' American people and the nation's restrictive immigration policies at the time.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>IN</p>
+      </block>
+      <block class="full_text">
+        <p>What Hitler Liked About America</p>
+        <p>IN ''Hitler's Second Book: The Unpublished Sequel to 'Mein Kampf,' '' to be published in English translation in October by Enigma Books, Hitler admires the ''young, racially select'' American people and the nation's restrictive immigration policies at the time.</p>
+        <p>''It is not by chance that the American union is in the state in which by far the greatest number of bold, sometimes unbelievably so, inventions are currently taking place,'' he wrote in 1928. ''The achievements of a thousand racially questionable Europeans cannot equate with the capabilities of a thousand racially first-rate Americans.''</p>
+        <p>''Only a deliberately ethnic racial policy could save the European nations from losing the power of the initiative to America. . . . By making an immigrant's ability to set foot on American soil dependent on specific racial requirements on the one hand as well as a certain level of physical health of the individual himself, the bleeding of Europe of its best people has become regulated in a manner that is almost bound by law.''</p>
+        <p>Pity the Hunter, Not the Hunted</p>
+        <p>AT first glance hunting in America has never been in better shape, says Field &amp; Stream in a special report in its July issue. The magazine cites a United States Fish and Wildlife Service study, conducted in 2001, showing that American hunters are wealthier and spending more on their sport now than ever before -- $20.6 billion a year -- including a 29 percent increase in the last 10 years.</p>
+        <p>Also, the wildlife conservation movement has produced an abundance of North American game animals, including many species that were near extinction a century ago.</p>
+        <p>But hunting also faces challenges that could prove insurmountable. The two main ones: Fewer people are becoming hunters, and access to hunting lands is increasingly limited.</p>
+        <p>Among the figures cited in the magazine: The number of hunters in the last five years fell 14 million to 13 million. Only 6 percent of Americans 16 and older hunt, and the hunters are getting older. Sixty-seven percent of all hunters are over 35. Only 14 percent are between 16 and 24 years old.</p>
+        <p>Charles Murray On the West, the Rest</p>
+        <p>''EUROCENTRISM has in recent years joined racism and sexism as one of the postmodern mortal sins,'' writes Charles Murray in the summer issue of The Public Interest. In the article, ''Measuring Achievement: The West and the Rest,'' he says, ''The assumption that Eurocentrism is a real problem accounts for the reluctance of many to celebrate Western culture -- or even defend it.''</p>
+        <p>Using various measurements, Mr. Murray concludes that since 1400, Europe has ''overwhelmingly dominated accomplishment both in the arts and sciences.''</p>
+        <p>He argues: ''What the human species can claim to its credit in the arts and sciences is owed in astonishing degree to what was accomplished in just a half-dozen centuries by the peoples of one small portion of the northwestern Eurasian land mass.''</p>
+        <p>Mr. Murray, a scholar at the American Enterprise Institute, created an uproar in 1994 when his book ''The Bell Curve,'' written with Richard J. Herrnstein, linked intelligence, race and genes.</p>
+        <p>Men and Women: A Differing Sexuality</p>
+        <p>A Northwestern University study strongly suggests that compared with men's, women's sexual arousal patterns may be less tightly connected to their sexual orientation. In contrast to men, both heterosexual and lesbian women tend to become sexually aroused by both male and female erotica, and, thus, have what experts call a bisexual arousal pattern.</p>
+        <p>The study is forthcoming in the journal Psychological Science.</p>
+        <p>The findings ''have important implications for understanding differences in sexual orientation between men and women,'' said J. Michael Bailey, the chairman of psychology at Northwestern and senior researcher of the study, ''A Sex Difference in the Specificity of Sexual Arousal.''</p>
+        <p>The researchers measured the psychological and physiological sexual arousal in homosexual and heterosexual men and women as they watched erotic films.</p>
+        <p>Heterosexual women were just as sexually aroused by watching two women having sex as they were by watching a man and a woman having sex, the study concluded.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

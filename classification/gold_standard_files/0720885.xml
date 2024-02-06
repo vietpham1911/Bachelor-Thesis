@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debate on Race and I.Q. Recalls Past Prejudice; No Evolutionary Reason</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720885"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">HOLT, JIM</person>
+        <person class="indexing_service">PFLAUM, WILL (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DE3DE123FF935A15753C1A962958260" item-length="280" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debate on Race and I.Q. Recalls Past Prejudice; No Evolutionary Reason</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Jim Holt's article on "The Bell Curve" (Op-Ed, Oct. 19) made a number of important biological points about race and intelligence. His perspective becomes even richer if we consider the context of our evolutionary history.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Jim Holt's article on "The Bell Curve" (Op-Ed, Oct. 19) made a number of important biological points about race and intelligence. His perspective becomes even richer if we consider the context of our evolutionary history.</p>
+        <p>Until about 150 years ago the vast majority of all people on all continents were illiterate subsistence agriculturists. Before 10,000 years ago we were all hunters and gatherers. The modern era has not existed long enough to cause genetic change.</p>
+        <p>For the majority, pre-modern conditions probably did not require different levels of intelligence. And the tiny pre-modern literate elites were not independent breeding populations. In short, there is no evolutionary reason to expect genetic difference between races or classes.</p>
+        <p>Furthermore, evidence from mitochondria DNA suggests that the line leading to present-day Asian populations split from the line leading to Africans and Europeans before Africans and Europeans split from each other. So if Europeans and Asians are more intelligent than Africans, increased intelligence would have had to evolve independently on two occasions, which is highly unlikely and very hard to explain.</p>
+        <p>It seems odd that in the 19th century, when Europe dominated the world economy, whites scored higher than Asians on intelligence tests. According to "The Bell Curve," Asians are now smarter. So who was smartest in the ninth century A.D., Muslim Spaniards? In 4000 B.C., the Egyptians? I doubt we have evolved a mechanism that varies intelligence with gross national product in 50-year intervals. WILL PFLAUM  Professor of Anthropology Medgar Evers College, CUNY Brooklyn, Oct. 19, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

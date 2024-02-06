@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Drowning Case Embitters U.S. Race Relations</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="724800"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">MURDERS AND ATTEMPTED MURDERS</classifier>
+        <classifier class="indexing_service" type="descriptor">KIDNAPPING</classifier>
+        <classifier class="indexing_service" type="descriptor">HOAXES</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <location class="indexing_service">SOUTH CAROLINA</location>
+        <person class="indexing_service">ROSS, KEVIN A</person>
+        <person class="indexing_service">SMITH, SUSAN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/South Carolina</classifier>
+        <classifier class="online_producer" type="general_descriptor">Kidnapping</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Murders and Attempted Murders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941111T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06EED71F3EF932A25752C1A962958260" item-length="527" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Drowning Case Embitters U.S. Race Relations</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The headlines in the major newspapers read similarly: "Mom Killed Kids," "2 Bodies Found, Mother Held in Children's Death." As a human being, I couldn't help being mortified by the senseless tragedy. As an African-American, I couldn't help being disgusted and angry. Why? Because this disturbing ordeal painfully shows that black men have become the symbol for society's ills.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The headlines in the major newspapers read similarly: "Mom Killed Kids," "2 Bodies Found, Mother Held in Children's Death." As a human being, I couldn't help being mortified by the senseless tragedy. As an African-American, I couldn't help being disgusted and angry. Why? Because this disturbing ordeal painfully shows that black men have become the symbol for society's ills.</p>
+        <p>As a prosecutor, I am all too familiar with the disproportionate amount of blue-collar crime that black men have been justly accused and convicted of. And no one was more incensed than I when it was made known that the civil rights heroine Rosa Parks had been assaulted by a black man who had the audacity to continue the attack even after recognizing her. But the unsettling pattern of whites falsely accusing black men of savage crimes has become absurd and outrageous.</p>
+        <p>Much established criminal procedure studied in law schools across the country is predicated on the white majority's violating the rights of minorities. But in this instance law enforcement agencies nationwide, with fabricated facts and a detailed composite sketch, were prepared to find a black perpetrator of the carjacking-kidnapping in Union, S.C., by any means necessary.</p>
+        <p>Suddenly, it became probable cause for suspicion to be a black man within 200 miles of where Susan Smith's red Mazda compact was last seen. How many men were unnecessarily stopped, questioned, harassed or even charged with other crimes under the guise of finding a person who didn't even exist?</p>
+        <p>And then there's the deeper issue: Why someone black?</p>
+        <p>Consider the 1989 case in Boston in which Charles Stuart, a white man, told the police that a black man had shot and killed Mr. Stuart's pregnant wife. After the investigation turned toward Mr. Stuart, he took his own life. And what about the white woman in Philadelphia who accused three black men of killing her children when she herself had killed them? Last August a white Los Angeles man killed his wife and blamed a black man.</p>
+        <p>All this time when the country is cozy in bed with "The Bell Curve" by Charles Murray and Richard J. Herrnstein. For many, justification that blacks have lower intelligence quotients perpetuates the scapegoating. But as the black Harvard professor Cornel West asserts in his book "Race Matters": "We confine discussions about race to the 'problems' black people pose for whites, rather than consider what this way of viewing black people reveals about us as a nation."</p>
+        <p>Now more than ever we must recognize and acknowledge the despicable campaign to destroy the black male image. That is the only way it will end, and end it must. If it does not, it will make us hypocrites. We will be less than what we claim to be. It will make it impossible to reward those who are worthy and to punish those who deserve punishment. It will drive us deeper into despair. We will not be responsible adults.</p>
+        <p>We will be lost, beautiful children. Betrayed. Strapped down. Trapped. Under water. Never able to see the light of day again.  KEVIN A. ROSS  Los Angeles, Nov. 6, 1994 The writer is a deputy district attorney in Los Angeles.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

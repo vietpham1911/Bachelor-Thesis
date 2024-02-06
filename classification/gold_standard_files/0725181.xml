@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725181"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">GANS, HERBERT J</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990DE0D61F3EF930A25752C1A962958260" item-length="253" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne summarized the three books about intelligence he reviewed on Oct. 16 as arguing that "America is rapidly evolving . . . an intellectually deprived population of men and women whose cognitive abilities will never match the future needs of most employers." I propose just the reverse summary: that this population is "being evolved" because the economy no longer needs it and, to continue Mr. Browne's summary, that it will therefore be "permanently doomed . . . to welfare dependency, poverty, crime and lives shorn of any hope of realizing the American dream." To help drive this population farther out of the economy, the 1980's conservatives described it as a morally un deserving underclass that did not desire help, and this decade's conservatives now declare it genetically incapable of benefiting from any help, including education.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne summarized the three books about intelligence he reviewed on Oct. 16 as arguing that "America is rapidly evolving . . . an intellectually deprived population of men and women whose cognitive abilities will never match the future needs of most employers." I propose just the reverse summary: that this population is "being evolved" because the economy no longer needs it and, to continue Mr. Browne's summary, that it will therefore be "permanently doomed . . . to welfare dependency, poverty, crime and lives shorn of any hope of realizing the American dream." To help drive this population farther out of the economy, the 1980's conservatives described it as a morally un deserving underclass that did not desire help, and this decade's conservatives now declare it genetically incapable of benefiting from any help, including education.</p>
+        <p>Ironically enough, the ancestors of the black sectors of this population were denied education in the hope that they would remain too ignorant to revolt against their slave condition. Today's geneticist authors worry that women with low intelligence scores "are reproducing more rapidly than women with high scores" (to quote "The Bell Curve"). The same conclusion was reached by the WASP geneticists of the early 20th century, but they were referring not to blacks but to, among others, the poor Eastern European immigrants whose descendants now often obtain the highest scores on intelligence tests.  HERBERT J. GANS  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

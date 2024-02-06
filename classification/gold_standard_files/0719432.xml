@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Essay; Of I.Q. and Genes</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="719432"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <person class="indexing_service">SAFIRE, WILLIAM</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/William Safire</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D00EFDB1E3CF933A15753C1A962958260" item-length="718" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Essay; Of I.Q. and Genes</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM SAFIRE</byline>
+      <byline class="normalized_byline">SAFIRE, WILLIAM</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Back in the 50's, a group of feisty dreamers gathered for breakfast at 7 every week in the Madison Avenue eyrie of the realty tycoon William Zeckendorf.</p>
+        <p>Their dream: to build the world's largest building, with the tallest tower. Using the air rights over Penn Station, "The Palace of Progress" would not only combine an office building with a merchandise mart, but would contain a "videal dimension" -- television shopping made interactive with telephone ordering, much as we have today.</p>
+      </block>
+      <block class="full_text">
+        <p>Back in the 50's, a group of feisty dreamers gathered for breakfast at 7 every week in the Madison Avenue eyrie of the realty tycoon William Zeckendorf.</p>
+        <p>Their dream: to build the world's largest building, with the tallest tower. Using the air rights over Penn Station, "The Palace of Progress" would not only combine an office building with a merchandise mart, but would contain a "videal dimension" -- television shopping made interactive with telephone ordering, much as we have today.</p>
+        <p>That was some bunch Zeckendorf gathered: the lawyer was "Wild Bill" Donovan, fresh from creating the C.I.A.; the showman was Billy Rose (who also wrote a column that sometimes used the "and that man was" twist); the architect was Charles Luckman, who as a soap-business king had transformed Park Avenue with Lever House; the publicist was the legendary Tex McCrary.</p>
+        <p>As a hotshot press agent, I sat below the salt with an enthusiastic young designer, Ieoh Ming, who couldn't sign architectural drawings because he was not yet admitted to the elite club of architects. But in the course of those breakfasts about a building that was never built, the modest Chinese-American impressed all of us as having the finest mind in that high-powered room.</p>
+        <p>What brings Ieoh Ming to mind after all these years is the furor over "The Bell Curve," the book by Charles Murray and Richard Herrnstein that dares to examine a thesis unhelpful to race relations: the likelihood that much of intelligence is inherited, and the possibility that the average black is not as smart as the average white, who is in turn not as smart as the average Asian.</p>
+        <p>Nobody disputes that individuals within each race score higher on I.Q. tests than do most in other groups. What bothers Mr. Murray's critics is his scholarly contention that public policy should not encourage procreation among the least intelligent lest we perpetuate a permanent underclass, and his gloomy projection that an intelligent elite will soon run everything from an ivory tower.</p>
+        <p>Should such analysis be banned, its author condemned as a bigot? No; we follow inquiry wherever it leads. Instead of denouncing this study as roiling up feelings of black inferiority, it might be helpful to look in the other direction -- toward the group that scores highest, the Asians.</p>
+        <p>Does their apparent intellectual superiority constitute a new "yellow peril" to whites? Will the knowledge of test scores -- or even hard proof of greater group intelligence -- make whites feel inferior to Chinese and Japanese?</p>
+        <p>Another personal experience: I went back to the Bronx High School of Science recently to help drum up support for this underfunded public school, which sets a test for entrance and admits students on their merits.</p>
+        <p>In my day, the student body was 98 percent white, about half of us prodded onto the subway by Jewish mothers. Today the breakdown is nearly two-fifths Asian, one-fifth black and Hispanic, and two-fifths "other" (the euphemism for white). That is as it should be: merit is merit, and the kids in Bronx Science classrooms have the same cocky competitiveness as ever.</p>
+        <p>Does this trend mean that people of my skin color are doomed to the middle stratum of group intellect?</p>
+        <p>The answer is there ain't no group intellect. Individual motivation and stamina, buttressed by values within the family, already join intelligence as determinants of "superiority." The races are not in a race.</p>
+        <p>Even if Murray's thesis is correct, and membership in one group or another gives its members a genetic edge, that is no reason for anyone's acceptance of social immobility, and no precursor of domination by a gaggle of brainy affluentials.</p>
+        <p>Early reading training, using techniques such as those being pioneered in the AmeriCorps by Uri Treisman of the Dana Foundation, may shrink the gaps within and between groups. And the computer, while no leveler, can provide on-line access to creative communities far beyond the dangerous neighborhood.</p>
+        <p>I ran into Ieoh Ming at a black-tie fund-raiser the other night. As we embraced, he looked through this media biggie to the hustling flack of long ago, and I looked through I. M. Pei, the great architect who revitalized cities from Washington to Paris, to the young designer who made the most of his intelligence.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Never Mind Those I.Q. Scores: It's Dedication That Counts</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="34" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="722989"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941104T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C00E5D7143EF937A35752C1A962958260" item-length="265" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Never Mind Those I.Q. Scores: It's Dedication That Counts</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Congratulations to Brent Staples for taking the I.Q. worshipers to task so pointedly and effectively in "The 'Scientific' War on the Poor" (Editorial Notebook, Oct. 28).</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Congratulations to Brent Staples for taking the I.Q. worshipers to task so pointedly and effectively in "The 'Scientific' War on the Poor" (Editorial Notebook, Oct. 28).</p>
+        <p>"The Bell Curve" and other books on the relationship of heredity and intelligence have made some constructive suggestions -- the importance of more research on social maladjustment, and the need for more creative imagination than we now observe in planning social welfare and in education.</p>
+        <p>But on the whole, their focus on I.Q. and bad heredity is a myopic one. As geneticists have pointed out, the high values of one social milieu are the vices of another, and our milieu is constantly changing.</p>
+        <p>The rate of genetic change in the population is very slow compared with the changes in our social institutions. As a consequence, the quantitative importance of hereditary variation for our social problems is quite unknown and impossible to measure.</p>
+        <p>The I.Q. worshipers overlook that achievements worthy of a true genius are accomplished by average human beings dedicated to a goal. Each person is a partial genius contributing one or more particular virtues, but together human beings can be organized as collective geniuses excelling an individual genius.</p>
+        <p>Under these circumstances we can hardly neglect another prescription: the need for working out the techniques of education, medical care and industrial and economic organization that would create opportunity and incentives for the whole wonderful variety of human beings. SPYROS ANDREOPOULOS  Stanford, Calif., Oct. 28, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

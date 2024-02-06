@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>We Can Throw Teacher Expectations on the I.Q. Scrapheap; Why Freeze the Rats?</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="734680"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <person class="indexing_service">HOFER, MYRON A (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE2DC1531F931A35752C0A963958260" item-length="175" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>We Can Throw Teacher Expectations on the I.Q. Scrapheap; Why Freeze the Rats?</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In "Behind the Curve" (Op-Ed, Dec. 26), Myron A. Hofer mentions experiments on rats to buttress his argument that "The Bell Curve" by Charles Murray and the late Richard J. Herrnstein is faulty science. That book has been widely criticized, and rightly so.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In "Behind the Curve" (Op-Ed, Dec. 26), Myron A. Hofer mentions experiments on rats to buttress his argument that "The Bell Curve" by Charles Murray and the late Richard J. Herrnstein is faulty science. That book has been widely criticized, and rightly so.</p>
+        <p>But readers should know about Dr. Hofer's research history. For the last 20 years, he has used the rat as his animal model to study the effects of maternal separation. In 1994, the 17th year of one grant and the 11th year of another, Dr. Hofer received more than $330,000 from the National Institute of Mental Health.</p>
+        <p>Here's one example of Professor Hofer's recent research: Dr. Hofer induced severe hypothermia in rat mothers, then presented these freezing mothers to rat pups who had been isolated. Why? To see what effect introducing, then removing, the freezing mothers would have on pup vocalization (Developmental Psychobiology, 1993, Volume 26, pages 81-95). ERIC KLEIMAN  Research Director In Defense of Animals San Rafael, Calif., Dec. 28, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

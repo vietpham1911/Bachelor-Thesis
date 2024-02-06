@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Booming Job Market Draws Young Black Men Into Fold</title>
+    <meta content="23JOBS$10" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1109849"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Unemployment</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Crime and Criminals</classifier>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <person class="indexing_service">Nasar, Sylvia</person>
+        <person class="indexing_service">mitchell, kirsten b</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Diversity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990523T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506EED71431F930A15756C0A96F958260" item-length="1758" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Booming Job Market Draws Young Black Men Into Fold</hl1>
+      </hedline>
+      <byline class="print_byline">By SYLVIA NASAR with KIRSTEN B. MITCHELL</byline>
+      <byline class="normalized_byline">Nasar, Sylvia; mitchell, kirsten b</byline>
+      <abstract>
+        <p>Young black men with little education and few skills are entering labor force in numbers not seen in three decades, drawn by nation's low unemployment and tight labor markets; surge in legitimate employment goes hand in hand with a drop in criminal activity, which has long clouded the job prospects of young black men; gains are also coming despite halting of affirmative action, preferential contracting for minorities and most job training programs; photo; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>For nearly three decades, in good times and in bad, young black men with little education and few skills lost ground. Facing high unemployment, falling pay and persistent discrimination, a depressingly large number never really joined the work force or drifted out of it, getting by on handouts, hustling or crime.</p>
+        <p>But now the nation's job boom is drawing many of these young men -- perhaps the most economically disadvantaged, socially alienated group in America -- back into the economic mainstream.</p>
+      </block>
+      <block class="full_text">
+        <p>For nearly three decades, in good times and in bad, young black men with little education and few skills lost ground. Facing high unemployment, falling pay and persistent discrimination, a depressingly large number never really joined the work force or drifted out of it, getting by on handouts, hustling or crime.</p>
+        <p>But now the nation's job boom is drawing many of these young men -- perhaps the most economically disadvantaged, socially alienated group in America -- back into the economic mainstream.</p>
+        <p>Low unemployment and tight labor markets have always encouraged upward mobility. The surprise, researchers say, is how dramatic the gains have been.</p>
+        <p>A new study of low-wage men in 322 metropolitan areas by Richard B. Freeman at Harvard University and William M. Rodgers 3d at the College of William and Mary shows that black men aged 16 to 24 with a high school education or less -- many saddled with prison records -- are working in greater numbers, earning bigger paychecks and committing fewer crimes than in the early 1990's.</p>
+        <p>''Poor blacks never lost faith in work, education and individual effort,'' said Jennifer L. Hochschild, a political scientist at Princeton University and author of ''Facing Up to the American Dream: Race, Class and the Soul of the Nation.'' ''What's different now is that they can do something about it.''</p>
+        <p>Far too many young black men are still idle or in prison. But the surge in legitimate employment has gone hand in hand with a drop in criminal activity, which has long clouded the job prospects of young black men. Indeed, crime has fallen rapidly in regions where joblessness has fallen most.</p>
+        <p>In the 14 areas where unemployment has been below 4 percent in every year since 1992 -- places like the Raleigh-Durham area in North Carolina; Rochester, Minn., and Des Moines -- the percentage of young, less-educated black men who are working has jumped from 52 percent, to 64 percent. The figures exclude young men who are still in school and the 7 percent of those between the ages of 20 and 24 who are in prison. But the improvement does not simply reflect the fact that many of those with the worst job prospects are now behind bars.</p>
+        <p>''We used the variation across cities to see what might happen at a national level if we were able to get national unemployment below 4 percent for a long time,'' said Professor Rodgers, who pointed out that by 1998, 146 of the nation's 322 metropolitan areas had unemployment rates below 4 percent. In 1992, only 19 areas had jobless rates that low. ''It allows us to see what kind of employment and wage gains these men might experience.''</p>
+        <p>In 15 other metropolitan areas where unemployment fell by five percentage points or more -- places like Pittsfield, Mass., Flint, Mich., and Naples, Fla. -- the corresponding improvement was from 42 percent, to 51 percent. Uniformly, the gains for young black men outstripped the much more modest gains for all young men, including whites, and for black men in their prime working years.</p>
+        <p>Brian Burnett, 19, is typical of many young blacks who have benefited from the extended period of low unemployment in fast-growing parts of the United States. He graduated from an inner-city high school in Raleigh, N.C., in June 1997, when the local unemployment rate was 2.2 percent. After working at a series of temporary jobs for about a year and completing a federally financed job readiness program, he landed a $7- an-hour, full-time position as a front-desk clerk at an Embassy Suites hotel.</p>
+        <p>Now Mr. Burnett is planning to study hotel management part time with tuition help from his employer. ''The sky's the limit,'' he said. ''No one can hold me back but me.''</p>
+        <p>Professor Freeman, one of the nation's top experts on black youth unemployment, said: ''This shows how critical it is not to give up on these guys. If you give these kids a break, they come back.''</p>
+        <p>The gains are coming at a time when affirmative action, preferential contracting for minorities and most job training programs are no longer expanding.</p>
+        <p>''The market is more powerful than any Government program,'' Professor Freeman said. ''The question is: 'Can we keep it up?' ''</p>
+        <p>In the sharply segregated 1950's -- hardly the best of times for young blacks -- there were more opportunities at the bottom of the economic ladder. Young blacks and young whites were equally likely to hold jobs, although young blacks' hourly pay was roughly one-third lower than that of whites. By the late 1960's, the earnings gap between young blacks and whites had narrowed to less than 10 percentage points, but the fraction of black youths with jobs had fallen sharply. At that point, the collapse in work among young black men in inner cities accelerated, the pay gap widened again, and neither the civil rights movement nor major Federal job training programs did much to reverse the devastation. The pay gap peaked in the early 1990's at more than 20 percentage points.</p>
+        <p>In the early 1990's, businesses drifted even farther away from cities, the computer revolution increased skill requirements, growing numbers of woman and immigrants competed for entry-level jobs, and the ranks of young black prison inmates continued to swell. To many people, the outlook for a turnaround in the job prospects of young black men seemed remote.</p>
+        <p>''They have so many strikes against them,'' said Hazel Logan, a grandmother of five who runs a jobs program in Raleigh. ''Whatever the totem pole is, they are at the bottom.''</p>
+        <p>Today, one of the most visible signs of change is on one basketball court at the Durham Y.M.C.A. Around 400 black men between ages 19 and 25 from the inner cities of Raleigh, Durham and Chapel Hill used to take part in a midnight basketball league where networking and interviewing tips were as much on the agenda as foul shots. Now, says James A. Johnson, director of the Urban Investment Strategies Center at the University of North Carolina, ''We've had difficulty getting enough people to play because they are in the job market.''</p>
+        <p>Michael Tavernise, manager of the Employment Security Commission office in Raleigh, said, ''Employers are hiring people that two, three, five years ago they weren't hiring.''  The overall unemployment rate in the Raleigh-Durham region recently dipped to 1.5 percent.</p>
+        <p>As businesses struggle to fill jobs, other groups of poorly educated workers are reaping even bigger gains. Half of all single mothers, including many young black women, are working now compared with fewer than one-third at the start of the decade, according to David Ellwood, an economist at the John F. Kennedy School of Government at Harvard University and a former adviser to President Clinton on welfare issues. He attributes the surge in work to new policies such as limits on welfare and pay subsidies for working parents as well as the vibrant job market. ''It's unprecedented,'' he said. ''Nothing like it has ever happened.''</p>
+        <p>Few expect a revival of the naive optimism of the early 1960's, when some liberal policy makers predicted that just a few more years of strong economic growth would erase the problems of young black men. Those problems are still daunting. Although unemployment among young black men of all education levels is lower now than at the peak of the 1980's expansion -- 17 percent compared with 20 percent -- it is more than twice that for young white men.</p>
+        <p>And even though more young black men are staying in school longer and entering the work force later -- just like their white counterparts -- some 19 percent of all black men between ages 16 and 24 are not in school or working. That is a smaller proportion than in 1992, but still slightly higher than at the peak of the last expansion and twice the comparable figures for young white men.</p>
+        <p>''I see people I went to school with and I see them talking outside, hanging around, not doing anything,'' said Mr. Burnett, the hotel clerk.</p>
+        <p>Charles Murray, the conservative social analyst at the American Enterprise Institute and author of ''Losing Ground: American Social Policy, 1950-1980'' and, with Richard J. Herrnstein, ''The Bell Curve: Intelligence and Class Structure in American Life,'' views the persistence of idleness during boom times as a sign that ''the underclass is as big as it's ever been and may still be growing.''</p>
+        <p>But these days few experts are as pessimistic as Mr. Murray.</p>
+        <p>One reason for cautious optimism is that overall unemployment has fallen further and stayed down longer than in the 1980's. The longer the labor markets stay tight, the more time the young have to acquire contacts, work experience and marketable skills with which to weather the next downturn. ''The current job market is giving young men an opportunity to build up some confidence,'' Professor Rodgers said.</p>
+        <p>Another reason to expect some of the gains to last is that entry-level work has become more rewarding financially. Before the 1990's, pay for less educated men had been declining in real terms for more than two decades.</p>
+        <p>At the peak of the 1980's economic expansion, according to a now-classic survey conducted by Professor Freeman and Lawrence Katz, also at Harvard, more than half of young black men in hot job markets like Boston judged their prospects in the underground economy superior to any legitimate employment. Since 1992, by contrast, the hourly pay of young, less educated black men has climbed as much as 15 percent in the metropolitan areas with the tightest labor markets.</p>
+        <p>''There are still big racial differences in employment outcomes, but the improvements are encouraging because they show that these young men aren't totally isolated from the world of work,'' Ronald Ferguson, an economist at the Kennedy School of Government, said. ''When the economy is hot enough, employers hire these folks.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

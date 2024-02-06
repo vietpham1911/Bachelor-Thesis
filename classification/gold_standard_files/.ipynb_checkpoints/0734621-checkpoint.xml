@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>We Can Throw Teacher Expectations on the I.Q. Scrapheap</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="734621"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <person class="indexing_service">HOFER, MYRON A (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE1DD153DF931A35752C0A963958260" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>We Can Throw Teacher Expectations on the I.Q. Scrapheap</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Apropos the effects of teacher expectations on student I.Q., as discussed by Myron A. Hofer in "Behind the Curve" (Op-Ed, Dec. 26):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Apropos the effects of teacher expectations on student I.Q., as discussed by Myron A. Hofer in "Behind the Curve" (Op-Ed, Dec. 26):</p>
+        <p>The study performed by Robert Rosenthal and Lenore Jacobson on grades one through six showed a significant effect on I.Q. only in the lowest two grades and no effect at all in grades three through six (reported in "Teacher Expectations for the Disadvantaged," Scientific American, April 1968).</p>
+        <p>When the youngest students were retested a year later, the effect had disappeared. The original finding was probably an artifact of the use of an I.Q. test unsuited to the youngest children, whose scores in the study varied far too much to be reliable.</p>
+        <p>After years of study, the best one can conclude is that teacher expectations, if they have any effect at all, are among the least important of the environmental variables that most scholars, including Charles Murray and Richard J. Herrnstein, authors of "The Bell Curve," believe contribute to adult I.Q. BYRON M. ROTH  Professor of Psychology Dowling College Sayville, L.I., Dec. 26, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

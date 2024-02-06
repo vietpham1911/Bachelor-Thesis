@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Affirmative Action</title>
+    <meta content="LTR000937" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="When White Men Sue, Rewards Are High" name="column_name"/>
+    <docdata>
+      <doc-id id-string="902956"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="When White Men Sue, Rewards Are High"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <person class="indexing_service">Semencic, Carl</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402E0D9123BF93AA25752C0A961958260" item-length="209" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Affirmative Action</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter from Carl Semencic says many affirmative action advocates expect kid-glove treatment and belittle formation of natiowide anti-affirmative action group (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>A Jan. 16 news article reports the formation of a nationwide anti-affirmative action group by those who persuaded California voters to abolish preferences in hiring, contracting and college admissions. You quote Ward Connerly, the head of the new American Civil Rights Institute, as saying that ''there is no public policy which has greater potential to rip the fabric of American democracy than affirmative action.''</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>A Jan. 16 news article reports the formation of a nationwide anti-affirmative action group by those who persuaded California voters to abolish preferences in hiring, contracting and college admissions. You quote Ward Connerly, the head of the new American Civil Rights Institute, as saying that ''there is no public policy which has greater potential to rip the fabric of American democracy than affirmative action.''</p>
+        <p>By contrast, you quote Wade Henderson, a Washington-based civil rights leader, as saying that the institute ''won't get very high priority here, particularly after the discrimination that has recently been turned up at places like Texaco.'' Such remarks are typical of the kid-glove treatment expected by many affirmative action advocates.</p>
+        <p>In the Texaco case, black employees received raises that brought them to salary equality with their white counterparts. To Mr. Henderson this might sound fair, but would it sound fair to Richard Herrnstein and Charles Murray, who in their book, ''The Bell Curve,'' show that income equality already exists in corporate America if the determining factor is I.Q., not race?</p>
+        <p>CARL SEMENCIC  West Hempstead, L.I., Jan. 16, 1997</p>
+        <p>When White Men Sue, Rewards Are High</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="75" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725189"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03EFD61F3EF930A25752C1A962958260" item-length="314" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne states that recent research in intelligence and its possible genetic link to race has been "neither fashionable nor safe for the last three decades." Whether or not study of this question has been seen as politically appropriate, in fact considerable research has been conducted during this period; very little of it, however, supports the conclusion that some races are cognitively less able than others.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne states that recent research in intelligence and its possible genetic link to race has been "neither fashionable nor safe for the last three decades." Whether or not study of this question has been seen as politically appropriate, in fact considerable research has been conducted during this period; very little of it, however, supports the conclusion that some races are cognitively less able than others.</p>
+        <p>The bulk of research in recent years suggests that there is no such thing as general intelligence -- a singular capacity to think abstractly about any problem, whatever its content. More and more, researchers agree that the mind is not a general problem solver, but a collection of special-purpose devices targeting specific domains of thought and reasoning. Similarly, intelligence is increasingly seen as comprising multiple and distinct kinds of intelligence. Research predicated on the notion of a nonexistent phenomenon is obviously based on a poor foundation: no one knows how unicorns reproduce, largely because there are no unicorns.</p>
+        <p>The notion of race as capturing distinct and coherent genetic populations is even more suspect than that of general intelligence. There is virtually as much genetic variation within races as there is between them. This is not difficult to explain. There have always been significant levels of interracial mixing. Moreover, the criterion for inclusion in one race as opposed to another typically bears no relationship to biological relatedness; for instance, the one-drop-of-blood rule that dominates thinking about race in the United States by definition distributes people who are genetically close into different racial categories. If race lacks biological coherence, it can hardly regulate the distribution of biologically grounded traits.  LAWRENCE A. HIRSCHFELD  Ann Arbor, Mich.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

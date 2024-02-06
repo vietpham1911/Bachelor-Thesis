@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>DIVIDING LINES: A special report.; Colleges Look for Answers To Racial Gaps in Testing</title>
+    <meta content="08IQ.$01" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="971372"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Education and Schools</classifier>
+        <classifier class="indexing_service" type="descriptor">Scholastic Assessment Test (Sat)</classifier>
+        <classifier class="indexing_service" type="descriptor">Admissions Standards</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Hispanic-Americans</classifier>
+        <classifier class="indexing_service" type="descriptor">Graduate Schools and Students</classifier>
+        <classifier class="indexing_service" type="descriptor">Intelligence</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Bronner, Ethan</person>
+        <classifier class="online_producer" type="types_of_material">Special Report</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Admissions Standards</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hispanic-Americans</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">SAT (College Admission Test)</classifier>
+        <classifier class="online_producer" type="general_descriptor">SAT (College Admission Test)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Graduate Schools and Students</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971108T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0DE6DA1539F93BA35752C1A961958260" item-length="3220" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>DIVIDING LINES: A special report.; Colleges Look for Answers To Racial Gaps in Testing</hl1>
+      </hedline>
+      <byline class="print_byline">By ETHAN BRONNER</byline>
+      <byline class="normalized_byline">Bronner, Ethan</byline>
+      <abstract>
+        <p>Universities around nation face dilemma of retaining affirmative-action policies and risking growing legal and political challenges or relying more heavily on standardized tests that will result in return to virtual racial segregation; scores of black and Hispanic students on SAT and its professional-school equivalents remain stubbornly lower than those of whites across income groups; sample questions from IQ test designed to test practical and creative intelligence (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Universities around the country are facing an agonizing dilemma: If they retain their affirmative-action admissions' policies they face growing legal and political challenges, but if they move to greater reliance on standardized tests, the results will be a return to virtual racial segregation.</p>
+        <p>Test scores by black and Hispanic students remain stubbornly below those of whites. This phenomenon, which cuts across all income groups, is only now being widely studied, with several scholarly reports offering new explanations for it.</p>
+      </block>
+      <block class="full_text">
+        <p>Universities around the country are facing an agonizing dilemma: If they retain their affirmative-action admissions' policies they face growing legal and political challenges, but if they move to greater reliance on standardized tests, the results will be a return to virtual racial segregation.</p>
+        <p>Test scores by black and Hispanic students remain stubbornly below those of whites. This phenomenon, which cuts across all income groups, is only now being widely studied, with several scholarly reports offering new explanations for it.</p>
+        <p>At the same time, longtime critics of standardized tests are finding wider sympathy for their argument that the tests are misguided. New data suggest that S.A.T. scores and their professional-school equivalents are weak predictors of academic and career success.</p>
+        <p>Still, admission officials say that much as they would love to rely more on nuanced measures like essays and interviews, the pressures to use test scores are growing from the sheer volume of applicants, limited budgets for evaluating them and the rise of college ranking guides that emphasize test scores.</p>
+        <p>Many officials agree with Donald M. Stewart, president of the College Board, who says that the risk of increased reliance on standardized tests is ''simply, the resegregation of higher education.''</p>
+        <p>''We're looking at a potential wipeout that could take away an entire generation,'' Mr. Stewart  said. ''The social cost of that would be too high. America can't stand that.''</p>
+        <p>Concerns over standardized tests are as old as the tests themselves. But with the nation's two most populous states, California and Texas, now forbidden to use race in university admissions, and with similar bans anticipated elsewhere, those concerns have become central to the searing national debate over race relations.</p>
+        <p>In the past few months:</p>
+        <p>*The Texas Legislature has ordered the University of Texas system to accept all students who graduate in the top 10 percent of their class irrespective of their S.A.T. scores.</p>
+        <p>*The Mexican-American Legal Defense and Educational Fund has filed a lawsuit against the State of Texas, saying that its high school graduation examination, on which black and Mexican-American students fail at a much higher rate than non-Hispanic whites, is discriminatory.</p>
+        <p>*The University of California has set up a commission to consider whether to drop or reduce the importance of S.A.T.'s and is increasing its budget to reach out to members of minorities.</p>
+        <p>*The American Bar Association and the Law School Admission Council have begun a study intended to find ways to reduce reliance on the Law School Admission Test (L.S.A.T.) across the country.</p>
+        <p>*The Educational Testing Service of Princeton, N.J., which administers many of the country's standardized tests, has grown defensive. It issued a lengthy statement warning against overreliance on the tests and urging that many measures of merit be simultaneously used. ''Equating scores with merit,'' it said, ''supports a mythology that is not consistent with the reality of data.''</p>
+        <p>The Scores  Adding Meanings To the Numbers</p>
+        <p>The issue of race and merit is freighted with emotional and political baggage, as was made clear when Richard J. Herrnstein and Charles Murray published ''The Bell Curve'' (The Free Press, 1994), a best seller asserting that the likeliest explanation for the gap in scores is genetic.</p>
+        <p>Most of the discussion since then has been an effort to discredit the book's explanation -- widely criticized as racist -- in favor of socioeconomic, historic, psychological and cultural ones. The legal and popular attacks on affirmative action have only added to the sense of urgency on the topic in the scholarly literature.</p>
+        <p>American Psychologist, the premier journal in its field, published by the American Psychological Association, has dealt with aspects of it in nearly every issue of the past half year, with titles like ''Schooling, Intelligence and Income'' and ''A Threat in the Air: How Stereotypes Shape Intellectual Identity and Performance.''</p>
+        <p>Change magazine, largely read by administrators in higher education, devoted seven pages in its March/April 1997 issue to the article ''Standardized Testing: Meritocracy's Crooked Yardstick,'' and The Chronicle of Higher Education, a weekly publication, has been running frequent news and opinion pieces on the subject.</p>
+        <p>The gap in scores between non-Hispanic white students and black and Hispanic students tracks across all tests, from I.Q. to achievement tests. It narrowed in the 1970's and 80's but has remained steady in the past decade.</p>
+        <p>The Journal of Blacks in Higher Education, arguing that ''African Americans are struggling to overcome 200 years of white supremacy and educational segregation'' and therefore need affirmative action to progress, gave over part of its most recent issue to a comparison between white and black scores on the S.A.T.'s, A.C.T.'s, L.S.A.T's and Medical College Admission Test, or M.C.A.T.'s. The article sought to show that a reliance on such scores would prove devastating to blacks.</p>
+        <p>Among the data cited were that the median combined M.C.A.T. for whites rejected for admission to medical schools nationwide in 1996 -- 25.2 out of 30 -- was significantly higher than the median M.C.A.T. score of blacks -- 23.5 -- who were admitted.</p>
+        <p>In addition, the article pointed out that while blacks make up 10 percent of the more than 1.1 million high school seniors who took the S.A.T., they constituted only 1 percent to 2 percent of those scoring in the range required by many of the nation's elite universities. Only 659 of the 110,000 black college-bound seniors who took the S.A.T. scored above 700 out of a possible 800 on the math part, and only 900 scored above 700 on the verbal section. Nationally, 62,517 students scored above 700 on the math part and 52,835 scored above it on the verbal part.</p>
+        <p>The gap, the study argued, means little about the potential for blacks' achievement, and the authors cited an arresting example from history. In 1951, Martin Luther King Jr. took the Graduate Record Exam for admission to a doctoral program at Boston University. The verbal aptitude score of a man who is now viewed as among the nation's greatest orators ever was in the third quartile, or below average. His quantitative score was in the bottom 10 percent, and he was in the bottom quarter for tests in physics, chemistry, biology, social studies and the fine arts.</p>
+        <p>The journal said that if tests were used as the main measure of potential by admissions committees at the nation's top colleges and universities, ''black enrollments at these institutions will drop by at least one half and in many cases by as much as 80 percent.''</p>
+        <p>A study published by New York University Law Review in April makes a similar point for law schools. It concluded that if they were to apply to blacks a formula for admissions based on L.S.A.T. score plus grade point average typically used as a cutoff for whites, the precentage of black applicants admitted across the country would fall to about 3 percent from the current 26 percent.</p>
+        <p>Most universities use a combination of test score and grade point average as a threshold for admissions, with the scale generally lower for minorities than for  whites. Those who qualify in each group are then examined for other factors, like special talents and unusual backgrounds.</p>
+        <p>The Center for Individual Rights in Washington has recently sued the University of Michigan on behalf of white students who said efforts to increase campus diversity by admitting black and Hispanic students with lower tests and grades violated the Constitution.</p>
+        <p>This suit follows a successful similar one against the University of Texas and a referendum in California that ended racial preferences in admissions. Today, all universities in both states are struggling for ways to keep minority students applying and admitted without offering them admissions preferences.</p>
+        <p>There is a twist to the testing gaps: the standardized tests themselves were designed half a century ago at least partly to reduce the impact of family and background on university admissions. The idea was that not every student was born rich but that any student could study hard and prove scholarly potential.</p>
+        <p>While certain groups, notably East European Jews and some Asians, have found such tests an entrance ticket into elite institutions, others, mostly African-Americans and those of Hispanic origin, like Puerto Ricans and Mexican-Americans, have not.</p>
+        <p>Scholars are divided over the reasons for the continuing gaps in scores.</p>
+        <p>A few, like the authors of ''The Bell Curve,'' argue that some groups are simply better able to learn than others. Indeed, the book said that since ''less intelligent'' groups were having far more babies than more intelligent ones, the United States faced an unseen peril in an era when intelligence was the key to economic progress.</p>
+        <p>Other scholars say the tests themselves have a kind of cultural bias detrimental especially to the poor and underprivileged. Questions, they say, refer to things like ''regattas'' and ''esthetics'' that are more familiar to certain classes.</p>
+        <p>Increasingly, scholars are pursuing a third approach, a complex blend of psychology and culture. They say that pure socioeconomic arguments do not suffice and suspect that the answers lie in nuanced group dynamics.</p>
+        <p>''It is clear that socioeconomic status will not substitute for race in these data,'' said Linda F.  Wightman, author of the law school study and an associate professor in the department of educational research methodology at the University of North Carolina at Greensboro.</p>
+        <p>''Within any ethnic group,'' Ms. Wightman said, ''as the socio-economic status goes down, so do the scores, but within the same socio-economic status, there are big differences between groups.''</p>
+        <p>The Results  Trouble Assessing Ability to Achieve</p>
+        <p>Wendy M. Williams and Stephen J. Ceci of the Department of Human Development at Cornell University published an article in the November 1997 issue of American Psychologist entitled ''Are Americans Becoming More or Less Alike?'' in which they concluded that although the black-white gap had hardly gone away, it had decreased.</p>
+        <p>They referred to pioneering work done by the New Zealand scholar James Flynn, who has found that for the past 65 years I.Q. scores have been increasing in every country where they have been measured and that I.Q. scores of black Americans are about where white ones were two generations ago.</p>
+        <p>This suggests, Professor Williams said, that there is much greater malleability of such tests than previously believed and that I.Q. tests, like S.A.T.'s, are open to unforeseen influences like, probably, the sophistication or urban nature of the society in which one lives.</p>
+        <p>Support was lent to that view by a study presented in August by researchers at Washington University in St. Louis. They found that comparing I.Q. test scores of blacks and whites in their last year of high school and again at the end of college showed that blacks improved their scores more than four times as much as whites, cutting the I.Q. gap in half.</p>
+        <p>Professor Williams, like Robert J. Sternberg at Yale University, argues that current standardized tests measure a specific, static kind of intelligence when there are, in fact, several different kinds of intelligence.</p>
+        <p>Professor Sternberg has created a model of a three-pronged intelligence, analytical, creative and practical, and says that when students take the intelligence tests he designed, high scorers are more ethnically and racially diverse.</p>
+        <p>A different and equally intriguing study was carried out by Claude Steele of Stanford University, suggesting that blacks, like women, absorb negative self-images from the environment, driving down their scores on standardized tests.</p>
+        <p>As reported in American Psychologist in June, Professor Steele found that when blacks taking a test were told that such tests showed no distinction in white-black scores, they did as well as the white test-takers. But when they were told nothing or had to tick off their race on a form before starting, their scores were lower than those of whites. Similar gaps emerged for women.</p>
+        <p>''Blacks in America are like people on thin ice,'' Professor Steele said in a telephone interview. ''Any little creak means a lot. We can manipulate the environment to make it more or less trustworthy for them.''</p>
+        <p>All of these studies arrive at a time when those mistrustful of standardized tests have begun accumulating a critical mass of data suggesting that the tests are less predictive of academic or professional success or both than many had believed.</p>
+        <p>A study of doctors trained at the medical school at the University of California at Davis from 1968 to 1987 found that those with lower scores and grades because of race or unusual background went on to careers indistinguishable from those admitted on academic merit alone.</p>
+        <p>Professor Lightman's study of law school admissions found that 73 percent of the black students who would not have been admitted under a pure scores-plus-grades formula went on to graduate and pass their bar exams. This is lower than the white rate of 90 percent passing but is impressively high, nonetheless.</p>
+        <p>A recent unpublished dissertation at the Harvard Graduate School of Education contends that of students admitted in three classes in the 1950's, 60's and 70's, those with lower S.A.T. scores and more blue-collar backgrounds ended up more successful, as measured by income, community involvement and professional satisfaction, said Marlyn McGrath Lewis, director of admissions for Harvard and Radcliffe Colleges.</p>
+        <p>And Professors Williams and Sternberg jointly published a study in American Psychologist in June showing that the psychology Graduate Record Examination was of limited use in predicting success as a psychology graduate student, correlating mildly with first-year grades but almost nothing else.</p>
+        <p>The Future  Perpetual Search For Perfect Test</p>
+        <p>The gathering data along with the gathering storm over affirmative action have produced, for the first time, a cross-disciplinary movement to take a hard look at the role of the tests, up until now limited largely to advocacy groups like Fairtest in Cambridge, Mass.</p>
+        <p>The use of tests to determine who gets a National Science Foundation scholarship and the use of P.S.A.T.'s to determine semifinalists in National Merit Scholarships have therefore come under greater attack.</p>
+        <p>Christopher F. Edley Jr., a professor at Harvard Law School, is planning a seminar later this month at Harvard to deal with the topic in the hope of coming up with recommendations for the nation's universities.</p>
+        <p>''Given the weak predictive ability of the tests,'' Professor Edley said, ''it is reasonable to worry that the public has seriously misunderstood the proper role of these tests in the selection process.</p>
+        <p>''The challenge for higher education leaders is to understand that these simple grids and indices are a bad way to think about merit. And as pressure mounts to dismantle affirmative action, there will be increased pressure to abuse these tests.''</p>
+        <p>Some 284 colleges, like Bates College in Maine, have chosen to stop requiring test scores from their applicants.</p>
+        <p>William Hiss, a vice president of Bates, said that internal college data showed that those who did not submit their scores but were admitted got 160 points lower than those who did submit their scores. Yet, the two groups show no difference either in grades or graduation rates.</p>
+        <p>The lower scorers, Mr. Hiss said, include not only minority students but also whites from working-class backgrounds, students who grow up speaking another language at home, more women than men, and those with what he called ''spike talents,'' those who are excellent musicians or set designers or athletes.</p>
+        <p>Bates's no-test policy had  helped double its minority representation, Mr. Hiss said.</p>
+        <p>Still, most colleges and universities see no reason to abandon the tests, saying they must simply keep them in perspective. The tests may be weak predictors of performance but are still among the best in a country with widely varying academic standards in high school.</p>
+        <p>For the moment, then, the main impact of the discussion seems to be to push admissions officers to search for broader measures of merit and potential. The problem is that doing so is expensive and often laborious.</p>
+        <p>But Robert M. Berdahl, chancellor of the University of California at Berkeley, said such steps were necessary, adding: ''We're on the verge of a major debate over the validity of these tests because the mood of the country is to say that affirmative action has run its course. Yet we must continue to offer opportunities to those denied them in the past. We're struggling here with an issue that is at the very heart of American society and we cannot let this one go.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

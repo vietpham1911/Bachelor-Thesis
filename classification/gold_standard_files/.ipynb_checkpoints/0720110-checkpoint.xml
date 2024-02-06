@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Learning Just How Little Is Known About The Brain</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720110"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <classifier class="indexing_service" type="descriptor">BRAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">JOHNSON, GEORGE</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Brain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05EFD8163FF930A15753C1A962958260" item-length="934" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Learning Just How Little Is Known About The Brain</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JOHNSON</byline>
+      <byline class="normalized_byline">JOHNSON, GEORGE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>SUPPOSE, in a science-fiction fantasy, that the people on earth wanted to teleport one of their kind to a distant world. The most efficient way, it seems, would be to transmit the genetic code -- the compact sequences of instructions for generating kidneys, lungs, a heart, a liver, a pancreas, muscles, bones, and so forth, and assembling them into a woman or a man.</p>
+        <p>Where this plan would fail utterly is with the overwhelmingly intricate, constantly changing organ called the brain.</p>
+      </block>
+      <block class="full_text">
+        <p>SUPPOSE, in a science-fiction fantasy, that the people on earth wanted to teleport one of their kind to a distant world. The most efficient way, it seems, would be to transmit the genetic code -- the compact sequences of instructions for generating kidneys, lungs, a heart, a liver, a pancreas, muscles, bones, and so forth, and assembling them into a woman or a man.</p>
+        <p>Where this plan would fail utterly is with the overwhelmingly intricate, constantly changing organ called the brain.</p>
+        <p>The human genome -- the collection of all the DNA needed to make a person -- can be thought of as a long computer program. Scientists have calculated that the total amount of information, measured in bits, contained in the entire genetic program is not even a fraction of that needed to wire up a single brain.</p>
+        <p>Unlike kidneys, lungs, hearts, livers, pancreas, muscles and bones, the brain is designed to change with experience, molding and remolding itself to the outside world. The genes can carry only enough information to specify the most general features of the brain -- the rough shape of this glob of neurological clay. The fine sculpting that makes us who we are comes from the experience of living. Neurons continually form new connections, called synapses, with other neurons, growing the wiring needed to navigate through life's mazes. The Nature of Your Nurture</p>
+        <p>The very essence of the brain is this malleability, and that is what makes many biologists skeptical when social scientists or psychologists claim -- as Richard J. Herrnstein and Charles Murray do in their new book, "The Bell Curve" -- that they have found evidence that intelligence is essentially inherent. Does mental dexterity reside among the general features of the brain, recorded in the pages of the recipe book called the genetic code? Or can it be more likely found in that vast appendix of chance occurrences called life?</p>
+        <p>Put nature and nurture on the scales of science's analytical balance and it becomes a seesaw that never comes to rest. In the latest gyration, Mr. Murray, Mr. Herrnstein and other scholars have marshaled statistical evidence supporting the notion that some races are naturally more intelligent than others. But statistics, by their very nature, are tricky to interpret and tend to be most persuasive when they tell us what we already think we know.</p>
+        <p>The only lasting resolution to the nature-nurture dispute would come with a deeper understanding of the neurological basis of intelligence. We can measure I.Q. or Scholastic Aptitude Test scores and pretend that the numbers are as meaningful as the horsepower of an engine. The problem is that, for all the successes of neuroscience, we still know so little about what goes on under the cerebral hood.</p>
+        <p>It has been a long time since the scientific mainstream bought Descartes' assertion that there is an inseparable divide between the mind and the brain. Virtually all neuroscientists believe that the mind is what the brain does -- that all mental processes can be explained as the workings of the brain cells, or neurons.</p>
+        <p>We don't find it surprising that different genetic pools produce people with different physical characteristics. What then is so radical about insisting that some groups of people are born with superior mental faculties -- higher intelligence? Even if a great deal of the neural structure is acquired through experience, some brains might come equipped with better carpentry and architectural skills.</p>
+        <p>The problem is that scientists are still struggling to understand what goes on in the brain when it has a sudden inspiration or simply recognizes that two plus two equals four. Social scientists and psychologists have the advantage of treating the brain as a black box. Few biologists or neurologists who have tried to peek inside would claim to be close to saying how brains secrete thought in the way that livers secrete bile.</p>
+        <p>Neuroscientists are pretty sure that inside each of our heads are 100 billion to a trillion neurons, constantly forging new connections and unraveling old ones in response to signals from the senses. Detecting regularities amid the confusion, the brain connects neuron to neuron forming circuitry that somehow corresponds to patterns in the outside world. And then it finds patterns among the patterns.</p>
+        <p>Once it has cobbled together one circuit representing your dog and another circuit representing your neighbor's dog, the brain can notice that they are similar and abstract the concept "dog." Now this idea can be recorded by snapping together another constellation of neurons. And so on up the scale. The structures that stand for dog, cat, raccoon and bear can be abstracted into the concept "quadruped."  Order in the Cortex</p>
+        <p>If this is what we mean by thinking, then intelligence is a measure of how well we do it. But does it take a hundred neurons to represent a dog, or a thousand, or a million? No one knows. Even the mechanism by which a new cerebral connection is forged is still a matter of intense dispute.</p>
+        <p>Details aside, it seems perfectly plausible that some people have just the right wiring or the right balance of enzymes and other molecules to make connections more rapidly than others, or to detect more subtle regularities. But without understanding how brains record and create ideas, we cannot really say how much of the machinery is a genetic gift and how much is acquired through the hard labor of learning.</p>
+        <p>The biggest intelligence test of all is the brain's ability to understand itself. By that measure we are in remedial education.  THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

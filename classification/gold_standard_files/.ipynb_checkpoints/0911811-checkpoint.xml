@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Surprises for everyone in a new analysis of affirmative action.</title>
+    <meta content="27SCEN" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Education; Business" name="online_sections"/>
+    <meta content="Economic Scene" name="column_name"/>
+    <docdata>
+      <doc-id id-string="911811"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <series series.name="Economic Scene"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Affirmative Action</classifier>
+        <classifier class="indexing_service" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="indexing_service" type="descriptor">Labor</classifier>
+        <classifier class="indexing_service" type="descriptor">Hiring and Promotion</classifier>
+        <person class="indexing_service">Passell, Peter</person>
+        <person class="indexing_service">Kane, Thomas</person>
+        <object.title class="indexing_service">Economic Scene (Times Column)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Diversity</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="general_descriptor">Affirmative Action</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hiring and Promotion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970227T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940CE6DC1431F934A15751C0A961958260" item-length="795" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Surprises for everyone in a new analysis of affirmative action.</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter Passell</byline>
+      <byline class="normalized_byline">Passell, Peter</byline>
+      <abstract>
+        <p>Economic Scene column on as-yet published analysis by Thomas Kane, economist at John F Kennedy School of Government at Harvard University, on affirmative action; says Kane argues that affirmative action has really had significant impact on racial composition only in nation's elite universities and colleges, not the schools that educate vast bulk of young Americans; says diversity through affirmative action has produced some clear payoffs in job market; Kane debunks voguish idea that affirmative action based on class rather than race could serve as palatable means to the same end; drawing (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WITH California's initiative against affirmative action, Proposition 209, on the books and other states pondering rollbacks in their own affirmative action programs for public higher education, you'd think policy makers clearly understand the consequences of the contemplated changes.</p>
+        <p>Wrong. Apart from rudimentary inferences about how many nonwhites would make the cut if California's universities adopted race-blind admissions policies, a lack of hard evidence has left both critics and defenders of racial preferences free to exercise their imaginations. That's why an analysis by Thomas Kane, an economist at the John F. Kennedy School of Government at Harvard, is so striking.</p>
+      </block>
+      <block class="full_text">
+        <p>WITH California's initiative against affirmative action, Proposition 209, on the books and other states pondering rollbacks in their own affirmative action programs for public higher education, you'd think policy makers clearly understand the consequences of the contemplated changes.</p>
+        <p>Wrong. Apart from rudimentary inferences about how many nonwhites would make the cut if California's universities adopted race-blind admissions policies, a lack of hard evidence has left both critics and defenders of racial preferences free to exercise their imaginations. That's why an analysis by Thomas Kane, an economist at the John F. Kennedy School of Government at Harvard, is so striking.</p>
+        <p>Mr. Kane's as-yet unpublished analysis has some surprises for everyone. Affirmative action, he argues, has really had significant impact on racial composition only in the nation's elite universities and colleges, not the schools that educate the vast bulk of young Americans.</p>
+        <p>That's one surprise. Another is that diversity through affirmative action has produced some clear payoffs in the job market. Most important, perhaps, Mr. Kane debunks the voguish idea that affirmative action based on class rather than race could serve as a palatable means to the same end.</p>
+        <p>It has long been assumed that affirmative action drove admissions policies from the top of the higher education pecking order to the bottom. The gap in admissions standards in the most academically selective fifth of colleges is, indeed, large. Here Mr. Kane found that other factors held equal, black and Hispanic students with combined S.A.T. scores of 1,100 had the same chance of admission as whites with scores of 1,400.</p>
+        <p>Step down a notch, though, and race seems to play little part in the probability of admissions or in racial composition of the student body. Of course, much of the reason is that most colleges simply cannot afford to be picky about academic qualifications if they wish to fill their classes. In Mr. Kane's sample of some 36,000 students from 1,000 high schools, fully 90 percent who applied to schools in the bottom three-fifths were admitted.</p>
+        <p>This would hardly satisfy critics of affirmative action -- notably Charles Murray, co-author of ''The Bell Curve'' -- who argue that asking poorly prepared minorities to compete in the very best colleges reinforces racial stereotypes. Mr. Murray argues that affirmative action actually harms the intended beneficiaries by increasing their chance of failure. But here again, what seems obvious is apparently not true. While the nonwhites in Mr. Kane's sample did underperform their white counterparts at elite colleges even after adjusting for socioeconomic factors, the performance gap was smaller than at unselective schools. Black or white, students from similar backgrounds who attended elite schools were more likely to finish school and had higher earnings if they did finish.</p>
+        <p>But that doesn't mean there aren't losers. Affirmative action may help nonwhites going to Berkeley or the University of Virginia, but perhaps at a cost to whites who must therefore settle for lesser schools. And no mainstream politician is eager to explain the virtues of racial diversity to parents of white applicants whose places are taken by nonwhites with lower test scores. That goes a long way toward explaining why ''class based'' affirmative action has become the moderate politician's policy flavor of the month.</p>
+        <p>The idea is simple. Discrimination is more palatable when it is linked to tangible economic disadvantage rather than to less tangible racial disadvantage. Thus many Americans who take the 14th Amendment literally would still be willing to give admissions preferences to children -- black, white, Hispanic -- from families with low incomes.</p>
+        <p>Class-based affirmative action would still favor nonwhites as a group because they are, on average, much poorer. But Mr. Kane throws cold water on the idea that it would serve as a substitute for racial preference. That's because so many of the minority students attending highly selective colleges are from the middle class.</p>
+        <p>Indeed, Mr. Kane's figures suggest that in order to replicate the current level of nonwhite admissions, elite colleges would have to grant preferences to six times as many low-income students. And this would fundamentally change the character of the colleges, sharply lowering average test scores and displacing huge numbers of high-scoring middle-income whites.</p>
+        <p>Where, then, is the middle ground? For Mr. Kane, ''a more workable compromise'' would be to maintain race-based affirmative action, but only for nonwhites who also qualify as economic minorities -- that is, those from poor families or poor neighborhoods. But that would certainly mean fewer members of minority groups would enjoy the advantages of an elite public education.</p>
+        <p>In the end, the much misused aphorism about free lunches applies here. Places in top colleges are limited. No amount of ingenuity can eliminate the sting of affirmative action for everyone.</p>
+        <p>Economic Scene</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

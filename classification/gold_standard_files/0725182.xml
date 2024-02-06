@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725182"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">PFALUM, WILL</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0D61F3EF930A25752C1A962958260" item-length="444" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Some will consider Malcolm W. Browne's review of Richard J. Herrnstein and Charles Murray's "Bell Curve," J. Philippe Rushton's "Race, Evolution, and Behavior" and Seymour W. Itzkoff's "Decline of Intelligence in America" politically faulty, and I am sure you will receive many letters criticizing the politics of both the reviewer and the authors. My criticism comes from a different point of view. I see little in this review to suggest that either Mr. Browne or the authors understand some basic principles of evolution.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Some will consider Malcolm W. Browne's review of Richard J. Herrnstein and Charles Murray's "Bell Curve," J. Philippe Rushton's "Race, Evolution, and Behavior" and Seymour W. Itzkoff's "Decline of Intelligence in America" politically faulty, and I am sure you will receive many letters criticizing the politics of both the reviewer and the authors. My criticism comes from a different point of view. I see little in this review to suggest that either Mr. Browne or the authors understand some basic principles of evolution.</p>
+        <p>First of all, why would anyone expect a genetic difference between races? Until about 150 years ago, the vast majority of people on all continents were illiterate subsistence agriculturists. The modern era has not existed long enough to cause genetic change. For the majority, pre-modern conditions did not require different levels of intelligence.</p>
+        <p>Secondly, the concept of ethnicity -- as when Mr. Browne notes the comparison in "The Bell Curve" among whites, Asians and blacks in the United States -- is not a useful category for breaking down evolutionary change. A breeding population -- a group of people who have bred with one another for a long time -- can have unique characteristics. "Asians," "whites" and "blacks" are not necessarily breeding populations. It is a mistake to assume these groups share any genetic characteristics. A person from northern China may be much less likely to share an ancestor with, say, a Laotian than a Greek is to share an ancestor with an Angolan. Furthermore, blacks from genetically un related parts of Africa did not become a separate black breeding population upon arrival in the New World. The advent of America is too recent and the rates of interracial breeding are too high to assume that African-Americans form a distinctive breeding population.</p>
+        <p>If these authors claim racial differences do exist, I want to know how such differences could possibly arise -- in what time scale, in what geographical regions. I want to know why such changes might arise -- what longstanding social or environmental differences might differentiate populations. Lastly, I want the proponents of racial differences to justify whom they are talking about from a genetic point of view -- why they believe a cultural or folk category like "black" or "white" might have any biological validity for cognition in the first place. Don't give me statistics to prove something is true (and don't give a book cataloguing these statistics a positive review) until you convince me that the point you are trying to prove is within the realm of scientific possibility. WILL PFLAUM  Brooklyn</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

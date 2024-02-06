@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>On the Fringes of the Bell Curve, The Evolving Quest for Normality</title>
+    <meta content="26NORM" name="slug"/>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="Health Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="1019856"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Mental Health and Disorders</classifier>
+        <org class="indexing_service">Cornell University</org>
+        <org class="indexing_service">National Science Foundation</org>
+        <person class="indexing_service">Maranto, Gina</person>
+        <person class="indexing_service">Leuenberger, Christine</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Mental Health and Behavior</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mental Health and Disorders</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980526T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E2DD1738F935A15756C0A96E958260" item-length="1719" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>On the Fringes of the Bell Curve, The Evolving Quest for Normality</hl1>
+      </hedline>
+      <byline class="print_byline">By GINA MARANTO</byline>
+      <byline class="normalized_byline">Maranto, Gina</byline>
+      <abstract>
+        <p>Various concepts of human 'normality' are examined at Cornell University workshop sponsored by university's Dept of Science and Technology Studies and underwritten by National Science Foundation; about 30 professors, post-doctoral fellows, graduate students and undergraduates spend three days discussing diverse ways in which science and medicine, along with legal systems and states, shape society's notions of who and what people are, who is sick and who is well; as example, Christine Leuenberger of Cornell reports that when eastern Germany changed from socialist society to a democratic one, rules for determining normality changed along with therapy methods; photo of Leuenberger (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AT first glance it seems an item that might vaguely interest furniture sellers or interior designers: Before the dismantling of the Berlin Wall, psychotherapists in the German Democratic Republic practiced in rooms fitted with circles of chairs; now they do so in rooms furnished with a couch.</p>
+        <p>Yet this interior redecorating is evidence of a major renovation of psychology, said the sociologist Christine Leuenberger, who has extensively interviewed therapists in eastern Germany in the last few years. Between 1950 and 1989, she said, virtually everyone receiving psychological treatment in the German Democratic Republic was consigned to group therapy.</p>
+      </block>
+      <block class="full_text">
+        <p>AT first glance it seems an item that might vaguely interest furniture sellers or interior designers: Before the dismantling of the Berlin Wall, psychotherapists in the German Democratic Republic practiced in rooms fitted with circles of chairs; now they do so in rooms furnished with a couch.</p>
+        <p>Yet this interior redecorating is evidence of a major renovation of psychology, said the sociologist Christine Leuenberger, who has extensively interviewed therapists in eastern Germany in the last few years. Between 1950 and 1989, she said, virtually everyone receiving psychological treatment in the German Democratic Republic was consigned to group therapy.</p>
+        <p>Today, one analyst told Ms. Leuenberger, it ''is exactly the opposite.'' Unification caused a shift, such that, by the analyst's estimate, 96 percent to 97 percent of patients now receive one-on-one treatment, often psychoanalysis.</p>
+        <p>Ms. Leuenberger was among a dozen scholars who presented papers recently at a Cornell University workshop titled, ''Making People: The Normal and Abnormal in Constructions of Personhood,'' which was sponsored by the university's Department of Science and Technology Studies and underwritten by the National Science Foundation.</p>
+        <p>Amid flowering trees on a bluff overlooking Cayuga Lake, about 30  professors, post-doctoral fellows, graduate students and undergraduates spent three days discussing the diverse ways in which science and medicine, along with legal systems and states, shape society's notions of who and what people are, who is sick and who is well.</p>
+        <p>Far from being inherent in nature, the categories normal and abnormal have been crafted over the last 150 years or so. Concepts regarding what is normal and abnormal have had a major impact on modern life, shaping scientific and medical research and determining the sort of education and psychological treatment people receive, among other things.</p>
+        <p>Normality has been subject to redefinition as a result of various pressures, including economic ones. For example, as Ms. Leuenberger noted, the changes in treatment styles and theoretical approaches in eastern Germany have also altered convictions about what is normal development and a psychologically healthy person. Therapists told her that though they formerly fostered ''socialist,'' group oriented, personalities they now are concerned with helping clients achieve independence and autonomy, qualities that clients also seem to believe are necessary to their noncollectivist, market-economy oriented lifestyles.</p>
+        <p>Until the 1840's, normal simply meant ''standing at right angles; perpendicular,'' according to the Oxford English Dictionary. Starting in the mid-Victorian years, and especially after the British adventurer and scientist Francis Galton put forth the principles of eugenics, the so-called science of improving the human species by breeding, the term normal came to be applied widely to the human body and psyche. The  Belgian astronomer and statistical pioneer Adolphe Quetelet had found, for example, that the heights of any group of people tended to array themselves neatly about an average value. Galton saw in this symmetrical distribution of values around a mean, or ''normal curve,'' a portrait of society.</p>
+        <p>Comfortably clumped under the dome of the bell-shaped curve sat the mass of humanity, while out at the narrow lip lay, on one side, geniuses and, on the other, the ''feeble-minded.''</p>
+        <p>At the Cornell workshop, the normal curve was a historical reference and a prop. Prof. John Carson, who organized the workshop for the university's Department of Science and Technology Studies, took a copy of ''The Bell Curve,'' the much-debated 1994 best seller by Charles Murray and Richard J. Herrnstein, and used its lurid cover illustration of the curve as a visual aid. The book was used by several other speakers, who by the end of a long day could draw a laugh just by waggling it.</p>
+        <p>The joke had a serious subtext: the British historian Roger Smith, author of the ''Norton History of the Human Sciences'' (1997), said in his presentation on the life sciences that reference to the normal has great force precisely because it so seamlessly joins description, which in the scientific view is value neutral, and evaluation, which entails making judgments about worth or moral status.</p>
+        <p>But what of the abnormal? The French philosopher Georges Canguilhem in his classic work, ''The Normal and the Pathological'' (1943), and others have argued that the process by which science established the concept of normality made it no longer possible to view the pathological or abnormal as a qualitatively distinct state.</p>
+        <p>In effect, the abnormal no longer lay on the other side of an unfordable gorge. Instead, with the bell curve, the very concept of the normal was a kind of bridge to the abnormal.</p>
+        <p>Pathological states were part of a measurable continuum. If a ruler were held up to human beings, mere units of difference marked the distance from the ordinary to the extraordinary.</p>
+        <p>At the workshop, Dr. Carson turned Dr. Canguilhem's analysis around, proposing that ''the normal did not so much create the abnormal as the reverse.'' This happened, he said, precisely because scientists in the early 1900's found it relatively easy to characterize and test for abnormality.</p>
+        <p>American psychologists signed on in droves to the enterprise of identifying so-called idiots, imbeciles and morons, while an array of laws and institutions sprang up to isolate and tend to such persons. Issues regarding ostensibly abnormal and subnormal members of society became a major topic of concern in the news media, in political forums and in drawing rooms. As Dr. Carson noted, Congress was presented with six bills having to do with the ''abnormal classes'' in 1902 alone.</p>
+        <p>But the abnormal tended to creep toward the normal. Take, for instance, the case of the fingerprint. At the workshop, Dr. Simon Coles, of Rutgers University, traced attempts by 19th-century anthropologists to set up a system by which the fingerprint could be read as a distinguishing mark of a criminal type. If, as in the plan of the Italian psychologist  Cesare Lombroso, long fingers were the dead giveaway of a thief, so, too, whorls and other patterns on the skin might be an inescapable biological indicator of an outlaw.</p>
+        <p>Work on the front lines of criminology, like that of the Parisian police official Alphonse Bertillon, undermined this effort to link fingerprints and criminality. Instead, the fingerprint proved to be a normal attribute, albeit one whose seemingly infinite variability allowed it to be used as a means of identifying individuals, including those who might have handled objects at the scene of a crime.</p>
+        <p>Even as abnormality began to be considered more normal, there remained one class of people beyond all bounds: the insane. Madness had ''no fixed address on the continuum running from the Normal to the Pathological,'' the sociologist Joel Eigen of Franklin and Marshall College in Lancaster, Pa., said in a paper delivered at the workshop.</p>
+        <p>Dr. Eigen detailed how even these outsiders were assigned a conceptual home on the same street as everyone else, oddly enough through the legal system. The testimony in British courts of so-called mad doctors, who were emerging as legal experts on insanity, from 1760 to 1853 tended to undermine legal standards regarding what a normal person was.  Over several decades, by increasingly exercising their expertise to describe defendants as impaired or sick, rather than evil, mad doctors slowly normalized states of consciousness ''that the law had historically typified as partial insanity and barred from the courtroom only a half-century earlier.'' Essentially,  these physicians asserted their professional authority and created a new type of person to be reckoned with legally.</p>
+        <p>So too, contemporary psychiatry has created a bewildering array of types. Whereas psychologists could deploy only a handful of terms categorizing abnormal individuals at the beginning of the century, the fourth and most recent version of their Diagnostic and Statistical Manual lists about 260 forms of mental illness.</p>
+        <p>In his talk, Kenneth Gergen, a professor of psychology at Swarthmore College in Pennsylvania, contended that while these terms have been positive insofar as they have taken the moralism out of society's attitudes toward ''deeply problematic people,'' they can also be viewed as part of a ''cycle of progressive infirmity.'' As the professional labels move out of the psychotherapeutic community and become part of common language, people become less  able to name and deal with their problems. Meaning is lost as phrases like ''feeling blue,'' give way to psychological jargon. As more people seek professional help, the ranks of psychotherapists grow, and so the technical terminology proliferates.</p>
+        <p>Instead of accommodating oddly behaved people, society now identifies them in order to segregate them.  Said Dr. Gergen, ''A kid who doesn't sit still in class gets taken out and becomes infirm, diseased'' -- a child who has attention deficit disorder.</p>
+        <p>Meanwhile, those in the therapeutic, pharmacological and insurance  industries have an increasing economic stake in the existence of such abnormal people. Dr. Gergen asked: ''At what point does it stop? The latest addictions added to the DSM-IV have to do with eating, work, exercise, religion and sex.'' Engagement in life itself, he suggested drily, has become a diagnosable mental illness.</p>
+        <p>Dr. Gergen expressed concern about the way in which other values, ideas and voices get pushed aside by the whole psychological enterprise.  ''By locating disease within individual minds, we not only fail to consider the broader social context in which the problems are occurring,'' he said, ''but we also generate a world picture in which people are fundamentally separate.''</p>
+        <p>After the workshop, strains of music, played on a non-Western scale, drifted up the hill. A gray sieve of clouds hung over the valley. Down-slope, in front of an imposing stone hall built in what Dr. Smith, a professor at the University of Lancaster,  had called ''English-insane-asylum style,'' a woman in tulip-red silk pajamas danced on a raised stage that had been set up for Earth Day festivities. Half a dozen people stood, slickers on, umbrellas up, watching her angular dance in the steady rain. It seemed an extremely normal thing to do.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

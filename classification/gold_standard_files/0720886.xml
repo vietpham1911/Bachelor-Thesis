@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debate on Race and I.Q. Recalls Past Prejudice; Social Science Remedy</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720886"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">HOLT, JIM</person>
+        <person class="indexing_service">SHROUT, PATRICK E (PROF)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950CE3DE123FF935A15753C1A962958260" item-length="140" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debate on Race and I.Q. Recalls Past Prejudice; Social Science Remedy</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>As a psychometrician, I welcome many aspects of Jim Holt's critique of "The Bell Curve" (Op-Ed, Oct. 19). But Mr. Holt uses a strategy long known to bigots who denigrate an outgroup. He clumps together all social science research and then assigns to the entire class characteristics of the most despicable members. While this may be seen as cleverness by some, it is the same brand of cleverness that makes "The Bell Curve" so loathsome.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>As a psychometrician, I welcome many aspects of Jim Holt's critique of "The Bell Curve" (Op-Ed, Oct. 19). But Mr. Holt uses a strategy long known to bigots who denigrate an outgroup. He clumps together all social science research and then assigns to the entire class characteristics of the most despicable members. While this may be seen as cleverness by some, it is the same brand of cleverness that makes "The Bell Curve" so loathsome.</p>
+        <p>The troubling issues of poor achievement by significant segments of society are not likely to go away by ridicule of those who study performance. Social scientists are working with other scientists and policy makers to understand the nature of the problem and to develop remedies. PATRICK E. SHROUT  Professor of Psychology New York University New York, Oct. 21, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

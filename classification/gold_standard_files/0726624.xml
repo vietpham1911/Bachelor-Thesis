@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>CHARLES MURRAY</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Magazine Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Magazine; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="726624"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <person class="indexing_service">DEPARLE, JASON</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E4DE1131F933A15752C1A962958260" item-length="149" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>CHARLES MURRAY</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The idea that you can explain the distribution of the "goodies" of life in this country by invoking arguments of race and genes is intellectually dishonest ("Daring Research or 'Social Science Pornography'?" by Jason DeParle, Oct. 9). The public policy implications of "The Bell Curve" are merely Republican prescriptions for laissez-faire policies, with Charles Murray and Richard Herrnstein cloaking their arguments in academic garb to gain respectability. They exalt the virtues of the marketplace and see government policies as assaults on the meritocracy. They ask us to ignore or forget that this meritocracy systematically excluded women, people of color, the disabled, etc. from the competitive process. Their argument is not new. Neither is abuse of so-called scientific research in the service of mean-spirited political objectives. THOMPSON F. WILLIAMS JR. Watertown, Mass.</p>
+      </block>
+      <block class="full_text">
+        <p>The idea that you can explain the distribution of the "goodies" of life in this country by invoking arguments of race and genes is intellectually dishonest ("Daring Research or 'Social Science Pornography'?" by Jason DeParle, Oct. 9). The public policy implications of "The Bell Curve" are merely Republican prescriptions for laissez-faire policies, with Charles Murray and Richard Herrnstein cloaking their arguments in academic garb to gain respectability. They exalt the virtues of the marketplace and see government policies as assaults on the meritocracy. They ask us to ignore or forget that this meritocracy systematically excluded women, people of color, the disabled, etc. from the competitive process. Their argument is not new. Neither is abuse of so-called scientific research in the service of mean-spirited political objectives. THOMPSON F. WILLIAMS JR. Watertown, Mass.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

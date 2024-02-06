@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Cultural Scorecard Says West Is Ahead</title>
+    <meta content="25MURR$02" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Arts &amp; Ideas/Cultural Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Science; Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/10/25/arts/25MURR.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1529843"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Culture</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Science and Technology</classifier>
+        <person class="indexing_service">Murray, Charles</person>
+        <person class="indexing_service">Eakin, Emily</person>
+        <object.title class="indexing_service">Human Accomplishment (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="descriptor">Sociology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Science and Technology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Sociology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Murray, Charles</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031025T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06E4DE1231F936A15753C1A9659C8B63" item-length="2037" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Cultural Scorecard Says West Is Ahead</hl1>
+        <hl2 class="online_headline">A Cultural Scorecard Says West Is Ahead</hl2>
+      </hedline>
+      <byline class="print_byline">By EMILY EAKIN</byline>
+      <byline class="normalized_byline">Eakin, Emily</byline>
+      <dateline>BURKITTSVILLE, Md.</dateline>
+      <abstract>
+        <p>Profile of and interview with controversial social scientist Charles Murray whose latest book, Human Accomplishment: The Pursuit of Excellence in the Arts and Sciences, 800 BC to 1950, is expected to stir more ire; Murray uses relatively obscure statistical method known as historiometry to back his assertion of Western civilization's scientific and artistic superiority; photo; graphs (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>''I do not set out to write controversial books,'' Charles Murray says with an easy laugh. ''I don't know whether part of the attraction might be the forbidden,'' he adds earnestly. ''If it is, it's not very much.''</p>
+        <p>It is tempting to believe him. Dressed in blue jeans, tennis shoes and a flannel shirt, his hands clasped confidently behind his head, he reclines in a swivel chair surrounded by books in his elegant study here overlooking a grove of weeping willows and a murky pond. At home in this rural Maryland village, about 70 miles from Washington and the policy circles in which his pronouncements are invariably debated, Mr. Murray -- affable, gently weather-beaten but still ruggedly handsome at 60 -- more plausibly suggests a gentleman farmer than America's most notorious social scientist.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Charles Murrays new book, "Human Accomplishment," is well timed to stir debate.</p>
+      </block>
+      <block class="full_text">
+        <p>''I do not set out to write controversial books,'' Charles Murray says with an easy laugh. ''I don't know whether part of the attraction might be the forbidden,'' he adds earnestly. ''If it is, it's not very much.''</p>
+        <p>It is tempting to believe him. Dressed in blue jeans, tennis shoes and a flannel shirt, his hands clasped confidently behind his head, he reclines in a swivel chair surrounded by books in his elegant study here overlooking a grove of weeping willows and a murky pond. At home in this rural Maryland village, about 70 miles from Washington and the policy circles in which his pronouncements are invariably debated, Mr. Murray -- affable, gently weather-beaten but still ruggedly handsome at 60 -- more plausibly suggests a gentleman farmer than America's most notorious social scientist.</p>
+        <p>But his record is hard to ignore. As the author of ''Losing Ground'' (1984), which argued that social programs do more harm than good, and then, with Richard J. Herrnstein, of ''The Bell Curve'' (1994), which theorized a genetic basis for class and IQ differences between blacks and whites, Mr. Murray has repeatedly managed what for a scholar is too rare a feat to be entirely accidental: to capture the national spotlight by arousing public ire. Is it any surprise that his latest book seems intended to inflame passions once again?</p>
+        <p>Published on Oct. 21 by HarperCollins and accompanied by a publicity release optimistically anointing it ''his most ambitious and controversial work yet,'' ''Human Accomplishment: The Pursuit of Excellence in the Arts and Sciences, 800 B.C. to 1950'' is well timed to stir debate. At a moment of considerable East-West tension, when the phrase ''clash of civilizations'' has rarely had greater currency, Mr. Murray has issued what he says is a mathematically precise global assessment of human achievement, a ''résumé'' of the species in which Europeans like Shakespeare, Beethoven and Einstein predominate and in which Christianity stands out as a crucial spur to excellence. Equally provocative, he maintains that the rate of Western accomplishment is currently in decline.</p>
+        <p>''As I write, it appears Europe's run is over,'' he asserts. ''In another few hundred years, books will probably be exploring the reasons why some completely different part of the world became the locus of great human accomplishment. Now is a good time to stand back in admiration. What the human species is today it owes in astonishing degree to what was accomplished in just half a dozen centuries by the peoples of one small portion of the northwestern Eurasian land mass.''</p>
+        <p>Mr. Murray, a senior fellow at the American Enterprise Institute, a Washington think tank, says touting Western superiority is not his goal. He notes that he began work on the book six years ago, well before the current conflict in Iraq, and that as a former Peace Corps worker in Thailand who was married for 14 years to a Thai Buddhist, he has great respect for Eastern cultures. He says he conceived of the book as an exercise in ''honest multiculturalism.''</p>
+        <p>''I thought that in this regard I would come out saying, 'Look, I'm not being politically correct when I say that China, Japan and some other places have made incredible contributions to human world culture,' '' he said. ''And I still say that, but it is also true that I was surprised by the extent to which Europe dominated.''</p>
+        <p>Still, if his book does not get a warm reception from scholars, it may be less for political reasons than a technical one: its assumption that human achievement can be reduced to a number and tabulated by a computer. Experts have long sought to explain disparate rates of development in the East and West, from Max Weber, who attributed the economic transformation of early modern Europe to a Protestant work ethic, to Jared Diamond, who linked regional advances to geography and the environment. But while most use qualitative techniques to analyze people and events -- making observations and arguments about the past -- Mr. Murray takes a largely quantitative approach, relying on a relatively obscure statistical method known as historiometry.</p>
+        <p>''I'm not aware of anyone in my profession who uses these methods,'' said John R. McNeil, a historian at Georgetown University and the author, with his father, the historian William H. McNeil, of ''The Human Web: A Bird's-Eye View of World History'' (Norton, 2003), after hearing a description of the book. ''Many use quantitative methods, but some things are more susceptible to numbers than others.''</p>
+        <p>Kenneth Pomeranz, a historian at the University of California at Irvine and the author of ''The Great Divergence, China, Europe and the Making of the Modern World Economy'' (Princeton, 2000), was equally skeptical. ''It seems like a pretty shaky enterprise, especially if you're going to spread it over 800 B.C. to 1950,'' he said. ''For hundreds and hundreds of years the innovations that made people's lives better were to some extent anonymous. Before we start making general judgments about individual creativity, we have to be careful about what kinds of innovations matter to ordinary people.''</p>
+        <p>Historiometry was introduced in the early 19th century by Adolphe Quetelet, a Belgian mathematician who analyzed the relationship between age and achievement by studying the careers of prominent French and English playwrights. But it was Francis Galton, an English scientist and pioneering eugenicist, who brought the method into scholarly fashion.</p>
+        <p>For his 1869 study, ''Hereditary Genius,'' Galton hit upon the idea of using obituaries and entries in a biographical dictionary to show a correlation between reputation, intelligence and heredity. Other studies of eminence followed, but by the late 1930's the approach had fallen from vogue as the social sciences came under the sway of behaviorism.</p>
+        <p>Today just a handful of scholars routinely use historiometric techniques, most prominent among them Dean Keith Simonton, a psychologist at the University of California at Davis and a respected expert on genius and creativity. Borrowing the techniques of Mr. Simonton and other social scientists, Mr. Murray developed inventories of 4,002 significant figures in the arts and sciences by calculating the amount of space allotted to them in standard reference works and assigning them scores on a 100-point scale.</p>
+        <p>For the sciences, at any rate, the results suggest a contest of David-and-Goliath proportions. Using 34 reference works in four languages, Mr. Murray produced inventories for eight fields -- astronomy, biology, chemistry, earth sciences, physics, mathematics, medicine and technology -- as well as a combined index ranking scientists from all disciplines. In all, Europeans and North Americans account for 97 percent of scientific accomplishment.</p>
+        <p>For literature, philosophy and visual art, however, Mr. Murray decided that unbiased global inventories were not feasible: the reference works were too skewed toward their national traditions. So he created separate indexes by culture instead. He also produced a single music inventory devoted to Western composers.</p>
+        <p>Even so, he argues, the multiple lists should not disguise Western dominance in the arts. As he explains it, ''Non-Western figures had to compete for recognition only within their individual countries, whereas Western figures had to compete with everyone else in the West.'' As for the near total absence of women -- they represent a mere 2 percent of the inventories -- the reason is clear, Mr. Murray writes. Until the 19th century, laws and social convention severely restricted their vocational pursuits.</p>
+        <p>Mr. Simonton, who read early versions of some chapters, said he thought Mr. Murray's application of historiometric techniques was sound. As a means of measuring eminence, he stressed, the method meets social science standards for both reliability (meaning there is strong agreement across sources and across cultures) and validity (meaning the scores correlate closely with independent measures of eminence like the number of prizes a figure won). Nevertheless, he added, he typically avoids cross-cultural comparisons of the sort Mr. Murray is making.</p>
+        <p>''He's talking about things that could be sensitive,'' Mr. Simonton said. ''It's a value judgment to say science is the greatest form of creativity and to emphasize that. Each culture has its own emphasis.''</p>
+        <p>That has not stopped Mr. Murray from using his data to venture some bold claims. According to his statistics, a whopping 72 percent of the significant figures in the arts and sciences between 1400 and 1950 came from just four European countries: Britain, France, Germany and Italy. But after weighing a number of possible explanations, including the effects of war, civil unrest, economic growth, cities and political freedom on achievement rates, Mr. Murray still was not satisfied.</p>
+        <p>Why, he wondered, when he factored in population growth, did the achievement rate in Europe appear to plummet beginning in the mid-19th century, a period when peace, prosperity, cities and political freedom were steadily increasing? In the sciences, he decided, the decline was largely benign, reflecting the fact that in many fields the most important breakthroughs have already been made. But for the arts his diagnosis was grim: a collapse of social values and the advent of nihilism.</p>
+        <p>In a word, what modern Europe lost was Christianity. While other major religions, like Buddhism and Daoism preached humility, acceptance and passivity, Mr. Murray writes, Christianity fostered intellectual independence and drive. In his account it was Thomas Aquinas who ''grafted a humanistic strain onto Christianity,'' by arguing that ''human intelligence is a gift from God, and that to apply human intelligence to understanding the world is not an affront to God but is pleasing to him.'' And where post-Aquinas Christianity thrived -- in Europe between 1400 and the Enlightenment -- so, too, according to Mr. Murray, did human excellence.</p>
+        <p>Even Jews, he insists, owe something of their creative success to Christian culture. Noting that 158 -- more than 12 percent -- of the significant figures from 1870-1950 are Jews despite the comparatively small size of their population, he argues that Jews attained their greatest achievements after the Diaspora, when they were in contact with European Christians. ''The implication,'' he writes, ''is that the culture fostered by Christianity was as instrumental in unleashing accomplishment among Jews as among Christians -- once that same culture got around to relieving the suppression it had imposed on Jews in the first place.''</p>
+        <p>For Mr. Murray, an agnostic libertarian, Christianity's appeal is largely pragmatic. In his view it provided all the incentives people need to achieve: not only a sense of autonomy and purpose but a coherent vision of what he calls ''the transcendental goods'' -- truth, beauty and the good -- as well. A culture lacking such vision tends to produce art that is shallow, vulgar and sterile, he said, describing it as the difference between ''Macbeth'' and ''Kill Bill.''</p>
+        <p>''It's only by being infused with that moral vision that 'Macbeth' is 'Macbeth,' '' he said. ''Otherwise it's just people killing each other.''</p>
+        <p>More than his calculations of Western accomplishment, it is his view of contemporary cultural deficits that marks Mr. Murray's book as a conservative one.</p>
+        <p>Politics aside, however, the scholarly objection to the book may come down to the notion that quantifying human achievement, whether feasible or not, is in the end an exercise of dubious intellectual value.</p>
+        <p>''It explains everything about these fields except the most interesting questions,'' said Howard Gardner, the Harvard professor of education who has written extensively about creativity. ''Einstein may score better or worse than Darwin, but it doesn't begin to tell you anything newly revealing about Einstein or Darwin.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

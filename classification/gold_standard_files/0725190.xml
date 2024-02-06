@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="75" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725190"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">BIRNBAUM, NORMAN</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EFD61F3EF930A25752C1A962958260" item-length="177" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>The academic fields of inquiry vary very widely, indeed, as to internal agreements on assumptions, methods and interpretations. Disputes within, let us say, astrophysics and microbiology are hardly as pronounced as those within, for instance, economics and psychology. In these last, cultural and social preferences do shape intellectual work to a very large degree. Perhaps, then, it was Malcolm W. Browne's immersion in the more rigorous natural sciences that led him to characterize the authors under review as "recognized by colleagues as serious scholars." Leaving Seymour W. Itzkoff out of it, it is impossible to discern in the American academy any general acceptance for the view that Richard J. Herrnstein, Charles Murray and J. Philippe Rushton merit the designation "serious." Large numbers of us consider their writings to be prima facie evidence for ideological blindness and, indeed, fanaticism and hatred. That is a kind of seriousness -- but not the sort, clearly, Mr. Browne was thinking of. NORMAN BIRNBAUM  Washington</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>The academic fields of inquiry vary very widely, indeed, as to internal agreements on assumptions, methods and interpretations. Disputes within, let us say, astrophysics and microbiology are hardly as pronounced as those within, for instance, economics and psychology. In these last, cultural and social preferences do shape intellectual work to a very large degree. Perhaps, then, it was Malcolm W. Browne's immersion in the more rigorous natural sciences that led him to characterize the authors under review as "recognized by colleagues as serious scholars." Leaving Seymour W. Itzkoff out of it, it is impossible to discern in the American academy any general acceptance for the view that Richard J. Herrnstein, Charles Murray and J. Philippe Rushton merit the designation "serious." Large numbers of us consider their writings to be prima facie evidence for ideological blindness and, indeed, fanaticism and hatred. That is a kind of seriousness -- but not the sort, clearly, Mr. Browne was thinking of. NORMAN BIRNBAUM  Washington</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

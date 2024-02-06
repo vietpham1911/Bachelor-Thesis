@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>'Bell Curve' Critics Say Early I.Q. Isn't Destiny</title>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk;" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="Education Page" name="feature_page"/>
+    <docdata>
+      <doc-id id-string="724174"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">PASSELL, PETER</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">EDUCATION PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941109T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E03E7DD113EF93AA35752C1A962958260" item-length="1385" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>'Bell Curve' Critics Say Early I.Q. Isn't Destiny</hl1>
+      </hedline>
+      <byline class="print_byline">By PETER PASSELL</byline>
+      <byline class="normalized_byline">PASSELL, PETER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Are children who score poorly on standardized tests of ability fated to lives of poverty, crime and social squalor?</p>
+        <p>Charles Murray and Richard J. Herrnstein, authors of the controversial book, "The Bell Curve: Intelligence and Class Structure in American Life" (the Free Press), make no secret of their pessimism about the prospects for elevating the underclass. "For the foreseeable future," they wrote, "the problems of low cognitive ability are not going to be solved by outside intervention."</p>
+      </block>
+      <block class="full_text">
+        <p>Are children who score poorly on standardized tests of ability fated to lives of poverty, crime and social squalor?</p>
+        <p>Charles Murray and Richard J. Herrnstein, authors of the controversial book, "The Bell Curve: Intelligence and Class Structure in American Life" (the Free Press), make no secret of their pessimism about the prospects for elevating the underclass. "For the foreseeable future," they wrote, "the problems of low cognitive ability are not going to be solved by outside intervention."</p>
+        <p>But many social scientists, saying they are dismayed by the book's conclusions, believe that intervention can make a big difference -- that study after study of children living in poverty suggests that early attention can improve performance.</p>
+        <p>"Murray and Herrnstein just ignored the evidence," said James Heckman, an economist at the University of Chicago. "They are 180 degrees off course."</p>
+        <p>Much of "The Bell Curve" is devoted to showing that "cognitive ability," as measured by I.Q. and other intelligence tests, is a powerful predictor of everything from earnings to criminal behavior to competence as parents. Were it possible to make "people smarter with the right kind of help," they wrote, their own research would "constitute a clarion call for programs to do so."</p>
+        <p>They concluded that Head Start-style preschool enrichment for disadvantaged children held little promise because the gains they made in them quickly faded. Improving the quality of schools (where quality is measured by class size or per-pupil spending) does not seem to make much difference, either. And while Mr. Murray and Mr. Herrnstein, who died recently, said that years of schooling do matter, they argued that the benefits of pushing more people through more grades would be modest.</p>
+        <p>But others plainly disagree with this rationale for laissez faire. A just-completed survey of thousands of Head Start children around the nation, by Janet Currie and Duncan Thomas of the University of California at Los Angeles and the Rand Corporation, does confirm one of the Murray-Herrnstein contentions -- that black children record substantial gains in standardized tests while they are in preschool programs but that the test scores drop after a few years.</p>
+        <p>Strikingly, though, the Currie-Thomas study's evidence on white children runs counter to the Murray-Herrnstein conclusions. Ms. Currie and Mr. Thomas found that poor whites initially gained as much from Head Start programs as blacks from comparable backgrounds did, but that the whites did not lose the edge when they began school. These white children were less likely to repeat a grade and were taller at age 9 than a sample group of youngsters who were not in Head Start, a finding that suggested that the participants were also healthier than the nonparticipants.</p>
+        <p>The most plausible explanation for the racial difference, Ms. Currie and Mr. Thomas said, is that black children in poverty live in harsher environments and thus need continued help to benefit from Head Start.</p>
+        <p>The most famous experiment in preschool enrichment -- relied on heavily by Murray-Herrnstein -- is the Perry Preschool program in the mid-1960's. About 123 black children living in poverty in Ypsilanti, Mich., with I.Q.'s below average, were divided into experimental and control groups. Those in the experimental group attended an intensive preschool progam and scored an average of 11 points higher on I.Q. tests than those in the control group. And, as Mr. Murray and Mr. Herrnstein noted in their book, the differences had faded after a few years.</p>
+        <p>That, however, is not the end of the story. Edward Gramlich, an economist at the University of Michigan who evaluated the Perry children through the age of 19, found that those in the experimental group continued to do better than those in the control group, by measures other than I.Q. These children were absent from school fewer days, less likely to be classified as retarded and more likely to graduate from high school.</p>
+        <p>What's more, as young adults, the children in the experimental group were found less likely to be on welfare or to have been arrested for a serious crime. And at the time of the survey, the young women in the experimental group had given birth to only half as many children as those in the control group. All told, Mr. Gramlich calculated that the savings to taxpayers represented by the findings far exceeded the cost of the preschool program.</p>
+        <p>There is conflicting evidence on the impact of special programs designed to enhance the performance of disadvantaged children once they are in school. A study led by the sociologist James Coleman of the University of Chicago, along with a subsequent survey of research by Eric Hanushek of the University of Rochester, disclosed no systematic relationship between student achievement and class size, teacher credentials or dollars spent.</p>
+        <p>But the preponderance of evidence suggests that intervention does work if it is planned carefully. The State of Tennessee, for example, formally experimented with class sizes in the mid-1980's to see if extra attention by teachers could raise the scores on standardized achievement tests of children living in poverty. The experimenters found that small classes offered the biggest advantage in kindergarten and perhaps first grade, and that the students in them still scored better in the second and third grade. But the gap in achievement did not widen.</p>
+        <p>Richard Murnane, a Harvard economist, and Frank Levy, an economist at the Massachusetts Institute of Technology, also discovered selective benefits from school enrichment. Cash with no strings attached given to elementary schools in poor neighborhoods of Austin, Tex., as part of an anti-discrimination settlement generally had no impact on test scores. When schools reorganized teaching methods, however, there were substantial dividends. "Where the money was used to change the student environment radically, scores rose sharply," Mr. Murnane reports.</p>
+        <p>By the same token, research that links years of schooling to earnings later on has been dogged by accusations that the measures it uses are spurious. Smart children from affluent backgrounds generally go to school longer and earn more as adults. But is it the years of education or the combination of heritable intelligence and family background that leads to their success?</p>
+        <p>The most sophisticated efforts to tease out cause and effect in education and earnings point in one direction. Orley Ashenfelter and Alan Krueger, economists at Princeton University, looked at the differences in earnings between identical twins. A sibling with more education earned more money -- a stunning 16 percent more a year -- for every extra year in school, they found.</p>
+        <p>David Card, another economist from Princeton, compared men who grew up near low-cost colleges with those who did not. He found that college proximity mattered a lot, raising years of schooling and average earnings. This implies that ease of access to higher education, a factor independent of intelligence or family background, helps determine earnings for adults.</p>
+        <p>Mr. Hanushek of the University of Rochester concluded, "Poor kids, dumb kids, black kids, etc., all find that their lifetime earnings are raised by added years of schooling."</p>
+        <p>Numerous questions relevant to the Herrnstein-Murray thesis remain unanswered. There is no clear evidence about which preschool, school or post-school training strategies works best to raise achievement or income. Nor is it clear that every program able to improve student performance is cost-effective: social scientists are deeply divided between those who think early intervention is essential and those who think the disadvantaged can catch up as adults.</p>
+        <p>Perhaps most important, it is far from clear that Americans are prepared to invest what is necessary to eliminate the culture of poverty if the payoff in terms of lower crime and reduce dependence on welfare takes a generation to reap. But most social scientists who have looked closely at the issues do believe that the pessimistic determinism of "The Bell Curve" is unwarranted.</p>
+        <p>"The evidence is overwhelming," says Gary Burtless, an economist at the Brookings Institution. "There is good reason to be optimistic that intervention can work."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

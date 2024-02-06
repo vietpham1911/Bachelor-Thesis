@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.Q. Tests Serve to Keep Us All in Our Places</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="726351"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <person class="indexing_service">MENSH, ELAINE</person>
+        <person class="indexing_service">MENSH, HARRY</person>
+        <person class="indexing_service">GARDNER, RICHARD A (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9500E7DD1131F93AA25752C1A962958260" item-length="303" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.Q. Tests Serve to Keep Us All in Our Places</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Richard A. Gardner's name for "intelligence tests" -- "Tests That Predict Success or Failure in the School System From Which the Questions Have Been Derived" (letter, Nov. 12) -- mirrors the circular method that produced them. While Dr. Gardner appears to dismiss I.Q. tests as measures of intelligence, his criticism is merely semantic.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Richard A. Gardner's name for "intelligence tests" -- "Tests That Predict Success or Failure in the School System From Which the Questions Have Been Derived" (letter, Nov. 12) -- mirrors the circular method that produced them. While Dr. Gardner appears to dismiss I.Q. tests as measures of intelligence, his criticism is merely semantic.</p>
+        <p>Dr. Gardner traces the disproportionate lack of school success among African-American children to a parental lack of success in the "academic and professional realm," not to a society that also provided the parents with an unequal education.</p>
+        <p>His interpretation of school success and failure also features a bell-curve argument: "There is a bell-shaped distribution curve among children with regard to their capacity to process and store" information deemed important, "ranging from those whose brains are particularly weak to those whose brains are especially strong."</p>
+        <p>The children's places on the scoring curve, which correspond as a whole to their race and class, are not determined by racial and class differentials in brain strength, but by racial and class differentials in access to the formal knowledge called for by the tests.</p>
+        <p>As a result, the groups the children belong to are situated on the curve in a way that correlates with their respective places in the social order. To assure this correlation, the test makers drop items that do not contribute to the desired outcome.</p>
+        <p>Dr. Gardner says nothing about "The Bell Curve," the best seller by Richard J. Herrnstein and Charles Murray, but his own bell-curve argument provides yet another rationale for that book's dire social agenda.  ELAINE MENSH, HARRY MENSH  New York, Nov. 14  The writers are the authors of "The I.Q. Mythology: Class, Race, Gender and Inequality" (1992).</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

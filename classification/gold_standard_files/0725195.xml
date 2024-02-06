@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="75" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725195"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">VINING, DANIEL R JR</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07EED61F3EF930A25752C1A962958260" item-length="81" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne cites me as saying that American I.Q.'s have fallen about five points since 1900. If I said that, I was wrong. Average American I.Q.'s have, if anything, remained stable, if not grown, over that period. He goes on to cite the decline in S.A.T. scores between 1962 and 1990. But such a change cannot be hereditary. Hereditary changes occur across generations; the period 1962-90 is within a single generation.  DANIEL R. VINING JR.  Philadelphia</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Malcolm W. Browne cites me as saying that American I.Q.'s have fallen about five points since 1900. If I said that, I was wrong. Average American I.Q.'s have, if anything, remained stable, if not grown, over that period. He goes on to cite the decline in S.A.T. scores between 1962 and 1990. But such a change cannot be hereditary. Hereditary changes occur across generations; the period 1962-90 is within a single generation.  DANIEL R. VINING JR.  Philadelphia</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

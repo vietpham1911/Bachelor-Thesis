@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>His Goal: Making Intelligence Tests Smarter</title>
+    <meta content="03STER$02" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Education; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/04/03/health/03STER.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1282756"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="SCIENTIST AT WORK: ROBERT STERNBERG"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Intelligence</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <person class="indexing_service">Goode, Erica</person>
+        <person class="indexing_service">Sternberg, Robert J (Dr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Bangladesh</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Delaware</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Scientist at Work</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Bangladesh</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Michigan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Delaware</classifier>
+        <classifier class="online_producer" type="descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Colleges and Universities</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <location class="online_producer">Yale</location>
+        <location class="online_producer">Fresno</location>
+        <location class="online_producer">Michigan</location>
+        <location class="online_producer">Bangladesh</location>
+        <location class="online_producer">Delaware</location>
+        <location class="online_producer">Maplewood</location>
+        <org class="online_producer">National Science Foundation</org>
+        <org class="online_producer">Army Research Institute</org>
+        <org class="online_producer">core group</org>
+        <org class="online_producer">School of Business</org>
+        <org class="online_producer">core</org>
+        <org class="online_producer">Wesleyan University</org>
+        <person class="online_producer">Young, Robert</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010403T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05EFD9113FF930A35757C0A9679C8B63" item-length="1978" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>His Goal: Making Intelligence Tests Smarter</hl1>
+      </hedline>
+      <byline class="print_byline">By ERICA GOODE</byline>
+      <byline class="normalized_byline">Goode, Erica</byline>
+      <abstract>
+        <p>Profile of Dr Robert J Sternberg, professor of psychology at Yale and widely known expert on intelligence testing; his goal is to make such tests smarter (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Some people take their failures to heart. Dr. Robert J. Sternberg turns them into theories.</p>
+        <p>''I always seem to study the things I fail at,'' he said.</p>
+      </block>
+      <block class="full_text">
+        <p>Some people take their failures to heart. Dr. Robert J. Sternberg turns them into theories.</p>
+        <p>''I always seem to study the things I fail at,'' he said.</p>
+        <p>When his first marriage ended, for example, he set about developing a theory of love.</p>
+        <p>And when he was admitted to Yale as an undergraduate despite an unpleasant admissions interview (the interviewer noted in his file that he had ''a flaky personality''), he theorized that interviews were not important predictors of college admissions and carried out a study to prove it.</p>
+        <p>In fact, Dr. Sternberg, a professor of psychology at Yale, a prolific researcher, a widely known expert on intelligence testing and the progenitor of his own theory of ''successful'' intelligence, in some ways owes his entire career to an early failure: hobbled by test anxiety, he scored poorly on an I.Q. test when he was 6 years old, the beginning of a lifelong obsession with developing his own measures of mental abilities.</p>
+        <p>Yet as the director of a new research center on the Yale campus, the Center for the Psychology of Abilities, Competencies and Expertise, or PACE, Dr. Sternberg -- lanky, intense and prone to jokes about space aliens -- is more focused on success than failure: he hopes to change the way human potential is conceived of, identified and nurtured.</p>
+        <p>Supported by $7 million in grants from organizations like the National Science Foundation, the Army Research Institute and the W. T. Grant Foundation, the center, part of Yale's psychology department, is not the usual academic research institute: it has a mission, modestly stated as ''to transform science, education and society.''</p>
+        <p>''Our view is this country wastes a lot of talent,'' Dr. Sternberg said. ''There are a lot of kids who have potential to be successful in their fields, but the way the system is set up, they never get the chance.''</p>
+        <p>Working with a core group of about two dozen researchers from 10 countries, the center already has a variety of projects under way.</p>
+        <p>They include the testing of a novel curriculum, based on Dr. Sternberg's work, at the Sanger Academy, a charter school near Fresno, Calif.; a partnership with the University of Michigan School of Business to create a new test for screening future corporate leaders; and studies on topics as diverse as leadership in the military and the psychology of wisdom, a quality Dr. Sternberg, 51, believes can be understood and eventually taught.</p>
+        <p>Efforts to define and assess the nature of human intelligence are as old as psychology itself.</p>
+        <p>But underlying the center's philosophy is its director's conviction that there is a great deal wrong with the way society now selects and educates the best and the brightest.</p>
+        <p>Like some other scholars, for example, Dr. Sternberg is critical of I.Q. tests, SAT's, Graduate Record Exams and other conventional assessment measures that form the bedrock of American education but have been the subject of increasing debate in recent years.</p>
+        <p>While supporters of such tests argue that they they tap a general dimension of intelligence -- usually referred to as ''g'' -- and point to their power as predictors of future performance, Dr. Sternberg is among those who contend that the tests mainly measure the ability to succeed in a system that rewards the best test takers.</p>
+        <p>Conventional aptitude and achievement tests, he said, define intelligence narrowly and favor people who excel in certain types of mental abilities, mainly analytical thinking and memory skills. And the tests do, in fact, predict a variety of things, including school grades and performance on other similar tests.</p>
+        <p>But Dr. Sternberg argues that this is largely because those who get high scores on traditional tests receive ''red carpet'' treatment from early on: they are nurtured by secondary schoolteachers, accepted into prestigious colleges and then welcomed into good jobs or graduate schools once they get their degrees.</p>
+        <p>''It becomes a self-fulfilling prophecy,'' Dr. Sternberg said, fooling people into thinking that test performance is somehow ordained by God or nature as a marker of success, rather than simply reflecting society's chosen values.</p>
+        <p>More to the point, Dr. Sternberg adds, the gaps in a system that prizes conventional testing above all else are problematic. For one thing, some people who do well in school and on standardized tests founder later on in life, when a more well-rounded repertoire of skills is required.</p>
+        <p>For another, children whose strengths fall outside the ''fixed spotlight'' of the tests -- who are adept, for example, at creative or practical abilities like those Dr. Sternberg stresses in his own intelligence tests and educational materials -- are effectively locked out.</p>
+        <p>Schools make no effort to teach them in the ways they find easiest to learn. They quickly get the message that their skills are not valued, and start acting accordingly -- and ultimately, Dr. Sternberg says, society is deprived of their contributions.</p>
+        <p>Nor does the narrow view of skills promoted by the tests, Dr. Sternberg believes, take into account the fact that ''abilities are not something you're born with, that are etched in invisible ink on your forehead and cannot be changed.''</p>
+        <p>Rather, he contends, research has demonstrated that abilities are modifiable both in respect to level and kind.</p>
+        <p>''You can develop new kinds of abilities that you might not even have known you had,'' Dr. Sternberg said.</p>
+        <p>Like Dr. Howard Gardner, the author of ''Frames of Mind: The Theory of Multiple Intelligences,'' Dr. Sternberg believes that society must broaden its lens, integrating a wider array of abilities into its conception of aptitude and achievement.</p>
+        <p>But while Dr. Gardner has posited seven types of intelligence, including spatial, musical, ''interpersonal,'' and ''bodily-kinesthetic'' intelligence, Dr. Sternberg's own theory identifies a trio of mental abilities: analytical intelligence (the type measured by I.Q. tests), creative intelligence and practical intelligence.</p>
+        <p>All three types of abilities, he said, are often required to succeed in life.</p>
+        <p>''You need creative intelligence to come up with an idea, analytical intelligence to know if it's a good idea and practical intelligence to sell it,'' he said.</p>
+        <p>But people who have superior practical and creative skills often do not perform well on tests that reflect only analytical abilities, and thus are deprived of educational opportunities, Dr. Sternberg says. A disadvantaged teenager with strong leadership skills and ''street smarts'' well above average, for example, might perform poorly on the SAT. Or a ''creative learner,'' who excels at open-ended assignments -- Dr. Sternberg was such a student himself, he said -- might be flummoxed by multiple-choice tests or memory tasks, ruining the chances for admission to a top-flight college.</p>
+        <p>Adding measures that tap creative and practical faculties to standard test batteries, the psychologist argues, could benefit everyone in the long run, and may even eliminate the need for what he sees as more flat-footed methods of broadening admissions policies, like affirmative action.</p>
+        <p>And, Dr. Sternberg said, his research suggests that when teachers balance analytical exercises -- which often dominate class time -- with creative and practical tasks, students' overall performance improves.</p>
+        <p>His own approach, being tested in several schools in a number of states, is intended to provide such a balance. In a unit on Bangladesh, for example, students may be asked not only to memorize facts about its history, but also spend equal time on an essay about what it would be like to live there.</p>
+        <p>Dr. Sternberg is known for his fondness for anecdote, and his voluminous output of books (he has written or edited 60) and papers (several hundred are listed on his vita). His background in testing and statistics, several colleagues said, allows him to challenge the testing establishment on its own terms.</p>
+        <p>''There aren't many people who have his insight and his flair,'' Dr. Stephen J. Ceci, a professor of psychology at Cornell. ''He couples a high degree of creativity with all the core skills that unfortunately aren't always available to highly creative people: he has the right statistical abilities, good analytical abilities, great communication skills.''</p>
+        <p>But Dr. Sternberg, the author of ''Successful Intelligence: How Creative and Practical Intelligence Determine Success in Life'' and ''Love Is a Story: A New Theory of Relationships,'' also has his critics.</p>
+        <p>His views place him to the right of those who would throw out standardized tests altogether -- he wants to add, not subtract, and well to the left of I.Q. devotees like Dr. Richard J. Herrnstein and Dr. Charles Murray, authors of the 1994 book ''The Bell Curve.'' But some testing experts argue that Dr. Sternberg has yet to provide convincing evidence that the forms of intelligence he has identified are entirely distinct from what I.Q. tests measure.</p>
+        <p>''I think most traditional researchers would say, 'Sure, we have to broaden our conceptions and there's room to measure things beyond 'g,' '' said Dr. Nat Brody, a professor of psychology at Wesleyan University and an expert on intelligence testing. ''Bob is trying to seriously develop measures, collect data and try to get people to think in new ways. But I would say the jury is still out.''</p>
+        <p>Perhaps Dr. Sternberg's harshest critic is Dr. Linda Gottfredson, a sociologist at the University of Delaware and the author of a critique of Dr. Sternberg's work on practical intelligence, to appear later this year in the journal Intelligence. ''The bottom line for me is that he hasn't provided any good evidence to support his claim that there is a separate practical intelligence,'' Dr. Gottfredson said.</p>
+        <p>Dr. Sternberg, however, is rarely dispirited by such views. He is happy to spend hours rebutting them, and anyway, he has too much to do, a hundred projects to finish, another book to edit, another test to develop.</p>
+        <p>Not to mention the fact that he has always taken a kind of single-minded pleasure in systematically dismantling obstacles placed in his path..</p>
+        <p>In seventh grade, for example, he discovered a copy of the Stanford-Binet intelligence test in the adult section of the Maplewood, N.J., public library and decided to try it out on his classmates.</p>
+        <p>First he gave it to a girl he liked, hoping it would break the ice.</p>
+        <p>''She did very well on it,'' Dr. Sternberg recalled, ''but the relationship did not get off the ground.''</p>
+        <p>Then he gave it to a boy in his Scout troop. The boy, however, went home and told his mother, who called the school psychologist and complained. Young Robert was summoned to the principal's office and informed that if he ever brought the test to school again, it would be burned.</p>
+        <p>It was a devastating experience, Dr. Sternberg recalls. But it only made him more determined. He took to studying intelligence secretly, sending away for copies of tests by pretending to be a graduate student. By high school he was already something of an expert in the field.</p>
+        <p>And he did ''quite well,'' he confesses, on his own SAT's.</p>
+        <p>''There is an advantage to feeling like a failure a lot of the time,'' Dr. Sternberg said. ''It prevents you from getting too stuck.''</p>
+        <p>SCIENTIST AT WORK: ROBERT STERNBERG</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

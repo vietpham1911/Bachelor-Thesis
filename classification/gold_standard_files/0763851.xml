@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Get Smart</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="763851"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOKS AND LITERATURE</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <person class="indexing_service">BICKERTON, DEREK</person>
+        <person class="indexing_service">PERKINS, DAVID</person>
+        <object.title class="indexing_service">OUTSMARTING IQ (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEED9133BF932A15756C0A963958260" item-length="1327" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Get Smart</hl1>
+      </hedline>
+      <byline class="print_byline">By Derek Bickerton;</byline>
+      <byline class="normalized_byline">BICKERTON, DEREK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>OUTSMARTING IQ  The Emerging Science of Learnable Intelligence. By David Perkins. 390 pp. New York: The Free Press. $23.</p>
+      </block>
+      <block class="full_text">
+        <p>OUTSMARTING IQ  The Emerging Science of Learnable Intelligence. By David Perkins. 390 pp. New York: The Free Press. $23.</p>
+        <p>IN one corner, serious social scientists (alias racist reactionaries) who believe intelligence is mostly genetically determined and cannot be significantly modified. In the other corner, serious social scientists (alias wishy-washy liberals) who believe intelligence is influenced by culture and can be improved by education. Ding-ding! Time for yet another round in the Great I.Q. Slugfest that's been going on for decades, with both parties still gamely sparring, though showing signs of fatigue. The current contender, David Perkins, is a senior research associate at the Harvard Graduate School of Education. His "Outsmarting IQ," the latest in a series of books written or edited by him on the teaching of thinking, sets out to show that, in the author's own words, "intelligence can be taught."</p>
+        <p>The book starts with a long, somewhat discursive history of the field that pits H. H. Goddard, Charles Spearman -- of the g (for general intelligence) factor -- and other supporters of a monolithic, gene-bound intelligence against psychologists, from Raymond Cattell to Howard Gardner, who see intelligence as a mix of multiple factors. It's a story all too familiar to veterans of Psych 101. Firmly in the second camp, Mr. Perkins sees intelligence as consisting of three factors: neural intelligence (the genetic, g-producing factor), experiential intelligence (the expert's control over studied and practiced fields) and reflective intelligence. In the main part of the book he asks whether reflective intelligence -- never clearly defined, but apparently the capacity to use one's brain consciously and systematically, to make the most of one's g -- can be increased, and if so, how. He believes that training in reflective intelligence would, among other benefits, reduce the frequency with which supposedly intelligent people choose unintelligent solutions to their problems.</p>
+        <p>But the examples of dumb solutions that he gives mix categories as heterogeneous as simple errors of logic, misidentification of suspects by witnesses and political fiascoes, like George III's handling of the American Revolution. Often these blunders result from moral rather than intellectual weakness (smart minds blinded by greed, fear, pride or subservience to authority) and one may well wonder how reflective intelligence alone could prevent them. Mr. Perkins does sometimes look beyond the brain-on-a-stick view of human nature all too often found in I.Q. circles; some decisions, he says, should be "as much or more decisions of the heart as decisions of the mind," and some problems "occur more because our hearts are not in the right place than because our heads are not on straight." Alas, such insights remain undeveloped.</p>
+        <p>After such a buildup, readers may be expecting some effective antidotes to the genetic pessimism of Richard Herrnstein and Charles Murray's "Bell Curve." If so, they will be disappointed. Mr. Perkins describes several educational programs that specifically teach problem solving, decision making, organization, creativity and other aspects of reflective intelligence. Unfortunately, his assessments of these, lacking significance tests, double blinds or other accepted evaluation measures, are inconclusive: "No follow-up information is available"; "improvements in classroom behavior resulted but not in academic performance or on standardized tests"; "little information is available on whether . . . effects persist or are soon forgotten." Maybe intelligence can be taught -- but can it be learned?</p>
+        <p>On one intelligence-teaching project, in Venezuela, Mr. Perkins had as a colleague none other than Richard Herrnstein, the co-author of "The Bell Curve," so the two reached diametrically opposite answers to that question on the basis of identical data. Stranger still, Mr. Perkins seems unaware of the many studies showing that subjects perform better when placed in any special program and that teachers who expect their students to be more intelligent consistently find them so, even when students have been randomly selected. How much would be left of his claims if such factors were allowed for is anyone's guess.</p>
+        <p>Perhaps the most jarring effect of the whole book comes when, after 260 pages, Mr. Perkins states that experiential and reflective intelligence differ only in their subject matter: experiential intelligence deals with limited areas of expertise (chess, physics, horse racing), while reflective intelligence deals with thinking in general, regardless of topic. Both form special cases of what he calls "realm theory," which is simply "knowing your way around" any nontrivial area of knowledge. Why didn't he save pages of painstaking contrasts by telling us that in the beginning?</p>
+        <p>One wonders, too, about Mr. Perkins's criteria for choosing the best theory of intelligence: "constructing a parsimonious theory," "honoring what one most prizes about human intelligence" and "recognizing human potential in its full spectrum." Substitute "subatomic particles" for "human intelligence" or "canine potential" for "human potential" and see how these sound as desiderata for scientific inquiry. Why do humans deserve a kid-glove treatment that they themselves do not accord to anything else in nature?</p>
+        <p>But the basic flaw in "Outsmarting IQ" is one that afflicts the field in general. When Mr. Perkins states that "most people incline toward what is sometimes called solution-mindedness, trying to address the task at hand directly without much reflection on what the problem is," the uncharitable reader may well take this as descriptive of the author's own approach to the topic, as well as that of many other intelligence measurers. The problem is simply this: They are trying to measure something without knowing what it is.</p>
+        <p>This problem looms early in the book, when we learn that the number of factors in intelligence proposed by various scholars ranges from two to 150! However, for the past several decades, many researchers in cognitive science and artificial intelligence have been struggling to explain just what it is that makes us so smart. It is a pity that Mr. Perkins shows so little awareness of their work. He sees a "historical shift from a brain-centered view of intelligence to a mind-centered view" just when a growing consensus among philosophers and cognitive scientists treats the mind as simply the way the brain works. He assumes that believers in an innate genetic basis for intelligence inevitably uphold the theory of a single general intelligence, forgetting that among his own Cambridge neighbors is the unrepentantly modular nativist Jerry Fodor.</p>
+        <p>ABSENT a true understanding of intelligence, both sides in the I.Q. debate have to make do with laymen's notions of whatever underlies intelligent behavior -- that is, feats as disparate (according to Mr. Perkins) as success on the television quiz show "Jeopardy" and skill in maneuvering furniture up staircases. Given this lack of scientific understanding, it is hardly surprising that the debate has lasted so long and aroused so much unscientific passion. Its eventual demise is less likely to result from a victory of either party than from a growing knowledge of brain structures and functions that will make the positions of both parties irrelevant.</p>
+        <p>The final effect of "Outsmarting IQ" -- one its author probably didn't intend -- may be a feeling that the I.Q. debate would most benefit from a hundred-year moratorium. Genetic pessimists would cease harassing minorities and providing employment for journalists (think of the reams of perfervid prose, pro and con, generated by "The Bell Curve"). Educational optimists would stop raising expectations that they cannot, at least yet, hope to fulfill. A century from now we may finally be able to assess intelligence without fuzzy thinking.  Derek Bickerton's most recent book is "Language and Species." His next, "Language and Human Behavior," will be published later this year.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Derek Bickerton's most recent book is "Language and Species." His next, "Language and Human Behavior," will be published later this year.</tagline>
+    </body.end>
+  </body>
+</nitf>

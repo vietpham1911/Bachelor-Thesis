@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>You're Smart If You Know What Race You Are</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720111"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">RACE</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <person class="indexing_service">HOLMES, STEVEN A</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Race</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906EFD8163FF930A15753C1A962958260" item-length="870" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>You're Smart If You Know What Race You Are</hl1>
+      </hedline>
+      <byline class="print_byline">By STEVEN A. HOLMES</byline>
+      <byline class="normalized_byline">HOLMES, STEVEN A</byline>
+      <dateline>WASHINGTON</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS the conversation about race and racism swells to a cacophony of accusations, defenses and rationalizations, one question seems not to have been addressed: what do we mean by race, anyhow?</p>
+        <p>At first blush the answer seems self-evident. There are black people, and yellow people, and white people and red people, aren't there? Everyone knows that.</p>
+      </block>
+      <block class="full_text">
+        <p>AS the conversation about race and racism swells to a cacophony of accusations, defenses and rationalizations, one question seems not to have been addressed: what do we mean by race, anyhow?</p>
+        <p>At first blush the answer seems self-evident. There are black people, and yellow people, and white people and red people, aren't there? Everyone knows that.</p>
+        <p>But in recent years there is a surprising lack of agreement among scientists over the popular notions of what constitutes a racial group. And even in their book, "The Bell Curve," which suggests that differences in intelligence between races are a matter of inheritance, Richard J. Herrnstein and Charles Murray, duck the question. "The rule we follow here is a simple one," they write, "to classify people according to the way they classify themselves."</p>
+        <p>That might be a fine standard for measuring racial disparities in housing, income or employment. But when it's applied to biology, things get murky. Racial categories, especially in the United States, are often more poetry than science. American blacks almost invariably have some white ancestry, so their classification has more to do with politics and culture than with genes.  The Lani Guinier Problem</p>
+        <p>Take, for example, Lani Guinier, the University of Pennsylania Law School professor whose nomination to run the Justice Department's Civil Rights Division was withdrawn last year. She refers to herself as an African American, like her father. But she also notes that her mother is Jewish. Is she, for the purposes of empirically measuring inherited racial differences, a light-skinned black or a dark-skinned Jew?</p>
+        <p>In the Herrnstein-Murray methodology, a group is the sum of decisions by millions of individuals on where to place themselves. But that can change substantially with the political and social climate. The Census Bureau notes that the number of Native Americans rose by 72 percent from 1970 to 1980 and by 38 percent from 1980 to 1990. The jump is clearly more the result of heightened Indian pride than an impossibly large increase in Indian pregnancies.</p>
+        <p>The problem is giving second thoughts to the Federal Government. The Office of Management and the Budget is considering changing the racial classifications used on Federal forms, including the census. Any change, such as adding a category of "mixed race," could have many ramifications in areas like voting rights and allocation of Federal funds.</p>
+        <p>Those looking to science to help clarify the issue may have to search elsewhere. In a 1985 survey of physical and cultural anthropologists, 50 percent agreed that there is such a thing as race, biologically speaking, and 41 percent disagreed.</p>
+        <p>"That's a revolution," said Leonard Lieberman, a professor of sociology and anthropology at Central Michigan University, who conducted the study. "Here is a concept around which this discipline had its beginnings. But now there is no longer a consensus."</p>
+        <p>Few scientists doubt that there are genetic differences between groups, but many say any division of Homo sapiens into four or five discrete groups is arbitrary. Take skin color, the most commonly cited racial trait. Does it help science distinguish among the sub-Saharan Africans, the people of the southern India and the aboriginal people of Australia? All have dark skin. But the three are considered to be of different races.  Classification by Disease</p>
+        <p>Some of the other genetic similarities between peoples make for interesting groupings.</p>
+        <p>Jared Diamond, a professor of physiology at the U.C.L.A. School of Medicine, notes that only Eastern European Jews and French Canadians are genetically predisposed to Tay Sachs disease. Does that make them a racial group? Likewise, the gene that produces sickle cell anemia is relatively common among Africans, the people of the Arabian Peninsula and southern India. But it is rare among Northern Europeans and the Xhosa people of South Africa. Does that make Nelson Mandela and Bjorn Borg racial kin?</p>
+        <p>"We have information about far more similarities and differences among people based on traits other than skin color," Professor Diamond said. "But traditionally we have classified people by what we can actually see."</p>
+        <p>Anthropologists who defend the nation of race argue that while skin color may not be the best determinant, people who trace ancestry to the same geographic neighborhood and have similar inherited characteristics ought to be considered a single group.</p>
+        <p>"Races refer to geographically separated portions of species that are distinguishable by inherited characteristics," said Vincent Sarich, a professor of anthropology at the University of California at Berkeley. "That in no sense says that, therefore, all human variations need be explained racially."</p>
+        <p>It is hardly a wonder that some scientists feel the best way to approach the concept of race is not to.</p>
+        <p>"Historically, the word has been used in so many different ways that it's no longer useful in our science," Douglas Ubelaker, a physical anthropologist and a curator with the Smithsonian Institution's National Museum of Natural History, said recently in Discover magazine. "I choose not to define it at all. I leave the term alone."  THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

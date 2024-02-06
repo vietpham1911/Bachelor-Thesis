@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Debate on Race and I.Q. Recalls Past Prejudice</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720884"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE TESTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKS (IN US)</classifier>
+        <person class="indexing_service">HOLT, JIM</person>
+        <person class="indexing_service">MOSKOWITZ, BARRY P</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence Tests</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941026T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02E3DE123FF935A15753C1A962958260" item-length="262" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Debate on Race and I.Q. Recalls Past Prejudice</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>"Anti-Social Science?" (Op-Ed, Oct. 19), Jim Holt's consideration of the debate on race and I.Q. scores, is an important rebuttal to deceptive and dangerous efforts to stigmatize a large portion of our population.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>"Anti-Social Science?" (Op-Ed, Oct. 19), Jim Holt's consideration of the debate on race and I.Q. scores, is an important rebuttal to deceptive and dangerous efforts to stigmatize a large portion of our population.</p>
+        <p>It is generally accepted that genetics do influence personality and aptitudes. In the September issue of The Atlantic Monthly, "How We Become What We Are," by Winifred Gallagher, suggests that we are born with certain "dispositions" -- for example, introspection or extroversion. She stresses, however, that environment has been found to play an indisputable, sometimes overwhelming role in development.</p>
+        <p>In "The Bell Curve," Charles Murray himself admits that the right environment can raise I.Q. Can he not see then that a disadvantaged environment can eat away at a young person's ability to learn? In America, racism and class prejudice have subjected entire populations to disadvantaged environments. Rather than stigmatize them, Mr. Murray should call for sensible action.</p>
+        <p>Mr. Murray's warning about a permanent black and white underclass resembles the views of many at the turn of the century. In London, an influx of rural poor fed the growth of dense slums. Immigration did the same in America.</p>
+        <p>Observers at the time said that slum dwellers were inherently unable to become productive citizens. In New York, this supposedly uneducable riffraff was believed to include Eastern European Jewish immigrants -- whose descendants today, Mr. Murray says, enjoy high I.Q. scores. BARRY P. MOSKOWITZ  Bronx, Oct. 19, 1994</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.Q. Scores Are Up, and Psychologists Wonder Why</title>
+    <meta content="24INTE$04" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Science; Health; Books" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="997674"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Intelligence</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Blacks</classifier>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <person class="indexing_service">Flynn, James R (Prof)</person>
+        <person class="indexing_service">Murray, Charles</person>
+        <person class="indexing_service">Herrnstein, Richard J (1930-94)</person>
+        <person class="indexing_service">Jensen, Arthur (Dr)</person>
+        <person class="indexing_service">Hall, Trish</person>
+        <person class="indexing_service">Neisser, Ulrich (Dr)</person>
+        <object.title class="indexing_service">Rising Curve, The (Book)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Media, Entertainment and Publishing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blacks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980224T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E2D9173EF937A15751C0A96E958260" item-length="1681" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.Q. Scores Are Up, and Psychologists Wonder Why</hl1>
+      </hedline>
+      <byline class="print_byline">By TRISH HALL</byline>
+      <byline class="normalized_byline">Hall, Trish</byline>
+      <abstract>
+        <p>Some researchers who study intelligence say IQ scores around world have been increasing so fast that high proportion of people regarded as normal at turn of century would be considered way below average by today's tests; Dr Ulrich Neisser, professor at Cornell University and editor of The Rising Curve: Long-Term Gains in IQ and Related Measures, sees book as a rebuttal to The Bell Curve, 1994 book by Charles Murray and Richard J Herrnstein that linked IQ and income; worldwide pattern of rising scores in industrialized nations was discovered by James R Flynn, professor emeritus at University of Otago in New Zealand; he began looking into subject in 1980's in effort to rebut Dr Arthur Jensen, professor from University of California at Berkeley who argued that even if environments of blacks and whites were equalized, 15-point gap in IQ scores between races would only be partly eliminated; drawings (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IT is a favorite pastime of older people to lament the defects of the young. Every generation seems to be convinced that in its day, standards were higher, schools were tougher and kids were smarter.</p>
+        <p>But if I.Q. scores are any measure, and even their critics agree they measure something, people are getting smarter. Researchers who study intelligence say scores around the world have been increasing so fast that a high proportion of people regarded as normal at the turn of the century would be considered way below average by today's tests.</p>
+      </block>
+      <block class="full_text">
+        <p>IT is a favorite pastime of older people to lament the defects of the young. Every generation seems to be convinced that in its day, standards were higher, schools were tougher and kids were smarter.</p>
+        <p>But if I.Q. scores are any measure, and even their critics agree they measure something, people are getting smarter. Researchers who study intelligence say scores around the world have been increasing so fast that a high proportion of people regarded as normal at the turn of the century would be considered way below average by today's tests.</p>
+        <p>Psychologists offer a variety of possible explanations for the increase, including better nutrition, urbanization, more experience with test taking, and smaller families. Some even say that television and video games have made children's brains more agile.</p>
+        <p>But no explanation is without its critics, and no one can say with certainty what effects, if any, the change is having on how people lead their daily lives. It is all the more mysterious because it seems to be happening in the absence of a simultaneous increase in scores on achievement tests.</p>
+        <p>One explanation for the rise is ruled out: heredity. Because the increase has taken place in a relatively short period of time, it  cannot be due to genetic factors. In fact, some experts say, the changing tests scores show intelligence is much more flexible and more subject to environmental influences than anyone thought. ''Everyone is getting smarter in some way, and a lot smarter,'' said Dr. Ulrich Neisser, a psychology professor at Cornell University.</p>
+        <p>''We're living in a golden age,'' he said.  ''Look at all the technological advances, at a rate that it's impossible to grasp, even. We couldn't have done this with the intellectual skills people had in the 19th century.''</p>
+        <p>The worldwide pattern of rising scores in industrialized nations was discovered by Dr. James R. Flynn, originally from the United States and now a professor emeritus of political studies at the University of Otago in Dunedin, New Zealand. He began looking into the subject in the 1980's in an effort to rebut Dr. Arthur Jensen, the professor from the University of California at Berkeley who argued that even if the environments of blacks and whites were equalized, the 15-point gap in I.Q. scores between the races would only be partly eliminated.</p>
+        <p>As Dr. Flynn investigated, he found that I.Q. scores were going up almost everywhere he looked. ''Kids obviously are going in there with a skill that causes better performance,'' he said. ''What we've got to do is find the real-world analogue of test skills that are escalating.''</p>
+        <p>What these skills might be is unclear, especially given the fact that scores on the Scholastic Aptitude Test declined from the mid-1960's until the early 1980's. ''I expect it's some type of abstract problem solving skill,'' Dr. Flynn said.</p>
+        <p>Other researchers have confirmed Dr. Flynn's findings, and Dr.  Neisser, who ran a seminar on the phenomenon in 1996, is editing a book on the subject. The book, ''The Rising Curve: Long-Term Gains in I.Q. and Related Measures,'' is to be published this spring by the American Psychological Association.</p>
+        <p>Dr. Neisser sees his book as a rebuttal to the 1994 book by Charles Murray and Richard J. Herrnstein, ''The Bell Curve,'' which argued that there is a strong link between I.Q. and income, and consequently, class and upward mobility. It noted the increase in I.Q. scores, but it did not see the upward movement as inconsistent with its thesis.</p>
+        <p>In an interview, Mr. Murray said that despite the increase, a 15-point gap between blacks and whites on I.Q. tests remains.</p>
+        <p>Although the gap remains, Dr. Flynn, who in the early 1960's worked for the Congress of Racial Equality in Kentucky, said the movement in scores suggests that the gap need not be permanent. If blacks in 1995 had the same mean I.Q. that whites had in 1945, he said, it may be that the average black environment of 1995 was equivalent in quality to the average white environment of 1945. ''Is that really so implausible?''  Dr. Flynn asked.</p>
+        <p>Although I.Q. tests have been given for many decades, the steady rise in scores was not apparent because the tests are regularly adjusted, or re normed, so that half the people score below 100 and half score above, regardless of how many questions are answered correctly.</p>
+        <p>Dr. Flynn discovered the rise in test scores by studying results of tests that have been unchanged (and unpublished) over decades, such as those used by the military, and by examining studies of people who took two versions of a given I.Q. test, the current one, and a forthcoming replacement. Nearly always, people scored higher on the old test.</p>
+        <p>Most of his work was done on tests from urban, industrialized countries. While he said there are indications of similar gains on I.Q. in urban areas of less developed countries, such as Brazil and China, the data are not considered as good.</p>
+        <p>The largest gains were found on  Raven's Progressive Matrices,  which were first published in 1938 by John C. Raven and developed to measure abstract reasoning ability. By relying on shapes rather than words, the widely used tests are supposed to be impervious to the influence of culture and education.</p>
+        <p>On Raven's, he found that scores were growing an average of six points per decade in the industrialized countries. The rise is quite startling when applied to real people. For instance, someone in the late 19th century who scored in the 90th percentile on Raven's -- or higher than 90 percent of those who took the test -- would score at only the fifth percentile on today's test, Dr. Neisser said.</p>
+        <p>Dr. Flynn also studied other widely used intelligence tests, such as the Stanford-Binet and the various Wechsler Scales, such as the Wechsler Intelligence Scale for Children.  He looked at data from 73 studies with 7,500 subjects and found that between 1932 and 1978, whites in the United States gained 14 points on the various Wechsler and Binet tests.</p>
+        <p>If a representative sample of today's children took the Stanford-Binet test used in 1932, about a quarter of them would be defined as very superior, a rating usually accorded to fewer than 3 percent of the population, Dr. Neisser said.</p>
+        <p>Although the Stanford-Binet and Wechsler increases were smaller than those on Raven's, Dr. Flynn found that the jumps would have been similar if he had considered only the sections on Stanford-Binet and Wechsler measuring abstract reasoning skills, meant to assess pure intelligence, unaffected by education. The increases were far smaller or nonexistent for sections of the tests that reflected skills learned in school.</p>
+        <p>Dr. Wendy M. Williams, a professor in the department of human development at Cornell and one of the contributors to ''The Rising Curve,'' said that fluid intelligence, or the ability to know how to do something, is growing while crystallized intelligence, the possession of information, is decreasing. As a result, she said, children from the 1930's who would do badly on Raven's compared with today's students would probably far outperform the current crop on questions like ''What is the boiling point of water?''</p>
+        <p>Just as a number of factors may contribute to the lack of knowledge children have -- fewer classroom hours, less challenging textbooks -- a number, too, might contribute to  higher I.Q. scores. For instance, she said, children today encounter mazes and puzzles on the bags that come with fast food, on the place mats in restaurants, and on the backs of cereal boxes. These games appear in almost identical format on I.Q. tests.  Indeed, she said, a maze used on a place mat at the International House of Pancakes is identical to one used  on a Wechsler test.</p>
+        <p>The kinds of intelligence that are promoted and respected vary from time to time, said Dr. Patricia Greenfield, a psychology professor at the University of California at Los Angeles, who has contributed a chapter to ''The Rising Curve.'' Playing computer games like Tetris promotes very different skills from reading novels. ''People who think of people who read and write well as intelligent people would feel intelligence has gone down,'' she said. ''That's very common. It's nostalgia for old media and the forms of intelligence they develop.''</p>
+        <p>The new skills, she said, are manifested in the world. ''Flynn will tell you we don't have more Mozarts and Beethovens,'' Dr. Greenfield said. ''I say, look at the achievements of science, like DNA. The double helix is a very visual thing. Or look at all the technological developments of this century.</p>
+        <p>''Maybe in prior centuries they had more classical music composers, but there were fewer scientific breakthroughs. It's culture specific. The forms of intelligence are changing.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>I.Q. Tests Serve to Keep Us All in Our Places; Measuring Intelligence</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="726340"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">TESTS AND TESTING</classifier>
+        <person class="indexing_service">GARDNER, RICHARD A (DR)</person>
+        <person class="indexing_service">BAHN, CHARLES</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941119T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E0DE1131F93AA25752C1A962958260" item-length="284" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>I.Q. Tests Serve to Keep Us All in Our Places; Measuring Intelligence</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>"What Do I.Q. Tests Measure? Not Intelligence" by Richard A. Gardner (letter, Nov. 12) is such a collection of half-truths, distortions and inaccuracies that it takes a place toward the bottom among the heated attacks made against the book "The Bell Curve," by Richard J. Herrnstein and Charles Murray.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>"What Do I.Q. Tests Measure? Not Intelligence" by Richard A. Gardner (letter, Nov. 12) is such a collection of half-truths, distortions and inaccuracies that it takes a place toward the bottom among the heated attacks made against the book "The Bell Curve," by Richard J. Herrnstein and Charles Murray.</p>
+        <p>I.Q. tests do measure intelligence, but intelligence manifests itself in so many varied ways that no simple test claims or tries to measure them all. But those that are measured are not simply "what teachers are teaching." For example, on the Stanford-Binet test, one task is to listen to a set of instructions, remember them and carry them out.</p>
+        <p>Dr. Gardner lumps David Wechsler's adult intelligence test with those designed for children, omitting to point out that Wechsler went to great lengths to insure that all items on his test would not be influenced by educational background, but known even to illiterate adults.</p>
+        <p>On the Wechsler test, I have yet to see or hear of any person who was at the very top or the very bottom of the scale on all 11 subtests, each of which measures a different component or manifestation of intelligence.</p>
+        <p>Why then, have the psychological arguments in "The Bell Curve" stimulated such emotional responses? The problem, it seems, is mixing psychological and political science together to draw hasty and potentially hurtful conclusions. This is true on both sides.</p>
+        <p>Let's refrain from denying that there is such a thing as intelligence or that study and research in this area is evil. CHARLES BAHN  New York, Nov. 14, 1994 The writer retired as a professor of forensic psychology at the John Jay College of Criminal Justice.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

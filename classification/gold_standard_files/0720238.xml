@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Journal; The Sell Curve</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720238"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">SOCIAL CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">RICH, FRANK</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Social Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFDB173FF930A15753C1A962958260" item-length="716" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Journal; The Sell Curve</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>What if you yell "Fire!" in a crowded theater when the sprinkler system is already on?</p>
+        <p>This may be the only real philosophical question raised by "The Bell Curve," the book by Charles Murray and the late Richard Herrnstein that has monopolized magazine covers and inflamed pundits for two weeks.</p>
+      </block>
+      <block class="full_text">
+        <p>What if you yell "Fire!" in a crowded theater when the sprinkler system is already on?</p>
+        <p>This may be the only real philosophical question raised by "The Bell Curve," the book by Charles Murray and the late Richard Herrnstein that has monopolized magazine covers and inflamed pundits for two weeks.</p>
+        <p>Supposedly "The Bell Curve" is controversy incarnate. By offering an alarmist interpretation of the fact that blacks as a group score 15 points lower than whites in I.Q. tests, the book's authors are, in their words, bravely tackling "a taboo issue" or, as their critics have it, recklessly fanning the flames of racial division in a nation already at the brink.</p>
+        <p>But isn't it also possible that a publisher is simply hawking a book?  The incendiary "science" in "The Bell Curve" is not new; its policy prescriptions are conservative boilerplate. Had the authors compared the I.Q. scores of men and women, that might have been a cry of "Fire!" in a societal tinderbox. As "The Bell Curve" stands, however, Mr. Murray and Mr. Herrnstein might be more accurately charged with rehashing the work of others (and sometimes their own) for financial and political profit.</p>
+        <p>One of those others is William Shockley, a memorable nut who argued a quarter-century ago in favor of sterilizing those with low I.Q.'s.  Shockley receives only one guarded paragraph in the 845 pages of "The Bell Curve." Yet his old pronouncements are everywhere.</p>
+        <p>Shockley attributed the lower income and higher crime rates of blacks to the same 15-point I.Q. test differential. He concluded that "a major cause of American Negroes' intellectual and social deficit is hereditary and racially genetic" and "not remediable to a major degree by practical improvement in environment." He bemoaned welfare for encouraging the procreation of the population's "least effective elements," black and white.</p>
+        <p>The more elegantly written "Bell Curve" has the same drift. Shockley bequeathed its authors their self-congratulatory tone as well: He boasted about raising "questions that are usually swept under the rug" as they do about breaking taboos. Mr. Murray and Mr. Herrnstein also emulate Shockley by asserting expertise in academic disciplines (like genetics) outside their own and by protesting too much against those who might accuse them of making a fetish of race.</p>
+        <p>Since the "Bell Curve" authors cannot add to the science and pseudo-science they selectively cull from their primary sources, they update Shockley's politics for the 1990's (affirmative action should be abolished along with welfare) and tack on apocalyptic predictions of the sort found in best sellers heralding the next economic crash. "The Bell Curve" imagines a polarized, totalitarian Futureworld where the I.Q. elite will confine the dumb poor to a high-tech "Indian reservation." And how could this be prevented? Rather than provide answers requiring original thought, the authors fade off into a nostalgic paean to old-fashioned, self-governing neighborhoods.</p>
+        <p>Anyone looking for fresh, specific ideas about overhauling welfare -- and who isn't? -- will not find them in "The Bell Curve." Instead there is padding: enough equivocating disclaimers for another "Hamlet," and a mother lode of graphs designed to lend the book an air of unimpeachable authority, much as all those radar maps impart meteorological gravity to Willard Scott.</p>
+        <p>Even the authors concede their bell curves can be ignored. Lest they lose a single low-I.Q. customer, they announce in a revealingly caste-obsessed preface that their book is "only about 30 pages long" if read "at the simplest level," since there are italicized Cliffs Notes throughout. The graph-packed main text is "accessible to anyone who enjoys reading, for example, the science section of the news magazines," but the appendices that follow are suitable for only the very smartest -- no doubt the Asians who perform highest on I.Q. tests.</p>
+        <p>Such clever merchandising may make "The Bell Curve" the best-selling unread book since the last novel by Umberto Eco. Then again, Mr. Murray and Mr. Herrnstein may have outsmarted themselves. A book that blames low I.Q.'s for what ails America may have tough sledding in a culture where even conservatives have been rushing to deify the 75 I.Q. of Forrest Gump.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

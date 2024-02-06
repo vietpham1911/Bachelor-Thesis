@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>We Think, Therefore We Must Rethink</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="720106"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="THE NATION"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">INTELLIGENCE</classifier>
+        <classifier class="indexing_service" type="descriptor">GENETICS AND HEREDITY</classifier>
+        <person class="indexing_service">LANDMAN, JONATHAN</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Genetics and Heredity</classifier>
+        <classifier class="online_producer" type="general_descriptor">Intelligence</classifier>
+        <classifier class="online_producer" type="general_descriptor">Genetics and Heredity</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941023T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0D8163FF930A15753C1A962958260" item-length="344" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>We Think, Therefore We Must Rethink</hl1>
+      </hedline>
+      <byline class="print_byline">By JONATHAN LANDMAN</byline>
+      <byline class="normalized_byline">LANDMAN, JONATHAN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>PITY the poor social scientist. On Monday he is criticized for lack of scientific rigor. On Tuesday the problem is too much science -- a "scientism" based on crude imitation of the real thing.</p>
+        <p>Some of the social sciences -- economics, for example, and demography -- have adapted the quantitative methods of the natural sciences with much-admired results. Others struggle with the nature of their inquiry. Is political science a science? An art? Or just politics?</p>
+        <p>Enter the social scientist Charles Murray and the psychologist Richard J. Herrnstein and their scramble through the thickets of psychometrics, the century-old science of human intelligence. Their new book, "The Bell Curve: Intelligence and Class Structure in American Life" (The Free Press), with its argument that intelligence is inherited, largely immutable and distributed unequally among ethnic groups, has loosed the predictably furious debate: Are I.Q. tests, upon which the authors rely heavily, accurate measures of brain power? Is the nature-nurture problem really largely irrelevant? Has science shown that black Americans, with a few exceptions, have little choice but to accept permanent second-class status (ameliorated, the authors suggest in a separate essay in The New Republic, by a pride of "clan")?</p>
+      </block>
+      <block class="full_text">
+        <p>PITY the poor social scientist. On Monday he is criticized for lack of scientific rigor. On Tuesday the problem is too much science -- a "scientism" based on crude imitation of the real thing.</p>
+        <p>Some of the social sciences -- economics, for example, and demography -- have adapted the quantitative methods of the natural sciences with much-admired results. Others struggle with the nature of their inquiry. Is political science a science? An art? Or just politics?</p>
+        <p>Enter the social scientist Charles Murray and the psychologist Richard J. Herrnstein and their scramble through the thickets of psychometrics, the century-old science of human intelligence. Their new book, "The Bell Curve: Intelligence and Class Structure in American Life" (The Free Press), with its argument that intelligence is inherited, largely immutable and distributed unequally among ethnic groups, has loosed the predictably furious debate: Are I.Q. tests, upon which the authors rely heavily, accurate measures of brain power? Is the nature-nurture problem really largely irrelevant? Has science shown that black Americans, with a few exceptions, have little choice but to accept permanent second-class status (ameliorated, the authors suggest in a separate essay in The New Republic, by a pride of "clan")?</p>
+        <p>Social science looks at these kinds of questions its own way, with standard deviations, correlation coefficients and logistic regressions. But natural science has a completely different approach.</p>
+        <p>When neurobiologists ask, "What is intelligence?" they look not to tests but to the brain itself: the tangle of neurons with the curious ability to think. And before the anthropologists sort out the relationship between intelligence and race, they find themselves asking whether race is even a useful idea. What is most striking about both issues is how little science really knows. Which raises another question: if intelligence is a scientific enigma and race a cipher, where does that leave the deeper mystery of the place where the two intersect? JONATHAN LANDMAN  THE NATION</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

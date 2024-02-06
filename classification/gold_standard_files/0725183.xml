@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725183"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">CARROLL, JOSEPH</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05EFD61F3EF930A25752C1A962958260" item-length="278" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>In response to Malcolm W. Browne's review of books on race and I.Q., Will Pflaum has written a letter to The Times Book Review that was also distributed on the E-mail network of the Human Behavior and Evolution Society, a discussion group composed mainly of evolutionary scientists. Mr. Pflaum repudiates racial groupings as they appear in "Race, Evolution, and Behavior" and "The Bell Curve," and also demands a fully worked-out theoretical rationale for racial differences before we even begin to consider the empirical evidence.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>In response to Malcolm W. Browne's review of books on race and I.Q., Will Pflaum has written a letter to The Times Book Review that was also distributed on the E-mail network of the Human Behavior and Evolution Society, a discussion group composed mainly of evolutionary scientists. Mr. Pflaum repudiates racial groupings as they appear in "Race, Evolution, and Behavior" and "The Bell Curve," and also demands a fully worked-out theoretical rationale for racial differences before we even begin to consider the empirical evidence.</p>
+        <p>The repudiation of racial groupings simply ignores well-established, interlocking forms of physiological, anatomical and genetic evidence for these groupings. The demand for an evolutionary rationale overlooks the fact that J. Philippe Rushton offers a strong causal, evolutionary hypothesis. Whether ultimately right or wrong, his hypothesis is a starting point for further research. Richard J. Herrnstein and Charles Murray offer very little in the way of a causal theory; they're just organizing empirical information. But to repudiate all empirical information unless it already fits within a fully established causal theory -- as Mr. Pflaum demands -- is wholly arbitrary. Such ad hoc methodological restrictions are merely strategies of obfuscation and intellectual obstruction disguising themselves as scientific rigor. This kind of thing is, of course, nothing new. What is new, and worthy of some quiet celebration, is that objective scientific studies like those reviewed in the Book Review could get a fair, thoughtful and reasonable hearing in a major public forum. JOSEPH CARROLL  St. Louis</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="75" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725194"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">GROBSTEIN, PAUL</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04EED61F3EF930A25752C1A962958260" item-length="245" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I come from Ashkenazi Jewish stock and, not surprisingly, do better than most people on standardized tests. Also not surprisingly (I suspect), I do less well than many people at, among other things, giving parties, playing basketball and making money. Finally, I am a biology professor in a prestigious college. Like most of my colleagues, I am increasingly encountering "learning disabled" students in my classrooms. I have also spent time teaching in urban precollege settings. Several weeks ago, I taught some classes in a Chapter 1 middle school, Chapter 1 being the designation of a school for children who score substantially less well than most on standardized exams.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I come from Ashkenazi Jewish stock and, not surprisingly, do better than most people on standardized tests. Also not surprisingly (I suspect), I do less well than many people at, among other things, giving parties, playing basketball and making money. Finally, I am a biology professor in a prestigious college. Like most of my colleagues, I am increasingly encountering "learning disabled" students in my classrooms. I have also spent time teaching in urban precollege settings. Several weeks ago, I taught some classes in a Chapter 1 middle school, Chapter 1 being the designation of a school for children who score substantially less well than most on standardized exams.</p>
+        <p>What most impressed me about the middle-school experience was that I would not have known the students were a preselected population had I not been told so. The students were curious, interactive, attentive and critical (as well as indifferent and hostile) in the same ways as any other class of students I teach. And judging from letters I later received from the class, they took (and failed to take) things of use to them from the class in the same ways as well. In short, if the students were less good at something than most students, the only educationally relevant thing they were less good at, so far as I could tell, was the one that put them in the class in the first place: they don't perform well on standardized tests. PAUL GROBSTEIN  Gulph Mills, Pa.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The best, the brightest and 'The Bell Curve.'</title>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="75" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Arts; Books; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="725197"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">BOOK REVIEWS</classifier>
+        <person class="indexing_service">CHIDEYA, FARAI</person>
+        <person class="indexing_service">BROWNE, MALCOLM W</person>
+        <person class="indexing_service">HERRNSTEIN, RICHARD J</person>
+        <person class="indexing_service">MURRAY, CHARLES</person>
+        <person class="indexing_service">RUSHTON, J PHILIPPE</person>
+        <person class="indexing_service">ITZKOFF, SEYMOUR W</person>
+        <object.title class="indexing_service">BELL CURVE, THE (BOOK)</object.title>
+        <object.title class="indexing_service">RACE, EVOLUTION, AND BEHAVIOR (BOOK)</object.title>
+        <object.title class="indexing_service">DECLINE OF INTELLIGENCE IN AMERICA, THE (BOOK)</object.title>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B01EED61F3EF930A25752C1A962958260" item-length="305" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The best, the brightest and 'The Bell Curve.'</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>America shows no signs of ignoring "The Bell Curve" and the questions it raises. The most ignoble reason is that its theories confirm what Americans already believe: that African-Americans are less intelligent than Americans of other races. A 1990 study by the National Opinion Research Center found that the majority of whites still believe blacks to be inferior. Among the answers: 53 percent of nonblack respondents said they thought blacks were less intelligent than whites, 51 percent agreed blacks were less patriotic, 62 percent thought blacks were lazier, and 78 percent said that blacks "prefer to live off welfare." To a lesser degree, Hispanic people and Southern whites were pegged with the same stereotypes.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>America shows no signs of ignoring "The Bell Curve" and the questions it raises. The most ignoble reason is that its theories confirm what Americans already believe: that African-Americans are less intelligent than Americans of other races. A 1990 study by the National Opinion Research Center found that the majority of whites still believe blacks to be inferior. Among the answers: 53 percent of nonblack respondents said they thought blacks were less intelligent than whites, 51 percent agreed blacks were less patriotic, 62 percent thought blacks were lazier, and 78 percent said that blacks "prefer to live off welfare." To a lesser degree, Hispanic people and Southern whites were pegged with the same stereotypes.</p>
+        <p>The debate intensified by the publication of "The Bell Curve" is about more than intelligence, achievement and race. It's about who and what is American, whom we choose to cherish and whom we discard. The most important campaign issue this season was immigration and how America's changing racial and ethnic composition affects the core values of our country. Proposition 187 in California was designed, among other things, to bar public schools from teaching illegal immigrants and to prevent hospitals from providing them with nonemergency medical care. Many of those who led the charge for Proposition 187 argued that the greatest danger of unchecked immigration is not to the economy, but to American culture itself.</p>
+        <p>If the 90's have shown us anything, it is that human capital is now more than ever the most important capital that America has. For us simply to shrug our shoulders at a bifurcating society is not enough. We must recognize the trends of division, and have the political and moral courage to chart a new path away from the past. FARAI CHIDEYA  New York</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
