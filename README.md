@@ -18,8 +18,8 @@ The project involved:
 
 ## Final Goal
 
-The ultimate aim was to broaden the application of this document classification system to encompass a variety of public ideas. This extension sought to provide a deeper understanding of the progression of social science ideas in the public domain. Additionally, it aimed to aid social scientists in retrieving and updating their analysis of how these ideas were represented and evolved in newspaper articles.
+The goal was to get a deeper understanding of the progression of social science ideas in the news. Additionally, it aimed to aid social scientists by automatically retrieving and updating their analysis of how these ideas were represented and evolved in newspaper articles.
 
 ## Contributions
 
-This thesis contributed to the field by providing a novel approach to understanding the dissemination and evolution of social science ideas in the media. The use of NLP and machine learning offered a groundbreaking method for large-scale, efficient analysis.
+This thesis contributed to the field by providing a novel approach to understanding the dissemination and evolution of social science ideas in the media. The use of NLP and machine learning offered a method for large-scale, efficient analysis.
